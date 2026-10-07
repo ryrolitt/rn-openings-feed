@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T20:10:57Z",
+ "generated_at": "2026-10-07T20:11:31Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -15112,7 +15112,7 @@
   {
    "id": "tracked:2026-stanford-contingent-research-nurse",
    "employer": "Stanford School of Medicine",
-   "title": "Contingent Research Nurse - RN + research (PMHNP-serving)",
+   "title": "Contingent Research Nurse - RN + research",
    "location": "",
    "url": "https://careers.stanford.edu",
    "source": "tracked",
@@ -15366,34 +15366,6 @@
    "required_docs": [
     "cover_letter",
     "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2027-ucsf-pmhnp-bsn-dnp",
-   "employer": "UCSF School of Nursing",
-   "title": "BSN Entry to DNP, PMHNP specialty, fall 2027 entry (NORTH STAR; 2nd attempt, first was rejected 4/2/2026 without interview)",
-   "location": "",
-   "url": "https://nursing.ucsf.edu/programs/doctoral-programs/bsn-entry-dnp-advanced-nursing-focus/bsn-entry-dnp-process-and-deadlines",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2027-02-14T23:59:00-08:00",
-   "close_source": "PORTAL, Application Instructions page of his gradapp application (Slate, id f1a3a46a), read 2026-09-21 in Roki Chrome, verbatim: 'All application materials must be received by the deadline of Sunday, February 14, 2027 11:59 PM Pacific Time.' Boundary verified, so close_at is Feb 14 23:59 PT (recorded in Applications/2027-UCSF-PMHNP-BSN-DNP/INTAKE.md, portal walk table). Process and Deadlines page (re-read 2026-09-29): 'Application deadline for 2027 admissions Feb. 14, 2027'; FAQs page (re-read 2026-09-29; the sentence is no longer on the Process page): 'Specialties may close admissions before the final application deadline if all seats have been filled' -> the real target is end of October 2026; the Feb date is the wall, not the plan.",
-   "date_verified_at": "2026-09-21",
-   "license_by": null,
-   "required_docs": [
-    "goal statement (Ryan writes it himself; UCSF prohibits AI, hard rule)",
-    "resume/CV 2-5 pages PDF per UCSF spec",
-    "transcripts (all institutions, INCLUDING current enrollments: Bushnell must be disclosed)",
-    "LOR x4 for PMHNP: employer/supervisor (pref APRN in psych), faculty, professional, + 4th: clinical-practice recommender if he has clinical experience, else one who knows his health-related work or volunteer experience [corrected 2026-09-21 from the requirements page]",
-    "CA RN license (have: 95469682)"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
