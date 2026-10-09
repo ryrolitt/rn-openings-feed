@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T02:45:44Z",
+ "generated_at": "2026-10-09T05:48:24Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1360,7 +1360,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-09T02:45:43Z",
+   "window_checked_at": "2026-10-09T05:48:23Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -1372,28 +1372,6 @@
     "deadline_verbatim": "",
     "checked_at": "2026-10-07T14:35:19Z"
    }
-  },
-  {
-   "id": "tracked:2026-adventist-vallejo-psych-admissions-rn-72345",
-   "employer": "Adventist Health Vallejo (freestanding 61-bed psychiatric hospital)",
-   "title": "RN, Admissions, Evening Shift, Full-time (req 72345, posted 10/5)",
-   "location": "Vallejo, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72345",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-06T15:43:49.456729+00:00",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the employer's Oracle posting (rolling), read 2026-10-06",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
   },
   {
    "id": "find:mon:b260c605687f1f6cd054",
@@ -1479,6 +1457,19 @@
    "title": "RN, Night Shift, Part-time",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72891",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-10-06T14:30:42Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:72345",
+   "employer": "Adventist Health",
+   "title": "RN, Admissions, Evening Shift, Full-time",
+   "location": "Vallejo, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72345",
    "source": "adventist",
    "kind": "posting",
    "found_at": "2026-10-06T14:30:42Z",
@@ -9885,7 +9876,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-09T02:45:44Z",
+   "window_checked_at": "2026-10-09T05:48:24Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11582,7 +11573,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null,
@@ -11983,7 +11974,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-09T02:45:40Z"
+   "window_checked_at": "2026-10-09T05:48:19Z"
   },
   {
    "id": "tracked:2027-spring-northbay-newgrad",
@@ -12005,7 +11996,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-09T02:45:44Z"
+   "window_checked_at": "2026-10-09T05:48:23Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -12598,7 +12589,7 @@
     "resume",
     "cover_letter"
    ],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -14607,7 +14598,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T02:45:38Z"
+   "window_checked_at": "2026-10-09T05:48:16Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -14747,7 +14738,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T02:45:39Z"
+   "window_checked_at": "2026-10-09T05:48:16Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -15195,7 +15186,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-09T02:45:39Z"
+   "window_checked_at": "2026-10-09T05:48:17Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -15411,7 +15402,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T02:45:40Z"
+   "window_checked_at": "2026-10-09T05:48:18Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -15452,7 +15443,7 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -15474,7 +15465,7 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -15496,7 +15487,7 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -15521,7 +15512,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-09T02:45:40Z"
+   "window_checked_at": "2026-10-09T05:48:18Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -15809,7 +15800,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T02:45:41Z"
+   "window_checked_at": "2026-10-09T05:48:20Z"
   },
   {
    "id": "tracked:2026-10-sequoia-commonspirit-nnrp",
@@ -15831,7 +15822,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-09T02:45:42Z"
+   "window_checked_at": "2026-10-09T05:48:21Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
