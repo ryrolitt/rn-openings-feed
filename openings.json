@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T15:59:35Z",
+ "generated_at": "2026-10-09T18:02:46Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -2147,7 +2147,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-09T14:57:47Z",
+   "window_checked_at": "2026-10-09T18:02:45Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -12756,7 +12756,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-09T14:57:47Z"
+   "window_checked_at": "2026-10-09T18:02:45Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -15358,7 +15358,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T14:57:42Z"
+   "window_checked_at": "2026-10-09T18:02:41Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -15498,7 +15498,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T14:57:42Z"
+   "window_checked_at": "2026-10-09T18:02:41Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -15946,7 +15946,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-09T14:57:42Z"
+   "window_checked_at": "2026-10-09T18:02:42Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -16162,7 +16162,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T14:57:43Z"
+   "window_checked_at": "2026-10-09T18:02:42Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -16272,7 +16272,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-09T14:57:43Z"
+   "window_checked_at": "2026-10-09T18:02:42Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -16560,7 +16560,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-09T14:57:45Z"
+   "window_checked_at": "2026-10-09T18:02:43Z"
   },
   {
    "id": "tracked:2026-10-sequoia-commonspirit-nnrp",
@@ -16582,7 +16582,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-09T14:57:45Z"
+   "window_checked_at": "2026-10-09T18:02:44Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
