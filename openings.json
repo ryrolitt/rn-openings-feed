@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T18:02:46Z",
+ "generated_at": "2026-10-09T19:03:55Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -68,39 +68,6 @@
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-stanford-allergy-clinic-rn-emeryville-r2660300",
-   "employer": "Stanford Health Care (Allergy Clinic, Emeryville)",
-   "title": "CLINICAL NURSE II - Allergy Clinic - FT (8 hour) Days, R2660300",
-   "location": "EMERYVILLE, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660300",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-09T15:42:14.155991+00:00",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the Stanford posting (rolling)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full-time",
-    "work_city": "Emeryville",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-09T14:33:23Z"
-   }
   },
   {
    "id": "find:mon:6dbf1f6552784f38e29f",
@@ -537,6 +504,30 @@
    }
   },
   {
+   "id": "find:R2660300",
+   "employer": "stanford_health",
+   "title": "CLINICAL NURSE II- Allergy Clinic- FT (8 hour) Days",
+   "location": "EMERYVILLE, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660300",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-09T14:30:23Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Emeryville",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-09T14:33:23Z"
+   }
+  },
+  {
    "id": "find:101719127920",
    "employer": "kaiser",
    "title": "Licensed Voc Nurse I.V. Cert",
@@ -777,7 +768,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-09T15:46:35Z",
+   "window_checked_at": "2026-10-09T19:03:54Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10663,7 +10654,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-09T15:46:35Z",
+   "window_checked_at": "2026-10-09T19:03:55Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
