@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T05:48:24Z",
+ "generated_at": "2026-10-09T06:49:29Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -16015,31 +16015,6 @@
    "required_docs": [
     "cover_letter",
     "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-connections-sf-reset-center-rn",
-   "employer": "Connections Health Solutions (RESET Center, SoMa, San Francisco)",
-   "title": "Registered Nurse (RN) (Part Time, 3p-11p), Greenhouse job 4417120009 (req 1132)",
-   "location": "",
-   "url": "https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4417120009",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling direct hire; no close date on the employer's Greenhouse posting (read 2026-09-24)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
