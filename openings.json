@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-10T15:27:28Z",
+ "generated_at": "2026-10-10T16:28:48Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -294,6 +294,28 @@
    }
   },
   {
+   "id": "tracked:2026-va-sf-clc-rn-888381100",
+   "employer": "San Francisco VA Health Care System",
+   "title": "CLC Registered Nurse, Community Living Center (CBSW-13086084-27-AR, 1 vacancy, FT days)",
+   "location": "",
+   "url": "https://www.usajobs.gov/job/888381100",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:05+00:00",
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": "2026-10-12T20:59:00-07:00",
+   "close_source": "Verified on the employer page text: usajobs.gov/job/888381100 read 2026-10-10, verbatim: 'must be submitted by 11:59 PM (ET) on 10/12/2026 to receive consideration.' (= 8:59 PM PT). CEILING ONLY: same page, 'This job will close when we have received 25 applications which may be sooner than the closing date.'",
+   "date_verified_at": "2026-10-10",
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
    "id": "tracked:2026-va-palo-alto-intermediate-icu-rn-888321100",
    "employer": "VA Palo Alto Health Care System",
    "title": "RN - Intermediate Intensive Care Unit (CBSW-13085429-27-LK, 1 vacancy, FT)",
@@ -307,7 +329,7 @@
    "tracked": true,
    "close_at": "2026-10-19T20:59:00-07:00",
    "close_source": "Verified on the employer page text: usajobs.gov/job/888321100 read 2026-10-09, verbatim: 'The complete application package must be submitted by 11:59 PM (ET) on 10/19/2026 to receive consideration.' (= 8:59 PM PT). CEILING ONLY: same page, 'This job will close when we have received 50 applications which may be sooner than the closing date.'",
-   "date_verified_at": null,
+   "date_verified_at": "2026-10-10",
    "license_by": null,
    "required_docs": [],
    "last_seen_live": true,
@@ -1069,7 +1091,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-10T13:24:59Z",
+   "window_checked_at": "2026-10-10T16:28:47Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10955,7 +10977,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-10T13:24:59Z",
+   "window_checked_at": "2026-10-10T16:28:47Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11257,42 +11279,6 @@
    }
   },
   {
-   "id": "tracked:2026-auto-john-muir-rn-bhc-psychiatric-services-inpatient-per-diem-8-h-r0017829",
-   "employer": "John Muir Health (Behavioral Health Center, Concord)",
-   "title": "RN - BHC Adult Psychiatric Services - Per Diem - 8 Hour - Variable (Concord), JR0017892",
-   "location": "Concord",
-   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---BHC-Adult-Psychiatric-Services---Per-Diem---8-Hour---Variable_JR0017892",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-09-29T14:30:19Z",
-   "bh_tag": true,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": "2026-09-29",
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": false,
-    "experience_years_required": 0,
-    "experience_quote": "Nursing - Psychiatry - Required",
-    "behavioral_health": true,
-    "employment_type": "per diem",
-    "work_city": "Concord",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-09-29T14:32:46Z"
-   }
-  },
-  {
    "id": "tracked:2026-john-muir-bhc-psych-inpatient-ft-nights-jr0017893",
    "employer": "John Muir Health (Behavioral Health Center, Concord)",
    "title": "RN - BHC Adult Psychiatric Services - Inpatient - Full Time - 8 Hour - Nights (Concord), JR0017893",
@@ -11326,6 +11312,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-09-29T14:32:50Z"
+   }
+  },
+  {
+   "id": "find:JR0017892",
+   "employer": "john_muir",
+   "title": "RN - BHC Adult Psychiatric Services - Per Diem - 8 Hour - Variable",
+   "location": "Concord",
+   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---BHC-Adult-Psychiatric-Services---Per-Diem---8-Hour---Variable_JR0017892",
+   "source": "john_muir",
+   "kind": "posting",
+   "found_at": "2026-09-29T14:30:19Z",
+   "bh_tag": true,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Nursing - Psychiatry - Required",
+    "behavioral_health": true,
+    "employment_type": "per diem",
+    "work_city": "Concord",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-09-29T14:32:46Z"
    }
   },
   {
