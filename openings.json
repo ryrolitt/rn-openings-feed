@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-10T03:13:45Z",
+ "generated_at": "2026-10-10T04:14:48Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -768,7 +768,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-10T01:11:30Z",
+   "window_checked_at": "2026-10-10T04:14:48Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10654,7 +10654,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-10T01:11:31Z",
+   "window_checked_at": "2026-10-10T04:14:48Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
