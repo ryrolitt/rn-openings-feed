@@ -1,8 +1,298 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-10T13:25:00Z",
+ "generated_at": "2026-10-10T15:27:28Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "find:368497",
+   "employer": "UHS Behavioral Health",
+   "title": "Registered Nurse (RN) - Full Time",
+   "location": "Fremont, California",
+   "url": "https://careers-uhsinc.icims.com/jobs/368497",
+   "source": "uhs_psych",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:31:08Z",
+   "bh_tag": true,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:3690",
+   "employer": "UCSF Health",
+   "title": "Registered Nurse - PICU",
+   "location": "Oakland, CA, United States",
+   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3690",
+   "source": "ucsf_oracle",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:31:03Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "A minimum of two (2) years of PICU registered nurse experience",
+    "behavioral_health": false,
+    "employment_type": "Full time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:31:53Z"
+   }
+  },
+  {
+   "id": "find:5509165",
+   "employer": "santaclara",
+   "title": "Clinical Nurse III - Hemodialysis",
+   "location": "Throughout the County of Santa Clara, CA",
+   "url": "https://www.governmentjobs.com/careers/santaclara/jobs/5509165/clinical-nurse-iii-hemodialysis",
+   "source": "neogov_bay_area",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:30Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "Three (3) years of full-time Registered Nurse (RN) experience, of which one (1) year must have been within the last three (3) years, in an accredited hospital, clinic, or healthcare setting.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Santa Clara County",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "2026-10-09 2026-10-23",
+    "checked_at": "2026-10-10T14:32:03Z"
+   }
+  },
+  {
+   "id": "find:R-142363",
+   "employer": "sutter",
+   "title": "Registered Nurse II, ICU Float",
+   "location": "Castro Valley, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-142363",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:22Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two year current experience in area of specialty Required",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Castro Valley",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:10Z"
+   }
+  },
+  {
+   "id": "find:R-142368",
+   "employer": "sutter",
+   "title": "Ambulatory Services Nurse II, Gastroenterology",
+   "location": "San Francisco, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-142368",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:22Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Per Diem/Casual",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:15Z"
+   }
+  },
+  {
+   "id": "find:R-139877",
+   "employer": "sutter",
+   "title": "Staff Nurse II, Intermediate Telemetry Care (ITC)",
+   "location": "Berkeley, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-139877",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:22Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum one year of current experience in area of specialty Required",
+    "behavioral_health": false,
+    "employment_type": "Per Diem/Casual",
+    "work_city": "Berkeley",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:20Z"
+   }
+  },
+  {
+   "id": "find:R-142068",
+   "employer": "sutter",
+   "title": "Staff Nurse II, SDICU",
+   "location": "Burlingame, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-142068",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:22Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "2+ years of RN experience in an acute care clinical experience working in Progressive or Stepdown ICU unit.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:26Z"
+   }
+  },
+  {
+   "id": "find:R-142119",
+   "employer": "sutter",
+   "title": "Clinic Nurse II, Maternal Fetal Medicine",
+   "location": "San Francisco, California, United States of America; Oakland, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-142119",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:22Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "San Francisco, Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:31Z"
+   }
+  },
+  {
+   "id": "find:R2660611",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse II (RN), Critical Care Transition to Practice Program starting March 15, 2027 - 0.90 FTE, 12-hour days or Nights",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660611",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:20Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two years of Acute Care or Emergency Department RN experience within the last three years in the USA.",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "Online applications will be accepted from Friday, October 9, 2026, through Friday, October 16, 2026.",
+    "checked_at": "2026-10-10T14:32:37Z"
+   }
+  },
+  {
+   "id": "find:101748165072",
+   "employer": "lucile_packard",
+   "title": "Clinical Nurse II - Oncology Center",
+   "location": "Palo Alto, CA",
+   "url": "https://careers.stanfordchildrens.org/job/palo-alto/clinical-nurse-ii-oncology-center/47520/101748165072",
+   "source": "lucile_packard",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:16Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of 1 year Hematology/Oncology acute care RN experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Full time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:44Z"
+   }
+  },
+  {
+   "id": "find:98178784352",
+   "employer": "kaiser",
+   "title": "Staff Nurse II - Pediatrics (San Jose, On-Call)",
+   "location": "San Jose, CA, Onsite, Regular, Call-in/On-Call, Day shift, 1 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/san-jose/staff-nurse-ii-pediatrics-san-jose-on-call/641/98178784352",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:13Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:100408694320",
+   "employer": "kaiser",
+   "title": "Staff Nurse II",
+   "location": "Vallejo, CA, Onsite, Regular, Part-time, Day shift, 32 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/vallejo/staff-nurse-ii/641/100408694320",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:13Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One year recent (within the last three years) experience as a Registered Nurse in the Emergency Department",
+    "behavioral_health": false,
+    "employment_type": "Part-time",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:32:59Z"
+   }
+  },
+  {
+   "id": "find:888381100",
+   "employer": "Veterans Health Administration",
+   "title": "CLC Registered Nurse",
+   "location": "San Francisco, California",
+   "url": "https://www.usajobs.gov:443/job/888381100",
+   "source": "usajobs",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:05Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:33:05Z"
+   }
+  },
   {
    "id": "tracked:2026-va-palo-alto-intermediate-icu-rn-888321100",
    "employer": "VA Palo Alto Health Care System",
@@ -51,12 +341,12 @@
    "id": "tracked:2026-adventist-vallejo-psych-rn-pt-days-73116",
    "employer": "Adventist Health Vallejo (freestanding psychiatric hospital)",
    "title": "RN, Part Time Regular, Dayshift, Psychiatric Acute - Ped/Adolescent 2 (Oracle req 73116)",
-   "location": "",
+   "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73116",
    "source": "tracked",
    "kind": "posting",
    "found_at": "2026-10-09T15:42:14.155991+00:00",
-   "bh_tag": null,
+   "bh_tag": false,
    "tier": null,
    "tracked": true,
    "close_at": null,
@@ -67,7 +357,18 @@
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
-   "window_checked_at": null
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "Acute care facility experience: Preferred",
+    "behavioral_health": true,
+    "employment_type": "Part Time Regular",
+    "work_city": "Vallejo, CA, United States",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:31:57Z"
+   }
   },
   {
    "id": "find:mon:6dbf1f6552784f38e29f",
@@ -2138,7 +2439,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-10T12:23:49Z",
+   "window_checked_at": "2026-10-10T15:27:27Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -12747,7 +13048,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-10T12:23:50Z"
+   "window_checked_at": "2026-10-10T15:27:27Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -15349,7 +15650,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-10T12:23:44Z"
+   "window_checked_at": "2026-10-10T15:27:20Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -15489,7 +15790,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-10T12:23:45Z"
+   "window_checked_at": "2026-10-10T15:27:21Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -15937,7 +16238,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-10T12:23:45Z"
+   "window_checked_at": "2026-10-10T15:27:22Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -16153,7 +16454,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-10T12:23:46Z"
+   "window_checked_at": "2026-10-10T15:27:22Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -16263,7 +16564,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-10T12:23:46Z"
+   "window_checked_at": "2026-10-10T15:27:23Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -16551,7 +16852,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-10T12:23:47Z"
+   "window_checked_at": "2026-10-10T15:27:25Z"
   },
   {
    "id": "tracked:2026-10-sequoia-commonspirit-nnrp",
@@ -16573,7 +16874,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-10T12:23:48Z"
+   "window_checked_at": "2026-10-10T15:27:25Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
