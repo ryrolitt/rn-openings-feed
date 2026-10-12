@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T20:04:49Z",
+ "generated_at": "2026-10-12T21:06:00Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -17364,28 +17364,6 @@
    "tracked": true,
    "close_at": null,
    "close_source": "rolling; ADP posting shows no close date",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-by-the-bay-health-hospice-ncm",
-   "employer": "By The Bay Health (hospice, Larkspur / Sonoma)",
-   "title": "Hospice Nurse Case Manager (Larkspur 5421016008; Sonoma 5428993008)",
-   "location": "",
-   "url": "https://job-boards.greenhouse.io/bythebayhealth/jobs/5421016008",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling; Greenhouse posting shows no close date",
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
