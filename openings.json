@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T17:00:28Z",
+ "generated_at": "2026-10-12T20:04:49Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "tracked:2026-10-sequoia-commonspirit-nnrp",
+   "employer": "CommonSpirit / Dignity — Sequoia Hospital, Redwood City",
+   "title": "National Nurse Residency Program — Spring cohort (Behavioral Health track available)",
+   "location": "",
+   "url": "https://www.commonspirit.careers/NNRP-CA",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-10-12T20:04:41Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "opens_october_1_exact_close_not_published",
+   "date_verified_at": "2026-08-23",
+   "license_by": null,
+   "required_docs": null,
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "closed",
+   "window_checked_at": "2026-10-12T20:04:41Z"
+  },
   {
    "id": "find:9210",
    "employer": "UCSF Health",
@@ -1274,7 +1296,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-12T17:00:24Z",
+   "window_checked_at": "2026-10-12T20:04:38Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -2653,7 +2675,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-12T17:00:27Z",
+   "window_checked_at": "2026-10-12T20:04:47Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11171,7 +11193,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-12T17:00:27Z",
+   "window_checked_at": "2026-10-12T20:04:48Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -13252,7 +13274,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-12T17:00:27Z"
+   "window_checked_at": "2026-10-12T20:04:48Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -15854,7 +15876,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T17:00:22Z"
+   "window_checked_at": "2026-10-12T20:04:35Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -15994,7 +16016,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T17:00:23Z"
+   "window_checked_at": "2026-10-12T20:04:36Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -16442,7 +16464,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-12T17:00:23Z"
+   "window_checked_at": "2026-10-12T20:04:37Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -16658,7 +16680,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T17:00:23Z"
+   "window_checked_at": "2026-10-12T20:04:37Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -16768,7 +16790,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-12T17:00:24Z"
+   "window_checked_at": "2026-10-12T20:04:38Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -17056,29 +17078,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T17:00:25Z"
-  },
-  {
-   "id": "tracked:2026-10-sequoia-commonspirit-nnrp",
-   "employer": "CommonSpirit / Dignity — Sequoia Hospital, Redwood City",
-   "title": "National Nurse Residency Program — Spring cohort (Behavioral Health track available)",
-   "location": "",
-   "url": "https://www.commonspirit.careers/NNRP-CA",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "opens_october_1_exact_close_not_published",
-   "date_verified_at": "2026-08-23",
-   "license_by": null,
-   "required_docs": null,
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "closed",
-   "window_checked_at": "2026-10-12T17:00:25Z"
+   "window_checked_at": "2026-10-12T20:04:40Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
