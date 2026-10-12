@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T07:49:41Z",
+ "generated_at": "2026-10-12T10:52:56Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1082,7 +1082,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-12T07:49:36Z",
+   "window_checked_at": "2026-10-12T10:52:52Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -2461,7 +2461,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-12T07:49:39Z",
+   "window_checked_at": "2026-10-12T10:52:55Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10979,7 +10979,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-12T07:49:41Z",
+   "window_checked_at": "2026-10-12T10:52:56Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -13060,7 +13060,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-12T07:49:40Z"
+   "window_checked_at": "2026-10-12T10:52:55Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -15662,7 +15662,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T07:49:35Z"
+   "window_checked_at": "2026-10-12T10:52:51Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -15802,7 +15802,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T07:49:36Z"
+   "window_checked_at": "2026-10-12T10:52:51Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -16250,7 +16250,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-12T07:49:36Z"
+   "window_checked_at": "2026-10-12T10:52:51Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -16466,7 +16466,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T07:49:36Z"
+   "window_checked_at": "2026-10-12T10:52:52Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -16576,7 +16576,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-12T07:49:36Z"
+   "window_checked_at": "2026-10-12T10:52:52Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -16864,7 +16864,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-12T07:49:38Z"
+   "window_checked_at": "2026-10-12T10:52:53Z"
   },
   {
    "id": "tracked:2026-10-sequoia-commonspirit-nnrp",
@@ -16886,7 +16886,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-12T07:49:38Z"
+   "window_checked_at": "2026-10-12T10:52:54Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
