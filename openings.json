@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T23:08:22Z",
+ "generated_at": "2026-10-13T00:09:48Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -3707,42 +3707,6 @@
    }
   },
   {
-   "id": "tracked:2026-auto-adventist-health-rn-part-time-regular-evening-shift-73027",
-   "employer": "Adventist Health Vallejo (freestanding 61-bed psychiatric hospital)",
-   "title": "RN, Part Time Regular, Evening Shift, inpatient psych (req 73027, posted 10/5)",
-   "location": "Vallejo, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73027",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-05T19:17:19Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the employer's Oracle posting (rolling), read 2026-10-06",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "Part time regular, evening shift",
-    "work_city": "Vallejo",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-06T00:25:21Z"
-   }
-  },
-  {
    "id": "tracked:2026-auto-adventist-health-rn-surgery-full-time-variable-shift-61943",
    "employer": "Adventist Health",
    "title": "RN Surgery - Full Time, Variable Shift (Saint Helena, CA, United States)",
@@ -3857,6 +3821,30 @@
     "behavioral_health": false,
     "employment_type": "Full time, night shift",
     "work_city": "Saint Helena",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-06T00:25:21Z"
+   }
+  },
+  {
+   "id": "find:73027",
+   "employer": "Adventist Health",
+   "title": "RN, Part Time Regular, Evening Shift",
+   "location": "Vallejo, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73027",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-10-05T19:17:19Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "Part time regular, evening shift",
+    "work_city": "Vallejo",
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-06T00:25:21Z"
