@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T03:14:02Z",
+ "generated_at": "2026-10-13T04:15:31Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -519,28 +519,6 @@
     "deadline_verbatim": "",
     "checked_at": "2026-10-10T14:33:05Z"
    }
-  },
-  {
-   "id": "tracked:2026-va-palo-alto-intermediate-icu-rn-888321100",
-   "employer": "VA Palo Alto Health Care System",
-   "title": "RN - Intermediate Intensive Care Unit (CBSW-13085429-27-LK, 1 vacancy, FT)",
-   "location": "",
-   "url": "https://www.usajobs.gov/job/888321100",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-09T15:42:14.155991+00:00",
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2026-10-19T20:59:00-07:00",
-   "close_source": "Verified on the employer page text: usajobs.gov/job/888321100 read 2026-10-09, verbatim: 'The complete application package must be submitted by 11:59 PM (ET) on 10/19/2026 to receive consideration.' (= 8:59 PM PT). CEILING ONLY: same page, 'This job will close when we have received 50 applications which may be sooner than the closing date.'",
-   "date_verified_at": "2026-10-10",
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
   },
   {
    "id": "tracked:2026-turn-santa-clara-act-rn-4755",
