@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T15:29:33Z",
+ "generated_at": "2026-10-13T16:30:56Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -215,6 +215,41 @@
    }
   },
   {
+   "id": "tracked:2026-sutter-pamf-santa-clara-peds-urgent-care-rn1-perdiem-r139946",
+   "employer": "Sutter Health, Palo Alto Medical Foundation (Santa Clara)",
+   "title": "Registered Nurse I, Pediatric Urgent Care Per Diem (R-139946)",
+   "location": "Santa Clara, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-139946",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-10-13T14:30:27Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "no close date on Sutter's posting (rolling), read 2026-10-13",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "Santa Clara",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-13T14:32:48Z"
+   }
+  },
+  {
    "id": "find:R-143304",
    "employer": "sutter",
    "title": "RN Case Manager, Home Health",
@@ -260,30 +295,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-13T14:32:43Z"
-   }
-  },
-  {
-   "id": "find:R-139946",
-   "employer": "sutter",
-   "title": "Registered Nurse I, Pediatric Urgent Care Per Diem",
-   "location": "Santa Clara, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-139946",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-13T14:30:27Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Per Diem",
-    "work_city": "Santa Clara",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-13T14:32:48Z"
    }
   },
   {
@@ -552,8 +563,8 @@
   },
   {
    "id": "tracked:2026-auto-john-muir-rn-bhc-adult-psychiatric-services-inpatient-per-di-r0017918",
-   "employer": "john_muir",
-   "title": "RN - BHC Adult Psychiatric Services-Inpatient - Per Diem - 8 Hour - Variable Shift (Concord)",
+   "employer": "John Muir Health (Behavioral Health Center, Concord)",
+   "title": "RN - BHC Adult Psychiatric Services-Inpatient - Per Diem - 8 Hour - Variable Shift (Concord), JR0017918, posted 10/12; repost of JR0017892, which rejected him 10/9",
    "location": "Concord",
    "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---BHC-Adult-Psychiatric-Services-Inpatient---Per-Diem---8-Hour---Variable-Shift_JR0017918",
    "source": "tracked",
@@ -563,7 +574,7 @@
    "tier": null,
    "tracked": true,
    "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "close_source": "no close date on John Muir's Workday posting (rolling), read 2026-10-13",
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [
