@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T02:12:37Z",
+ "generated_at": "2026-10-13T03:14:02Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1343,39 +1343,6 @@
    }
   },
   {
-   "id": "tracked:2026-stanford-eye-clinic-rn-r2660635",
-   "employer": "Stanford Health Care (Eye Clinic, 2452 Watson Ct, Palo Alto)",
-   "title": "Clinical Nurse (RN) - Eye Clinic - Full Time (1.0 FTE) - Days, R2660635",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660635",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-08T15:42:56.671923+00:00",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the Stanford posting (rolling)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full Time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-08T14:34:24Z"
-   }
-  },
-  {
    "id": "find:ga:cab612f8810766032bd1",
    "employer": "Sequoia Hospital",
    "title": "New grad RN residency window, Sequoia Hospital: was expected Oct 1, 2026; check their page [pointer: verify on the hospital's page]",
@@ -1722,6 +1689,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-08T14:34:19Z"
+   }
+  },
+  {
+   "id": "find:R2660635",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - Eye Clinic - Full Time (1.0FTE) - Days",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660635",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-08T14:30:19Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-08T14:34:24Z"
    }
   },
   {
@@ -10377,7 +10368,7 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
-   "last_seen_live": false,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
