@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T05:47:33Z",
+ "generated_at": "2026-10-14T07:50:00Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -2720,26 +2720,17 @@
    }
   },
   {
-   "id": "tracked:2026-ucsf-radiology-research-rn-8168",
-   "employer": "UCSF (Radiology and Biomedical Imaging, Human Imaging Core)",
-   "title": "Registered Nurse (Clinical Research Nurse, CLIN NURSE 2, 50% FTE, req 8168)",
+   "id": "find:8168",
+   "employer": "UCSF Health",
+   "title": "Registered Nurse",
    "location": "San Francisco, CA, United States",
    "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8168",
-   "source": "tracked",
+   "source": "ucsf_oracle",
    "kind": "posting",
    "found_at": "2026-10-07T14:30:58Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": "2026-10-14T00:00:00-07:00",
-   "close_source": "UCSF's own Oracle HCM requisition record for req 8168 (recruitingCEJobRequisitionDetails, site CX_1), read 2026-10-11: ExternalPostedEndDate '2026-10-14T07:00:00+00:00' (= Wed 10/14 00:00 PT). That is the posting end stamp, not a sentence on the page; re-read before relying on it.",
-   "date_verified_at": "2026-10-11",
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": false,
     "experience_years_required": 2,
