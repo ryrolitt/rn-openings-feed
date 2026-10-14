@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T23:40:36Z",
+ "generated_at": "2026-10-14T02:44:16Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -215,41 +215,6 @@
    }
   },
   {
-   "id": "tracked:2026-sutter-pamf-santa-clara-peds-urgent-care-rn1-perdiem-r139946",
-   "employer": "Sutter Health, Palo Alto Medical Foundation (Santa Clara)",
-   "title": "Registered Nurse I, Pediatric Urgent Care Per Diem (R-139946)",
-   "location": "Santa Clara, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-139946",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-13T14:30:27Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on Sutter's posting (rolling), read 2026-10-13",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Per Diem",
-    "work_city": "Santa Clara",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-13T14:32:48Z"
-   }
-  },
-  {
    "id": "find:R-143304",
    "employer": "sutter",
    "title": "RN Case Manager, Home Health",
@@ -295,6 +260,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-13T14:32:43Z"
+   }
+  },
+  {
+   "id": "find:R-139946",
+   "employer": "sutter",
+   "title": "Registered Nurse I, Pediatric Urgent Care Per Diem",
+   "location": "Santa Clara, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-139946",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-13T14:30:27Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "Santa Clara",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-13T14:32:48Z"
    }
   },
   {
@@ -811,7 +800,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-13T23:40:35Z",
+   "window_checked_at": "2026-10-14T02:44:15Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -844,7 +833,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-13T23:40:34Z"
+   "window_checked_at": "2026-10-14T02:44:14Z"
   },
   {
    "id": "find:9210",
@@ -2095,7 +2084,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-13T23:40:33Z",
+   "window_checked_at": "2026-10-14T02:44:12Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11938,7 +11927,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-13T23:40:35Z",
+   "window_checked_at": "2026-10-14T02:44:16Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -14019,7 +14008,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-13T23:40:35Z"
+   "window_checked_at": "2026-10-14T02:44:16Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -16621,7 +16610,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-13T23:40:31Z"
+   "window_checked_at": "2026-10-14T02:44:10Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -16761,7 +16750,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-13T23:40:32Z"
+   "window_checked_at": "2026-10-14T02:44:12Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -17209,7 +17198,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-13T23:40:32Z"
+   "window_checked_at": "2026-10-14T02:44:12Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -17425,7 +17414,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-13T23:40:32Z"
+   "window_checked_at": "2026-10-14T02:44:12Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -17535,7 +17524,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-13T23:40:33Z"
+   "window_checked_at": "2026-10-14T02:44:12Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -17823,7 +17812,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-13T23:40:34Z"
+   "window_checked_at": "2026-10-14T02:44:14Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
