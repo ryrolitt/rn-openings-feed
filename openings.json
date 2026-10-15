@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T15:29:26Z",
+ "generated_at": "2026-10-15T16:31:01Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -126,6 +126,41 @@
    }
   },
   {
+   "id": "tracked:2026-marinhealth-pmu-clinical-rn-ii-pt-days-jr102388",
+   "employer": "MarinHealth Medical Center (Greenbrae; UCSF affiliate)",
+   "title": "Clinical RN II, Progressive Metabolic Unit, Part-Time (36 Hour Week), Days (JR102388)",
+   "location": "Greenbrae, CA",
+   "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers/job/Greenbrae-CA/Clinical-RN-II--Progressive-Metabolic-Unit--Part-Time---36-Hour-Week---Days_JR102388",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-10-15T14:30:59Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the Workday posting, read 2026-10-15)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Greenbrae",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-15T14:32:48Z"
+   }
+  },
+  {
    "id": "find:15287 - AB142",
    "employer": "marin_health",
    "title": "Clinical RN II, Emergency Department, Part-Time, (36 Hour Week), Days",
@@ -195,30 +230,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-15T14:32:44Z"
-   }
-  },
-  {
-   "id": "find:15289 - AETBD",
-   "employer": "marin_health",
-   "title": "Clinical RN II, Progressive Metabolic Unit, Part-Time, (36 Hour Week), Days",
-   "location": "Greenbrae, CA",
-   "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers/job/Greenbrae-CA/Clinical-RN-II--Progressive-Metabolic-Unit--Part-Time---36-Hour-Week---Days_JR102388",
-   "source": "marin_health",
-   "kind": "posting",
-   "found_at": "2026-10-15T14:30:59Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "part-time",
-    "work_city": "Greenbrae",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-15T14:32:48Z"
    }
   },
   {
