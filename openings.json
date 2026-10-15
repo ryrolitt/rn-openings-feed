@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T03:14:33Z",
+ "generated_at": "2026-10-15T04:15:50Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -18667,31 +18667,6 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-auto-telecare-corporation-registered-nurse-on-call-mental-health-is030583",
-   "employer": "Telecare Corporation",
-   "title": "Registered Nurse (On Call) - Mental Health 115 (Oakland, CA)",
-   "location": "",
-   "url": "https://recruiting2.ultipro.com/TEL1006/JobBoard/2fcbb6f4-e717-17cb-9327-3dd87a55b08d/OpportunityDetail?opportunityId=60f0dd85-92cc-4ad1-bf75-aa93b9f0407b",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
     "resume"
    ],
    "last_seen_live": true,
