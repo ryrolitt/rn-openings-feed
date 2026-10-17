@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-17T02:09:04Z",
+ "generated_at": "2026-10-17T04:12:39Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -19865,32 +19865,6 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-va-palo-alto-pact-outpatient-rn-888999700",
-   "employer": "VA Palo Alto Health Care System (Veterans Health Administration)",
-   "title": "Outpatient Staff Registered Nurse - PACT (CBSW-13089638-27-RS, control 888999700, 1 vacancy, FT M-F 8-4:30, Palo Alto)",
-   "location": "",
-   "url": "https://www.usajobs.gov/job/888999700",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2026-10-23T23:59:00-04:00",
-   "close_source": "Verified on the employer page text: usajobs.gov/job/888999700, read 2026-10-16, verbatim: 'The complete application package must be submitted by 11:59 PM (ET) on 10/23/2026 to receive consideration' and 'This job will close when we have received 50 applications which may be sooner than the closing date.' Ceiling 10/23 (8:59 PM PT), may close any day.",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "transcript",
-    "license"
-   ],
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
