@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T23:05:47Z",
+ "generated_at": "2026-10-17T01:07:49Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -13775,28 +13775,6 @@
     "deadline_verbatim": "Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027",
     "checked_at": "2026-10-01T14:33:15Z"
    }
-  },
-  {
-   "id": "tracked:2026-momentum-for-health-csu-rn",
-   "employer": "Momentum for Health (San Jose)",
-   "title": "REGISTERED NURSE - CSU **20hrs/week** (crisis stabilization unit, Sun-Wed 5:30-10:30 pm); sibling PD RN - CSU overnight",
-   "location": "",
-   "url": "https://recruiting.ultipro.com/MOM1000MFMH/JobBoard/53040afd-825c-446f-a738-19051ad66802/OpportunityDetail?opportunityId=e07d8a1a-246a-42bf-94ce-7a3ea2bde630",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-09-30T15:42:04.298231+00:00",
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the employer's UltiPro posting (rolling)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
   },
   {
    "id": "find:mon:5b15e9fdbd4a611bcf6b",
