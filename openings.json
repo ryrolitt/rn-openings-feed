@@ -1,8 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T11:16:20Z",
+ "generated_at": "2026-10-19T15:21:10Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "find:R2660925",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN), GI Oncology Outpatient Clinic - 8HR Days 1.0",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660925",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-19T14:30:20Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two years of oncology experience required.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "PALO ALTO",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-19T14:32:16Z"
+   }
+  },
   {
    "id": "tracked:2026-prc-baker-places-joe-healy-detox-staff-nurse",
    "employer": "PRC / Baker Places (now Ascend)",
@@ -1417,6 +1441,39 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-16T14:34:29Z"
+   }
+  },
+  {
+   "id": "tracked:2027-stanford-cohort46-newgrad",
+   "employer": "Stanford Health Care",
+   "title": "New Grad RN Residency Cohort 46 - applications open Nov 9-15 2026, cohort starts Apr 12 2027",
+   "location": "",
+   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-10-15T18:33:39Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": "2026-11-15T23:59:00-08:00",
+   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
+   "date_verified_at": "2026-10-07T01:25:00Z",
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "scheduled",
+   "window_checked_at": "2026-10-19T15:21:08Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "full-time",
+    "work_city": "",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-16T14:34:35Z"
    }
   },
   {
@@ -3420,7 +3477,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-19T11:16:18Z"
+   "window_checked_at": "2026-10-19T15:21:06Z"
   },
   {
    "id": "find:9210",
@@ -4635,6 +4692,44 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-09T14:33:59Z"
+   }
+  },
+  {
+   "id": "tracked:2027-kaiser-ncal-next-window",
+   "employer": "Kaiser Permanente NorCal",
+   "title": "Nurse Residency — NEXT window (expect early Nov 2026 for ~Mar 2027 start)",
+   "location": "",
+   "url": "https://www.kaiserpermanentejobs.org/nurse-residency-career/",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-10-08T23:41:05Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": null,
+   "close_source": "pattern_from_published_cohorts; MUST re-verify on the program page in Oct 2026",
+   "date_verified_at": "2026-08-23",
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter",
+    "transcript",
+    "bls"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "closed",
+   "window_checked_at": "2026-10-19T15:21:04Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Residency",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-09T14:34:04Z"
    }
   },
   {
@@ -14464,6 +14559,39 @@
    }
   },
   {
+   "id": "tracked:2027-lucile-packard-newgrad",
+   "employer": "Lucile Packard Children's Hospital Stanford",
+   "title": "New Graduate RN Residency - Fall 2027 cohort (application window Mar 10-17, 2027; act by Tue 3/16)",
+   "location": "",
+   "url": "https://careers.stanfordchildrens.org/rn-residency-program",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-10-01T08:40:34Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": "2027-03-17T00:00:00-07:00",
+   "close_source": "Verified on the employer page text: careers.stanfordchildrens.org/rn-residency-program, read 2026-10-01, verbatim: 'Application and Review Timeline - Fall 2027 Cohort: Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027'. No clock time stated, so close_at is the START of 3/17: act by Tue 3/16/2027.",
+   "date_verified_at": "2026-10-01T16:40:00Z",
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "scheduled",
+   "window_checked_at": "2026-10-19T15:21:09Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "May not have any paid work experience as a Registered Nurse (RN), at program start.",
+    "behavioral_health": false,
+    "employment_type": "residency",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027",
+    "checked_at": "2026-10-01T14:33:15Z"
+   }
+  },
+  {
    "id": "find:mon:5b15e9fdbd4a611bcf6b",
    "employer": "Sutter Health Bay Area",
    "title": "Staff Nurse II, Emergency Services in San Francisco, CA 94109, US at Sutter Health",
@@ -16490,77 +16618,6 @@
    "tracked": false
   },
   {
-   "id": "tracked:2027-kaiser-ncal-next-window",
-   "employer": "Kaiser Permanente NorCal",
-   "title": "Nurse Residency — NEXT window (expect early Nov 2026 for ~Mar 2027 start)",
-   "location": "",
-   "url": "https://www.kaiserpermanentejobs.org/nurse-residency-career/",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-09-06T03:17:37Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": null,
-   "close_source": "pattern_from_published_cohorts; MUST re-verify on the program page in Oct 2026",
-   "date_verified_at": "2026-08-23",
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter",
-    "transcript",
-    "bls"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "closed",
-   "window_checked_at": "2026-10-19T11:16:17Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Residency",
-    "work_city": "Oakland",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-09T14:34:04Z"
-   }
-  },
-  {
-   "id": "tracked:2027-stanford-cohort46-newgrad",
-   "employer": "Stanford Health Care",
-   "title": "New Grad RN Residency Cohort 46 - applications open Nov 9-15 2026, cohort starts Apr 12 2027",
-   "location": "",
-   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-09-06T03:17:37Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": "2026-11-15T23:59:00-08:00",
-   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
-   "date_verified_at": "2026-10-07T01:25:00Z",
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "scheduled",
-   "window_checked_at": "2026-10-19T11:16:19Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "full-time",
-    "work_city": "",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-16T14:34:35Z"
-   }
-  },
-  {
    "id": "tracked:2027-spring-northbay-newgrad",
    "employer": "NorthBay Health (Fairfield / Vacaville)",
    "title": "Nurse Residency Program - Spring 2027 cohort (applications Nov-Dec per page)",
@@ -16580,40 +16637,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-19T11:16:19Z"
-  },
-  {
-   "id": "tracked:2027-lucile-packard-newgrad",
-   "employer": "Lucile Packard Children's Hospital Stanford",
-   "title": "New Graduate RN Residency - Fall 2027 cohort (application window Mar 10-17, 2027; act by Tue 3/16)",
-   "location": "",
-   "url": "https://careers.stanfordchildrens.org/rn-residency-program",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-09-06T03:17:37Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": "2027-03-17T00:00:00-07:00",
-   "close_source": "Verified on the employer page text: careers.stanfordchildrens.org/rn-residency-program, read 2026-10-01, verbatim: 'Application and Review Timeline - Fall 2027 Cohort: Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027'. No clock time stated, so close_at is the START of 3/17: act by Tue 3/16/2027.",
-   "date_verified_at": "2026-10-01T16:40:00Z",
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "scheduled",
-   "window_checked_at": "2026-10-19T11:16:19Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "May not have any paid work experience as a Registered Nurse (RN), at program start.",
-    "behavioral_health": false,
-    "employment_type": "residency",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027",
-    "checked_at": "2026-10-01T14:33:15Z"
-   }
+   "window_checked_at": "2026-10-19T15:21:09Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -19215,7 +19239,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-19T11:16:15Z"
+   "window_checked_at": "2026-10-19T15:21:00Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -19355,7 +19379,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-19T11:16:16Z"
+   "window_checked_at": "2026-10-19T15:21:01Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -19803,7 +19827,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-19T11:16:16Z"
+   "window_checked_at": "2026-10-19T15:21:02Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -20019,7 +20043,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-19T11:16:17Z"
+   "window_checked_at": "2026-10-19T15:21:02Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -20129,7 +20153,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-19T11:16:17Z"
+   "window_checked_at": "2026-10-19T15:21:03Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -20417,7 +20441,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-19T11:16:18Z"
+   "window_checked_at": "2026-10-19T15:21:05Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
