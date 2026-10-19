@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T22:37:10Z",
+ "generated_at": "2026-10-19T23:38:35Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -168,7 +168,7 @@
     "resume",
     "cover_letter (if the form offers an upload)"
    ],
-   "last_seen_live": false,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
