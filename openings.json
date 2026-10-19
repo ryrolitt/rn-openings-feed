@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T05:08:04Z",
+ "generated_at": "2026-10-19T06:09:29Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -20479,7 +20479,7 @@
   {
    "id": "tracked:2026-stanford-research-nurse-1",
    "employer": "Stanford University (School of Medicine)",
-   "title": "Research Nurse 1 (req 109232, posted 5/18)",
+   "title": "Research Nurse 1",
    "location": "",
    "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/job/109232",
    "source": "tracked",
@@ -20692,6 +20692,56 @@
     "license"
    ],
    "last_seen_live": false,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-ucsf-ncru-per-diem-clinical-research-nurse",
+   "employer": "UCSF Department of Neurology, Neurosciences Clinical Research Unit (NCRU), Sandler Neurosciences Center, Mission Bay",
+   "title": "Per Diem Clinical Research Nurse, NCRU",
+   "location": "",
+   "url": "https://weill.ucsf.edu/ncru",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "not_posted_watch",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-buck-institute-clinical-research-nurse",
+   "employer": "Buck Institute for Research on Aging (Novato)",
+   "title": "Clinical Research Nurse, part-time",
+   "location": "",
+   "url": "https://buckinstitute.applytojob.com/apply/",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "not_posted_watch",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
