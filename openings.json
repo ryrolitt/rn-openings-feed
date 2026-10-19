@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T08:12:21Z",
+ "generated_at": "2026-10-19T09:13:43Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -3665,6 +3665,30 @@
    }
   },
   {
+   "id": "find:73116",
+   "employer": "Adventist Health",
+   "title": "RN, Part Time Regular, Dayshift",
+   "location": "Vallejo, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73116",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-10-10T14:30:37Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "Acute care facility experience: Preferred",
+    "behavioral_health": true,
+    "employment_type": "Part Time Regular",
+    "work_city": "Vallejo, CA, United States",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-10T14:31:57Z"
+   }
+  },
+  {
    "id": "find:5509165",
    "employer": "santaclara",
    "title": "Clinical Nurse III - Hemodialysis",
@@ -3938,39 +3962,6 @@
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-adventist-vallejo-psych-rn-pt-days-73116",
-   "employer": "Adventist Health Vallejo (freestanding psychiatric hospital)",
-   "title": "RN, Part Time Regular, Dayshift, Psychiatric Acute - Ped/Adolescent 2 (Oracle req 73116)",
-   "location": "Vallejo, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73116",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-09T15:42:14.155991+00:00",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the Adventist posting (rolling)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "Acute care facility experience: Preferred",
-    "behavioral_health": true,
-    "employment_type": "Part Time Regular",
-    "work_city": "Vallejo, CA, United States",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-10T14:31:57Z"
-   }
   },
   {
    "id": "find:mon:6dbf1f6552784f38e29f",
