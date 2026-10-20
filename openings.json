@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:12:43Z",
+ "generated_at": "2026-10-20T21:17:46Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -503,7 +503,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-20T18:10:10Z",
+   "window_checked_at": "2026-10-20T21:17:46Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
