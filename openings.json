@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T00:40:12Z",
+ "generated_at": "2026-10-20T01:41:43Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -3477,7 +3477,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-19T22:37:07Z"
+   "window_checked_at": "2026-10-20T01:41:42Z"
   },
   {
    "id": "find:9210",
