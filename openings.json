@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T03:45:05Z",
+ "generated_at": "2026-10-20T04:46:42Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1459,7 +1459,12 @@
    "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
    "date_verified_at": "2026-10-07T01:25:00Z",
    "license_by": null,
-   "required_docs": [],
+   "required_docs": [
+    "cover_letter",
+    "resume",
+    "transcript",
+    "essays_x3"
+   ],
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
@@ -3477,7 +3482,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-20T01:41:42Z"
+   "window_checked_at": "2026-10-20T04:46:41Z"
   },
   {
    "id": "find:9210",
