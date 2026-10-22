@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T19:39:01Z",
+ "generated_at": "2026-10-22T20:41:04Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1860,7 +1860,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-22T17:34:22Z",
+   "window_checked_at": "2026-10-22T20:41:00Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -2103,76 +2103,6 @@
    }
   },
   {
-   "id": "tracked:2026-10-stanford-aau-aica-r2661107",
-   "employer": "Stanford Health Care (Palo Alto, 300 Pasteur Dr)",
-   "title": "Clinical Nurse (RN) - AAU Alternate Inpatient Care Areas (AICA), 1.0 FTE, Day - 12 Hour (R2661107)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661107",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-20T14:30:25Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (no close date on the employer page, read 2026-10-20)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full-time",
-    "work_city": "PALO ALTO",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-20T14:33:27Z"
-   }
-  },
-  {
-   "id": "tracked:2026-10-stanford-aau-aica-r2661112",
-   "employer": "Stanford Health Care (Palo Alto, 300 Pasteur Dr)",
-   "title": "Clinical Nurse (RN) - AAU Alternate Inpatient Care Areas (AICA), 1.0 FTE, Night - 12 Hour (R2661112)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661112",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-20T14:30:25Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (no close date on the employer page, read 2026-10-20)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full-time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-20T14:33:34Z"
-   }
-  },
-  {
    "id": "find:R2660880",
    "employer": "stanford_health",
    "title": "Clinical Nurse (RN), Urology Medical Oncology - 8HR Days 1.0",
@@ -2218,6 +2148,54 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-20T14:33:19Z"
+   }
+  },
+  {
+   "id": "find:R2661107",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - AAU Alternate Inpatient Care Areas (AICA) - 0.9 FTE, 12-hr, Day shift",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661107",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-20T14:30:25Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "PALO ALTO",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-20T14:33:27Z"
+   }
+  },
+  {
+   "id": "find:R2661112",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - AAU Alternate Inpatient Care Areas (AICA) - 0.9 FTE, 12-hr, Night shift",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661112",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-20T14:30:25Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-20T14:33:34Z"
    }
   },
   {
@@ -3851,7 +3829,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-22T17:34:25Z",
+   "window_checked_at": "2026-10-22T20:41:03Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -16870,7 +16848,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-22T17:34:25Z",
+   "window_checked_at": "2026-10-22T20:41:03Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -18917,7 +18895,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-22T17:34:25Z"
+   "window_checked_at": "2026-10-22T20:41:03Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -21519,7 +21497,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-22T17:34:20Z"
+   "window_checked_at": "2026-10-22T20:40:57Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -21659,7 +21637,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-22T17:34:21Z"
+   "window_checked_at": "2026-10-22T20:40:58Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -22107,7 +22085,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-22T17:34:21Z"
+   "window_checked_at": "2026-10-22T20:40:59Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -22323,7 +22301,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-22T17:34:21Z"
+   "window_checked_at": "2026-10-22T20:40:59Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -22433,7 +22411,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-22T17:34:21Z"
+   "window_checked_at": "2026-10-22T20:40:59Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -22721,7 +22699,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-22T17:34:23Z"
+   "window_checked_at": "2026-10-22T20:41:01Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
