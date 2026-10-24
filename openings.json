@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T05:52:49Z",
+ "generated_at": "2026-10-24T08:58:12Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -2457,7 +2457,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-24T05:52:46Z",
+   "window_checked_at": "2026-10-24T08:58:09Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -18935,7 +18935,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-24T05:52:44Z",
+   "window_checked_at": "2026-10-24T08:58:06Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -18973,7 +18973,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-24T05:52:48Z",
+   "window_checked_at": "2026-10-24T08:58:10Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -19006,7 +19006,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-24T05:52:48Z"
+   "window_checked_at": "2026-10-24T08:58:10Z"
   },
   {
    "id": "tracked:2027-lucile-packard-newgrad",
@@ -19028,7 +19028,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-24T05:52:48Z",
+   "window_checked_at": "2026-10-24T08:58:11Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -21641,7 +21641,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T05:52:43Z"
+   "window_checked_at": "2026-10-24T08:58:02Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -21781,7 +21781,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T05:52:44Z"
+   "window_checked_at": "2026-10-24T08:58:03Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -22229,7 +22229,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-24T05:52:44Z"
+   "window_checked_at": "2026-10-24T08:58:04Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -22445,7 +22445,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T05:52:44Z"
+   "window_checked_at": "2026-10-24T08:58:05Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -22555,7 +22555,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-24T05:52:44Z"
+   "window_checked_at": "2026-10-24T08:58:05Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -22843,7 +22843,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T05:52:46Z"
+   "window_checked_at": "2026-10-24T08:58:08Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
