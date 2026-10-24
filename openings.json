@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T16:11:02Z",
+ "generated_at": "2026-10-24T18:14:54Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1625,39 +1625,6 @@
    }
   },
   {
-   "id": "tracked:2026-adventist-st-helena-acute-74073",
-   "employer": "Adventist Health St. Helena (Napa)",
-   "title": "RN, Full Time Regular, Night Shift (Emergency Department, Saint Helena)",
-   "location": "Saint Helena, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74073",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-22T14:30:38Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": null,
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": null,
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full Time Regular",
-    "work_city": "Saint Helena",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-22T14:33:51Z"
-   }
-  },
-  {
    "id": "tracked:2026-adventist-st-helena-acute-74655",
    "employer": "Adventist Health St. Helena (Napa)",
    "title": "RN, Per Diem, Variable Shift, Surgical ICU 1 (Saint Helena)",
@@ -1835,6 +1802,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-22T14:33:36Z"
+   }
+  },
+  {
+   "id": "find:74073",
+   "employer": "Adventist Health",
+   "title": "RN, Full Time Regular, Night Shift",
+   "location": "Saint Helena, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74073",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-10-22T14:30:38Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full Time Regular",
+    "work_city": "Saint Helena",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-22T14:33:51Z"
    }
   },
   {
@@ -2968,7 +2959,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-24T15:08:59Z",
+   "window_checked_at": "2026-10-24T18:14:49Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -3459,7 +3450,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-24T15:09:02Z",
+   "window_checked_at": "2026-10-24T18:14:51Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -4937,7 +4928,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-24T15:09:03Z",
+   "window_checked_at": "2026-10-24T18:14:52Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -17956,7 +17947,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-24T15:09:04Z",
+   "window_checked_at": "2026-10-24T18:14:53Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -20003,7 +19994,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-24T15:09:04Z"
+   "window_checked_at": "2026-10-24T18:14:53Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -22605,7 +22596,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T15:08:55Z"
+   "window_checked_at": "2026-10-24T18:14:47Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -22745,7 +22736,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T15:08:56Z"
+   "window_checked_at": "2026-10-24T18:14:48Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -23193,7 +23184,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-24T15:08:57Z"
+   "window_checked_at": "2026-10-24T18:14:48Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -23409,7 +23400,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T15:08:57Z"
+   "window_checked_at": "2026-10-24T18:14:48Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -23519,7 +23510,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-24T15:08:58Z"
+   "window_checked_at": "2026-10-24T18:14:49Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -23807,7 +23798,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-24T15:09:01Z"
+   "window_checked_at": "2026-10-24T18:14:51Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
