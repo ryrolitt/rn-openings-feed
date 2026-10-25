@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-25T15:56:44Z",
+ "generated_at": "2026-10-25T16:58:50Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -3032,29 +3032,17 @@
    }
   },
   {
-   "id": "tracked:2026-auto-adventist-health-rn-per-diem-variable-shift-74146",
+   "id": "find:74146",
    "employer": "Adventist Health",
-   "title": "RN, Per Diem, Variable Shift, Psychiatric ICU 1 (Vallejo, req 74146, posted 2026-10-19)",
+   "title": "RN, Per Diem, Variable Shift",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74146",
-   "source": "tracked",
+   "source": "adventist",
    "kind": "posting",
    "found_at": "2026-10-20T14:30:45Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
