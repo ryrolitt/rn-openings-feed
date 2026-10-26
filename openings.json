@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T16:36:56Z",
+ "generated_at": "2026-10-26T18:43:30Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -850,29 +850,17 @@
    }
   },
   {
-   "id": "tracked:2026-john-muir-ambulatory-cardiology-wc-rn-jr0017992",
-   "employer": "John Muir Health (Ambulatory Cardiology, Walnut Creek)",
-   "title": "RN - Ambulatory Clinic - Specialty - Cardiology-Walnut Creek - Full Time - 8 Hour - Days (JR0017992)",
+   "id": "find:JR0017992",
+   "employer": "john_muir",
+   "title": "RN - Ambulatory Clinic - Specialty - Cardiology-Walnut Creek - Full Time - 8 Hour - Days",
    "location": "Walnut Creek",
    "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Walnut-Creek/RN---Ambulatory-Clinic---Specialty---Cardiology-Walnut-Creek---Full-Time---8-Hour---Days_JR0017992",
-   "source": "tracked",
+   "source": "john_muir",
    "kind": "posting",
    "found_at": "2026-10-24T14:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (posting has no close date; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
