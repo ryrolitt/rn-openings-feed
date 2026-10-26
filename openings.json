@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T15:33:42Z",
+ "generated_at": "2026-10-26T16:36:56Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -2983,7 +2983,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-26T13:27:44Z",
+   "window_checked_at": "2026-10-26T16:36:51Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -3462,7 +3462,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-26T13:27:47Z",
+   "window_checked_at": "2026-10-26T16:36:52Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -4940,7 +4940,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-26T13:27:48Z",
+   "window_checked_at": "2026-10-26T16:36:54Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -17959,7 +17959,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-26T13:27:49Z",
+   "window_checked_at": "2026-10-26T16:36:55Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -20006,7 +20006,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-26T13:27:49Z"
+   "window_checked_at": "2026-10-26T16:36:54Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -22608,7 +22608,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T13:27:41Z"
+   "window_checked_at": "2026-10-26T16:36:48Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -22748,7 +22748,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T13:27:42Z"
+   "window_checked_at": "2026-10-26T16:36:48Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -23196,7 +23196,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-26T13:27:42Z"
+   "window_checked_at": "2026-10-26T16:36:49Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -23412,7 +23412,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T13:27:43Z"
+   "window_checked_at": "2026-10-26T16:36:49Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -23522,7 +23522,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-26T13:27:43Z"
+   "window_checked_at": "2026-10-26T16:36:50Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -23810,7 +23810,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T13:27:46Z"
+   "window_checked_at": "2026-10-26T16:36:52Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -24244,6 +24244,28 @@
    "tracked": true,
    "close_at": null,
    "close_source": "rolling; no close date on the Jobvite posting (read 2026-10-25)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-bayside-marin-sud-residential-rn-prn-110976",
+   "employer": "Bayside Marin Treatment Center (Acadia Healthcare; San Rafael, 36-bed SUD residential)",
+   "title": "PRN Registered Nurse (RN), Nights 12-hour (Acadia req 2026-110976; FT twin 2026-110975)",
+   "location": "",
+   "url": "https://www.acadiacareers.com/us/en/job/ACXACAUS110976EXTERNALENUS/Registered-Nurse",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling; no close date on Acadia's posting (read 2026-10-26)",
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
