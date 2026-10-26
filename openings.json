@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T18:43:30Z",
+ "generated_at": "2026-10-26T19:46:39Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -349,26 +349,17 @@
    }
   },
   {
-   "id": "tracked:2026-adventist-st-helena-outpatient-surgery-74656",
-   "employer": "Adventist Health St. Helena (Napa)",
-   "title": "RN, Full Time Regular, Day Shift (Outpatient Surgery, Saint Helena, req 74656)",
+   "id": "find:74656",
+   "employer": "Adventist Health",
+   "title": "RN, Full Time Regular, Day Shift",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74656",
-   "source": "tracked",
+   "source": "adventist",
    "kind": "posting",
    "found_at": "2026-10-24T14:30:41Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling direct hire; no close date on the Oracle posting (read 2026-10-23)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -2971,7 +2962,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-26T16:36:51Z",
+   "window_checked_at": "2026-10-26T19:46:34Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -3450,7 +3441,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-26T16:36:52Z",
+   "window_checked_at": "2026-10-26T19:46:36Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -4928,7 +4919,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-26T16:36:54Z",
+   "window_checked_at": "2026-10-26T19:46:37Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -17947,7 +17938,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-26T16:36:55Z",
+   "window_checked_at": "2026-10-26T19:46:38Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -19994,7 +19985,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-26T16:36:54Z"
+   "window_checked_at": "2026-10-26T19:46:38Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -22596,7 +22587,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T16:36:48Z"
+   "window_checked_at": "2026-10-26T19:46:31Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -22736,7 +22727,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T16:36:48Z"
+   "window_checked_at": "2026-10-26T19:46:32Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -23184,7 +23175,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-26T16:36:49Z"
+   "window_checked_at": "2026-10-26T19:46:32Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -23400,7 +23391,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T16:36:49Z"
+   "window_checked_at": "2026-10-26T19:46:33Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -23510,7 +23501,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-26T16:36:50Z"
+   "window_checked_at": "2026-10-26T19:46:33Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -23798,7 +23789,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-26T16:36:52Z"
+   "window_checked_at": "2026-10-26T19:46:35Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
