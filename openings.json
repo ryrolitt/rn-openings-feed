@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T16:30:40Z",
+ "generated_at": "2026-10-28T18:33:06Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -649,7 +649,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": false,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null,
@@ -4390,7 +4390,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-28T13:26:13Z",
+   "window_checked_at": "2026-10-28T18:33:02Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -4869,7 +4869,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-28T13:26:15Z",
+   "window_checked_at": "2026-10-28T18:33:03Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -6347,7 +6347,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-28T13:26:16Z",
+   "window_checked_at": "2026-10-28T18:33:05Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -19366,7 +19366,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-28T13:26:17Z",
+   "window_checked_at": "2026-10-28T18:33:05Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -21413,7 +21413,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-28T13:26:16Z"
+   "window_checked_at": "2026-10-28T18:33:05Z"
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -24015,7 +24015,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-28T13:26:11Z"
+   "window_checked_at": "2026-10-28T18:33:00Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -24155,7 +24155,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-28T13:26:12Z"
+   "window_checked_at": "2026-10-28T18:33:00Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -24603,7 +24603,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-28T13:26:12Z"
+   "window_checked_at": "2026-10-28T18:33:00Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -24819,7 +24819,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-28T13:26:12Z"
+   "window_checked_at": "2026-10-28T18:33:01Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -24929,7 +24929,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-28T13:26:13Z"
+   "window_checked_at": "2026-10-28T18:33:01Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -25217,7 +25217,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-28T13:26:14Z"
+   "window_checked_at": "2026-10-28T18:33:03Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -25630,52 +25630,6 @@
    "license_by": null,
    "required_docs": [],
    "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-bayside-marin-sud-residential-rn-prn-110976",
-   "employer": "Bayside Marin Treatment Center (Acadia Healthcare; San Rafael, 36-bed SUD residential)",
-   "title": "PRN Registered Nurse (RN), Nights 12-hour (Acadia req 2026-110976; FT twin 2026-110975)",
-   "location": "",
-   "url": "https://www.acadiacareers.com/us/en/job/ACXACAUS110976EXTERNALENUS/Registered-Nurse",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling; no close date on Acadia's posting (read 2026-10-26)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-mindful-health-oakland-iv-ketamine-rn",
-   "employer": "Mindful Health Solutions (outpatient interventional psychiatry, Oakland IV ketamine clinic)",
-   "title": "Per Diem IV Ketamine RN (Rippling job 8400fd9b, Oakland)",
-   "location": "",
-   "url": "https://ats.rippling.com/mindfulhealthsolutions/jobs/8400fd9b-4533-417b-91e9-d3fd2fbd54bc",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": null,
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": null,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
