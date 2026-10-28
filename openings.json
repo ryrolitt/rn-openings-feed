@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T15:30:31Z",
+ "generated_at": "2026-10-28T16:30:40Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -630,6 +630,42 @@
    }
   },
   {
+   "id": "tracked:2026-auto-stanford-health-clinical-nurse-rn-300p-pre-post-0-9-fte-12-h-r2660445",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - 300P Pre/Post (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required) (PALO ALTO, California, United States of America)",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661394",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-10-28T14:30:21Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": false,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-28T14:34:56Z"
+   }
+  },
+  {
    "id": "find:R2660891",
    "employer": "stanford_health",
    "title": "Clinical Nurse (RN), Oncology Multi-Specialty",
@@ -747,30 +783,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-28T14:34:51Z"
-   }
-  },
-  {
-   "id": "find:R2661394",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN) - 300P Pre/Post (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661394",
-   "source": "stanford_health",
-   "kind": "posting",
-   "found_at": "2026-10-28T14:30:21Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full-time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-28T14:34:56Z"
    }
   },
   {
@@ -25640,6 +25652,56 @@
    "license_by": null,
    "required_docs": [],
    "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-mindful-health-oakland-iv-ketamine-rn",
+   "employer": "Mindful Health Solutions (outpatient interventional psychiatry, Oakland IV ketamine clinic)",
+   "title": "Per Diem IV Ketamine RN (Rippling job 8400fd9b, Oakland)",
+   "location": "",
+   "url": "https://ats.rippling.com/mindfulhealthsolutions/jobs/8400fd9b-4533-417b-91e9-d3fd2fbd54bc",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": null,
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-va-palo-alto-cath-lab-rn-890551400",
+   "employer": "VA Palo Alto Health Care System (Veterans Health Administration)",
+   "title": "Cardiac Cath Lab Registered Nurse (CBSW-13101816-27-JCM, control 890551400, 1 vacancy, Palo Alto)",
+   "location": "",
+   "url": "https://www.usajobs.gov/job/890551400",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": "2026-11-02T23:59:00-05:00",
+   "close_source": "Verified on the employer page text: usajobs.gov/job/890551400, read 2026-10-28, verbatim: 'The complete application package must be submitted by 11:59 PM (ET) on 11/02/2026 to receive consideration' and 'This job will close when we have received 50 applications which may be sooner than the closing date.' Ceiling 11/02, may close any day.",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "transcript",
+    "license"
+   ],
+   "last_seen_live": null,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
