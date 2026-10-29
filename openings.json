@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T15:15:33Z",
+ "generated_at": "2026-10-29T16:15:43Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -484,17 +484,28 @@
    }
   },
   {
-   "id": "find:R2661077",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN) - Operating Room (1.0 FTE/Full-Time, 10-Hour Rotating Shifts, Scrub & Circulate/Call Required)",
+   "id": "tracked:2026-stanford-or-r2661077",
+   "employer": "Stanford Health Care (Palo Alto)",
+   "title": "Clinical Nurse (RN) - Operating Room (1.0 FTE/Full-Time, 10-Hour Rotating Shifts, Scrub & Circulate/Call Required) R2661077",
    "location": "PALO ALTO, California, United States of America",
    "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661077",
-   "source": "stanford_health",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-10-29T04:52:08Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (no close date on careers.stanfordhealthcare.org/us/en/job/R2661077, read 2026-10-29)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -26502,6 +26513,31 @@
     "resume"
    ],
    "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-avery-lane-novato-womens-residential-rn",
+   "employer": "Avery Lane (Novato; women's residential SUD and mental health)",
+   "title": "Registered Nurse (RN) at Women's Treatment Facility (part-time, 32 h/wk)",
+   "location": "",
+   "url": "https://www.indeed.com/viewjob?jk=008ba51523fb9f18",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (Indeed listing posted by the employer; no close date; averylanewomensrehab.com/careers/ is 404, 2026-10-29)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
