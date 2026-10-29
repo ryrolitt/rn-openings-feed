@@ -1,8 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T04:55:08Z",
+ "generated_at": "2026-10-29T05:57:07Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "find:8908",
+   "employer": "UCSF Health",
+   "title": "Pediatric Inpatient Case Manager (RN) - Cross Bay",
+   "location": "San Francisco, CA, United States",
+   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8908",
+   "source": "ucsf_oracle",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:39Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Recent experience in case management, utilization review or discharge planning.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:12Z"
+   }
+  },
   {
    "id": "find:10440",
    "employer": "UCSF Health",
@@ -14,7 +38,18 @@
    "found_at": "2026-10-29T04:52:39Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Required Qualifications: Registered Nurse with 2 years experience performing exercise/treadmill stress echocardiography tests or five years of experience working as a bedside RN in Critical Care/ICU, CCU, Cath/EP lab, IMCU or ED.",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:52:56Z"
+   }
   },
   {
    "id": "find:10938",
@@ -27,7 +62,18 @@
    "found_at": "2026-10-29T04:52:39Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) years of recent adult medical-surgical clinical RN experience in an acute care hospital.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:03Z"
+   }
   },
   {
    "id": "find:11052",
@@ -40,20 +86,18 @@
    "found_at": "2026-10-29T04:52:39Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:8908",
-   "employer": "UCSF Health",
-   "title": "Pediatric Inpatient Case Manager (RN) - Cross Bay",
-   "location": "San Francisco, CA, United States",
-   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8908",
-   "source": "ucsf_oracle",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:39Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "2-5 years of recent Radiology nursing experience",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:07Z"
+   }
   },
   {
    "id": "find:15331 - AK118",
@@ -66,7 +110,18 @@
    "found_at": "2026-10-29T04:52:30Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "6 months to 1-year experience as a Clinical RN I at MarinHealth Medical Center;",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Greenbrae",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:16Z"
+   }
   },
   {
    "id": "find:15330 - ASTBD",
@@ -79,7 +134,18 @@
    "found_at": "2026-10-29T04:52:30Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "6 months to 1-year experience as a Clinical RN I at MarinHealth Medical Center;",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Greenbrae",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:21Z"
+   }
   },
   {
    "id": "find:15329 - AS365",
@@ -92,7 +158,18 @@
    "found_at": "2026-10-29T04:52:30Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "6 months to 1-year experience as a Clinical RN I at MarinHealth Medical Center;",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Greenbrae",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:45Z"
+   }
   },
   {
    "id": "find:R00017946",
@@ -105,33 +182,18 @@
    "found_at": "2026-10-29T04:52:28Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-145041",
-   "employer": "sutter",
-   "title": "RN Case Manager, Hospice",
-   "location": "Saratoga, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-145041",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-145046",
-   "employer": "sutter",
-   "title": "RN Case Manager, Hospice",
-   "location": "Saratoga, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-145046",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) years recent intra-operative Operating Room experience in ambulatory setting with a variety of specialties",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:49Z"
+   }
   },
   {
    "id": "find:R-143065",
@@ -144,7 +206,18 @@
    "found_at": "2026-10-29T04:52:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:02Z"
+   }
   },
   {
    "id": "find:R-144398",
@@ -157,7 +230,18 @@
    "found_at": "2026-10-29T04:52:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:07Z"
+   }
   },
   {
    "id": "find:R-144083",
@@ -170,72 +254,18 @@
    "found_at": "2026-10-29T04:52:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-144361",
-   "employer": "sutter",
-   "title": "Ambulatory Services RN II, Operating Room Limited Term",
-   "location": "San Jose, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-144361",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-144385",
-   "employer": "sutter",
-   "title": "Staff Nurse II, Emergency Services Ashby",
-   "location": "Berkeley, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-144385",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-143969",
-   "employer": "sutter",
-   "title": "Staff Nurse II, Stepdown",
-   "location": "San Francisco, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-143969",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-142253",
-   "employer": "sutter",
-   "title": "Staff Nurse II, Family Care Center Postpartum Limited Term Position",
-   "location": "Berkeley, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-142253",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:R-141207",
-   "employer": "sutter",
-   "title": "Ambulatory Services Nurse II, PreOp/PACU",
-   "location": "Pleasanton, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-141207",
-   "source": "sutter",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:11Z"
+   }
   },
   {
    "id": "find:R-144352",
@@ -248,33 +278,186 @@
    "found_at": "2026-10-29T04:52:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:52Z"
+   }
   },
   {
-   "id": "find:R2660603",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN), ICU Cardiothoracic Surgery (J2) - 12HR Days .90",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660603",
-   "source": "stanford_health",
+   "id": "find:R-145041",
+   "employer": "sutter",
+   "title": "RN Case Manager, Hospice",
+   "location": "Saratoga, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-145041",
+   "source": "sutter",
    "kind": "posting",
-   "found_at": "2026-10-29T04:52:08Z",
+   "found_at": "2026-10-29T04:52:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "2 years recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Saratoga",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:53:55Z"
+   }
   },
   {
-   "id": "find:R2660119",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN) - Hematology/Oncology (AAU F3) - 0.9 FTE, 12-HR, Rotating Shift",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660119",
-   "source": "stanford_health",
+   "id": "find:R-145046",
+   "employer": "sutter",
+   "title": "RN Case Manager, Hospice",
+   "location": "Saratoga, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-145046",
+   "source": "sutter",
    "kind": "posting",
-   "found_at": "2026-10-29T04:52:08Z",
+   "found_at": "2026-10-29T04:52:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "2 years recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Saratoga",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:01Z"
+   }
+  },
+  {
+   "id": "find:R-144361",
+   "employer": "sutter",
+   "title": "Ambulatory Services RN II, Operating Room Limited Term",
+   "location": "San Jose, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-144361",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:09Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Limited Term",
+    "work_city": "San Jose",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:23Z"
+   }
+  },
+  {
+   "id": "find:R-144385",
+   "employer": "sutter",
+   "title": "Staff Nurse II, Emergency Services Ashby",
+   "location": "Berkeley, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-144385",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:09Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum one year of current experience in area of specialty Required",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Berkeley",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:29Z"
+   }
+  },
+  {
+   "id": "find:R-143969",
+   "employer": "sutter",
+   "title": "Staff Nurse II, Stepdown",
+   "location": "San Francisco, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-143969",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:09Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience in stepdown or ICU within the last year.",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:34Z"
+   }
+  },
+  {
+   "id": "find:R-142253",
+   "employer": "sutter",
+   "title": "Staff Nurse II, Family Care Center Postpartum Limited Term Position",
+   "location": "Berkeley, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-142253",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:09Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum one year of current experience in area of specialty Required",
+    "behavioral_health": false,
+    "employment_type": "Limited Term (Fixed Term)",
+    "work_city": "Berkeley",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:42Z"
+   }
+  },
+  {
+   "id": "find:R-141207",
+   "employer": "sutter",
+   "title": "Ambulatory Services Nurse II, PreOp/PACU",
+   "location": "Pleasanton, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-141207",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:09Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Pleasanton",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:47Z"
+   }
   },
   {
    "id": "find:R2661077",
@@ -287,7 +470,18 @@
    "found_at": "2026-10-29T04:52:08Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "PALO ALTO",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:00Z"
+   }
   },
   {
    "id": "find:R2660749",
@@ -300,20 +494,66 @@
    "found_at": "2026-10-29T04:52:08Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) years of progressively responsible and directly related work experience",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Redwood City",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:05Z"
+   }
   },
   {
-   "id": "find:JR0017830",
-   "employer": "john_muir",
-   "title": "RN - CMC Emergency Services - Full Time - 12 Hour - Nights - CNA",
-   "location": "Concord",
-   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---CMC-Emergency-Services---Full-Time---12-Hour---Nights---CNA_JR0017830-1",
-   "source": "john_muir",
+   "id": "find:R2660603",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN), ICU Cardiothoracic Surgery (J2) - 12HR Days .90",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660603",
+   "source": "stanford_health",
    "kind": "posting",
-   "found_at": "2026-10-29T04:52:07Z",
+   "found_at": "2026-10-29T04:52:08Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) years of Cardiovascular ICU experience",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:57Z"
+   }
+  },
+  {
+   "id": "find:R2660119",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - Hematology/Oncology (AAU F3) - 0.9 FTE, 12-HR, Rotating Shift",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660119",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:08Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year of RN experience in an Oncology or Chemotherapy setting required.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:54:59Z"
+   }
   },
   {
    "id": "find:JR0018020",
@@ -326,7 +566,18 @@
    "found_at": "2026-10-29T04:52:07Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "6 Months Nursing - Medical Acute Care Required",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "Walnut Creek",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:15Z"
+   }
   },
   {
    "id": "find:JR0018022",
@@ -339,7 +590,42 @@
    "found_at": "2026-10-29T04:52:07Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "6 Months Nursing - Medical Acute Care - Required",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Walnut Creek",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:18Z"
+   }
+  },
+  {
+   "id": "find:JR0017830",
+   "employer": "john_muir",
+   "title": "RN - CMC Emergency Services - Full Time - 12 Hour - Nights - CNA",
+   "location": "Concord",
+   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---CMC-Emergency-Services---Full-Time---12-Hour---Nights---CNA_JR0017830-1",
+   "source": "john_muir",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:07Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year - Nursing - Acute Care - Required",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Concord",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:09Z"
+   }
   },
   {
    "id": "find:JR0018029",
@@ -352,7 +638,18 @@
    "found_at": "2026-10-29T04:52:07Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year Nursing - Emergency - Required",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Walnut Creek",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:22Z"
+   }
   },
   {
    "id": "find:102558567376",
@@ -360,32 +657,6 @@
    "title": "Staff Nurse II SH",
    "location": "San Mateo, CA, Onsite, Regular, Call-in/On-Call, Day shift, 1 hours",
    "url": "https://www.kaiserpermanentejobs.org/job/san-mateo/staff-nurse-ii-sh/641/102558567376",
-   "source": "kaiser",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:05Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:102568241952",
-   "employer": "kaiser",
-   "title": "Staff Nurse II - Operating Room",
-   "location": "San Leandro, Alameda, CA, Onsite, Regular, Full-time, Evening shift, 40 hours",
-   "url": "https://www.kaiserpermanentejobs.org/job/san-leandro/staff-nurse-ii-operating-room/641/102568241952",
-   "source": "kaiser",
-   "kind": "posting",
-   "found_at": "2026-10-29T04:52:05Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:102568241904",
-   "employer": "kaiser",
-   "title": "Staff Nurse II - Operating Room",
-   "location": "San Leandro, Alameda, CA, Onsite, Regular, Full-time, Evening shift, 40 hours",
-   "url": "https://www.kaiserpermanentejobs.org/job/san-leandro/staff-nurse-ii-operating-room/641/102568241904",
    "source": "kaiser",
    "kind": "posting",
    "found_at": "2026-10-29T04:52:05Z",
@@ -404,7 +675,66 @@
    "found_at": "2026-10-29T04:52:05Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "Six months recent (within the last 3 years) experience as a Registered Nurse (RN) in an acute care Adult Services unit where continuous patient monitoring (telemetry) occurred",
+    "behavioral_health": false,
+    "employment_type": "regular",
+    "work_city": "San Rafael",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:35Z"
+   }
+  },
+  {
+   "id": "find:102568241952",
+   "employer": "kaiser",
+   "title": "Staff Nurse II - Operating Room",
+   "location": "San Leandro, Alameda, CA, Onsite, Regular, Full-time, Evening shift, 40 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/san-leandro/staff-nurse-ii-operating-room/641/102568241952",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:05Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One year recent (within the last 3 years) experience as a Registered Nurse (RN) in an Acute hospital setting circulating on a variety of surgical procedures in multiple specialties",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "San Leandro",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:30Z"
+   }
+  },
+  {
+   "id": "find:102568241904",
+   "employer": "kaiser",
+   "title": "Staff Nurse II - Operating Room",
+   "location": "San Leandro, Alameda, CA, Onsite, Regular, Full-time, Evening shift, 40 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/san-leandro/staff-nurse-ii-operating-room/641/102568241904",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-10-29T04:52:05Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One year recent (within the last 3 years) experience as a Registered Nurse (RN) in an Acute hospital setting circulating on a variety of surgical procedures in multiple specialties",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "San Leandro",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:35Z"
+   }
   },
   {
    "id": "find:102568238880",
@@ -417,7 +747,18 @@
    "found_at": "2026-10-29T04:52:05Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One year recent (within the last three years) experience as a Registered Nurse in the Emergency Department",
+    "behavioral_health": false,
+    "employment_type": "Part-time",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:40Z"
+   }
   },
   {
    "id": "find:468667",
@@ -430,7 +771,18 @@
    "found_at": "2026-10-29T04:52:02Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "3 years as an RN in the Operating Room.",
+    "behavioral_health": false,
+    "employment_type": "Per-Diem",
+    "work_city": "Napa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-29T04:55:43Z"
+   }
   },
   {
    "id": "find:ga:a3edc974c3b831eb634a",
@@ -4795,44 +5147,6 @@
    }
   },
   {
-   "id": "tracked:2027-kaiser-ncal-next-window",
-   "employer": "Kaiser Permanente NorCal",
-   "title": "Nurse Residency — NEXT window (expect early Nov 2026 for ~Mar 2027 start)",
-   "location": "",
-   "url": "https://www.kaiserpermanentejobs.org/nurse-residency-career/",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-10-20T16:03:03Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": null,
-   "close_source": "pattern_from_published_cohorts; MUST re-verify on the program page in Oct 2026",
-   "date_verified_at": "2026-08-23",
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter",
-    "transcript",
-    "bls"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "closed",
-   "window_checked_at": "2026-10-29T04:55:08Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "",
-    "work_city": "",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-21T14:33:15Z"
-   }
-  },
-  {
    "id": "find:ga:f7f1681d4d52715552ec",
    "employer": "Stanford Health Care Nurse Residency",
    "title": "New grad RN residency window, Stanford Health Care Nurse Residency: Get Your Resume Ready Before You Apply [pointer: verify on the hospital's page]",
@@ -6749,44 +7063,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-16T14:34:29Z"
-   }
-  },
-  {
-   "id": "tracked:2027-stanford-cohort46-newgrad",
-   "employer": "Stanford Health Care",
-   "title": "New Grad RN Residency Cohort 46 - applications open Nov 9-15 2026, cohort starts Apr 12 2027",
-   "location": "",
-   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-10-15T18:33:39Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": "2026-11-15T23:59:00-08:00",
-   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
-   "date_verified_at": "2026-10-07T01:25:00Z",
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume",
-    "transcript",
-    "essays_x3"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "scheduled",
-   "window_checked_at": "2026-10-29T03:52:44Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "full-time",
-    "work_city": "",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-16T14:34:35Z"
    }
   },
   {
@@ -19776,39 +20052,6 @@
    }
   },
   {
-   "id": "tracked:2027-lucile-packard-newgrad",
-   "employer": "Lucile Packard Children's Hospital Stanford",
-   "title": "New Graduate RN Residency - Fall 2027 cohort (application window Mar 10-17, 2027; act by Tue 3/16)",
-   "location": "",
-   "url": "https://careers.stanfordchildrens.org/rn-residency-program",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-10-01T08:40:34Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": "2027-03-17T00:00:00-07:00",
-   "close_source": "Verified on the employer page text: careers.stanfordchildrens.org/rn-residency-program, read 2026-10-01, verbatim: 'Application and Review Timeline - Fall 2027 Cohort: Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027'. No clock time stated, so close_at is the START of 3/17: act by Tue 3/16/2027.",
-   "date_verified_at": "2026-10-01T16:40:00Z",
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "scheduled",
-   "window_checked_at": "2026-10-29T03:52:45Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "May not have any paid work experience as a Registered Nurse (RN), at program start.",
-    "behavioral_health": false,
-    "employment_type": "residency",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027",
-    "checked_at": "2026-10-01T14:33:15Z"
-   }
-  },
-  {
    "id": "find:mon:5b15e9fdbd4a611bcf6b",
    "employer": "Sutter Health Bay Area",
    "title": "Staff Nurse II, Emergency Services in San Francisco, CA 94109, US at Sutter Health",
@@ -21823,6 +22066,82 @@
    "tracked": false
   },
   {
+   "id": "tracked:2027-kaiser-ncal-next-window",
+   "employer": "Kaiser Permanente NorCal",
+   "title": "Nurse Residency — NEXT window (expect early Nov 2026 for ~Mar 2027 start)",
+   "location": "",
+   "url": "https://www.kaiserpermanentejobs.org/nurse-residency-career/",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-09-06T03:17:37Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": null,
+   "close_source": "pattern_from_published_cohorts; MUST re-verify on the program page in Oct 2026",
+   "date_verified_at": "2026-08-23",
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter",
+    "transcript",
+    "bls"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "closed",
+   "window_checked_at": "2026-10-29T04:55:08Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-21T14:33:15Z"
+   }
+  },
+  {
+   "id": "tracked:2027-stanford-cohort46-newgrad",
+   "employer": "Stanford Health Care",
+   "title": "New Grad RN Residency Cohort 46 - applications open Nov 9-15 2026, cohort starts Apr 12 2027",
+   "location": "",
+   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-09-06T03:17:37Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": "2026-11-15T23:59:00-08:00",
+   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
+   "date_verified_at": "2026-10-07T01:25:00Z",
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume",
+    "transcript",
+    "essays_x3"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "scheduled",
+   "window_checked_at": "2026-10-29T03:52:44Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "full-time",
+    "work_city": "",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-16T14:34:35Z"
+   }
+  },
+  {
    "id": "tracked:2027-spring-northbay-newgrad",
    "employer": "NorthBay Health (Fairfield / Vacaville)",
    "title": "Nurse Residency Program - Spring 2027 cohort (applications Nov-Dec per page)",
@@ -21843,6 +22162,39 @@
    "new_grad_window": true,
    "window_state": "closed",
    "window_checked_at": "2026-10-29T03:52:45Z"
+  },
+  {
+   "id": "tracked:2027-lucile-packard-newgrad",
+   "employer": "Lucile Packard Children's Hospital Stanford",
+   "title": "New Graduate RN Residency - Fall 2027 cohort (application window Mar 10-17, 2027; act by Tue 3/16)",
+   "location": "",
+   "url": "https://careers.stanfordchildrens.org/rn-residency-program",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-09-06T03:17:37Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": "2027-03-17T00:00:00-07:00",
+   "close_source": "Verified on the employer page text: careers.stanfordchildrens.org/rn-residency-program, read 2026-10-01, verbatim: 'Application and Review Timeline - Fall 2027 Cohort: Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027'. No clock time stated, so close_at is the START of 3/17: act by Tue 3/16/2027.",
+   "date_verified_at": "2026-10-01T16:40:00Z",
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "scheduled",
+   "window_checked_at": "2026-10-29T03:52:45Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "May not have any paid work experience as a Registered Nurse (RN), at program start.",
+    "behavioral_health": false,
+    "employment_type": "residency",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027",
+    "checked_at": "2026-10-01T14:33:15Z"
+   }
   },
   {
    "id": "find:mon:9434acdb9553064dc4e6",
@@ -26085,6 +26437,56 @@
     "license"
    ],
    "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-telecare-corporation-registered-nurse-noc-shift-mental-healt-5bc73175",
+   "employer": "Telecare Corporation",
+   "title": "Registered Nurse (NOC shift) – Mental Health 115 (Oakland, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4475834523",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-healthcare-recruiters-international-psychiatric-nurse-47cd9755",
+   "employer": "HealthCare Recruiters International",
+   "title": "Psychiatric Nurse (Oakland, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4481388641",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
