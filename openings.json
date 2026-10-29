@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T13:11:17Z",
+ "generated_at": "2026-10-29T14:13:23Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -22090,7 +22090,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-29T11:07:08Z",
+   "window_checked_at": "2026-10-29T14:13:22Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -22140,28 +22140,6 @@
     "deadline_verbatim": "",
     "checked_at": "2026-10-16T14:34:35Z"
    }
-  },
-  {
-   "id": "tracked:2027-spring-northbay-newgrad",
-   "employer": "NorthBay Health (Fairfield / Vacaville)",
-   "title": "Nurse Residency Program - Spring 2027 cohort (applications Nov-Dec per page)",
-   "location": "",
-   "url": "https://www.northbay.org/careers/nursing/nursing-residency-program.html",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-09-06T03:17:37Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": null,
-   "close_source": "program page verified 2026-09-05 (northbay.org nursing-residency-program): 'Spring Cohort: Applications accepted between November and December. Fall Cohort: Applications accepted between May and June. (Note: Dates may change based on organizational needs.)'",
-   "date_verified_at": "2026-09-05",
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "closed",
-   "window_checked_at": "2026-10-29T13:11:16Z"
   },
   {
    "id": "tracked:2027-lucile-packard-newgrad",
@@ -22241,6 +22219,19 @@
    "title": "Department of Public Health | SF.gov",
    "location": "",
    "url": "https://www.sf.gov/departments--department-public-health",
+   "source": "monitors",
+   "kind": "announcement",
+   "found_at": "2026-09-06T03:17:37Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": false
+  },
+  {
+   "id": "find:mon:a701f7b470f69e286f08",
+   "employer": "NorthBay Health",
+   "title": "Nursing Residency Program | Nursing Careers | NorthBay Health",
+   "location": "",
+   "url": "https://www.northbay.org/careers/nursing/nursing-residency-program.html",
    "source": "monitors",
    "kind": "announcement",
    "found_at": "2026-09-06T03:17:37Z",
