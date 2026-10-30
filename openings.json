@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:57:13Z",
+ "generated_at": "2026-10-30T15:59:32Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -389,17 +389,30 @@
    }
   },
   {
-   "id": "find:5509096",
-   "employer": "santaclara",
-   "title": "Public Health Nurse I",
+   "id": "tracked:2026-santa-clara-phn-i-26-s50-a",
+   "employer": "County of Santa Clara (Public Health Department)",
+   "title": "Public Health Nurse I (job 26-S50-A, full time, throughout the county)",
    "location": "Throughout the County of Santa Clara, CA",
    "url": "https://www.governmentjobs.com/careers/santaclara/jobs/5509096/public-health-nurse-i",
-   "source": "neogov_bay_area",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-10-30T14:30:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": "2026-11-13T23:59:00-08:00",
+   "close_source": "County of Santa Clara NEOGOV posting 5509096, read 2026-10-30: 'Closing Date 11/13/2026 11:59 PM Pacific'",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "supplemental_questions",
+    "bls_card"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -5736,7 +5749,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-30T12:54:56Z",
+   "window_checked_at": "2026-10-30T15:59:28Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -6215,7 +6228,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-30T12:54:58Z",
+   "window_checked_at": "2026-10-30T15:59:29Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -7693,7 +7706,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-30T12:54:59Z",
+   "window_checked_at": "2026-10-30T15:59:31Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -20712,7 +20725,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-30T12:54:59Z",
+   "window_checked_at": "2026-10-30T15:59:31Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -25352,7 +25365,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-30T12:54:54Z"
+   "window_checked_at": "2026-10-30T15:59:26Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -25492,7 +25505,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-30T12:54:55Z"
+   "window_checked_at": "2026-10-30T15:59:26Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -25940,7 +25953,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-30T12:54:55Z"
+   "window_checked_at": "2026-10-30T15:59:27Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -26156,7 +26169,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-30T12:54:56Z"
+   "window_checked_at": "2026-10-30T15:59:27Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -26266,7 +26279,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-30T12:54:56Z"
+   "window_checked_at": "2026-10-30T15:59:27Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -26554,7 +26567,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-30T12:54:58Z"
+   "window_checked_at": "2026-10-30T15:59:29Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -27065,6 +27078,78 @@
    "license_by": null,
    "required_docs": [
     "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-palo-alto-mind-body-infusion-rn-li4481521186",
+   "employer": "Palo Alto Mind Body (Palo Alto; ketamine and interventional psychiatry clinic)",
+   "title": "Part-Time Experienced Infusion Nurse - RN or exceptional LVN (LinkedIn 4481521186)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4481521186",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (LinkedIn listing; no close date stated; paloaltomindbody.com/careers is 404, 2026-10-30)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-wellpath-dublin-rn-li4483244202",
+   "employer": "Wellpath (Dublin, correctional or detention health)",
+   "title": "Registered Nurse, full time (LinkedIn 4483244202)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4483244202",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (LinkedIn listing; posting says deadline is contingent upon applicant volume)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-san-jose-behavioral-health-rn-indeed-fc8d1d8f",
+   "employer": "San Jose Behavioral Health (San Jose, psychiatric hospital)",
+   "title": "Registered Nurse (Indeed jk=fc8d1d8f98557075)",
+   "location": "",
+   "url": "https://www.indeed.com/viewjob?jk=fc8d1d8f98557075",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (Indeed alert 10/30 only; Indeed page is behind Cloudflare and sanjosebehavioralhealth.com shows no careers link, 2026-10-30)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
     "resume"
    ],
    "last_seen_live": true,
