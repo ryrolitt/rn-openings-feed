@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T07:33:43Z",
+ "generated_at": "2026-10-31T10:40:09Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -5749,7 +5749,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-31T07:33:41Z",
+   "window_checked_at": "2026-10-31T10:40:05Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -6228,7 +6228,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-10-31T07:33:42Z",
+   "window_checked_at": "2026-10-31T10:40:06Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -7706,7 +7706,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-31T07:33:42Z",
+   "window_checked_at": "2026-10-31T10:40:08Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -20725,7 +20725,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-31T07:33:43Z",
+   "window_checked_at": "2026-10-31T10:40:08Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -25365,7 +25365,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-31T07:33:39Z"
+   "window_checked_at": "2026-10-31T10:40:03Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -25505,7 +25505,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-31T07:33:40Z"
+   "window_checked_at": "2026-10-31T10:40:04Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -25953,7 +25953,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-10-31T07:33:40Z"
+   "window_checked_at": "2026-10-31T10:40:04Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -26169,7 +26169,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-31T07:33:41Z"
+   "window_checked_at": "2026-10-31T10:40:04Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -26279,7 +26279,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-10-31T07:33:41Z"
+   "window_checked_at": "2026-10-31T10:40:05Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -26376,30 +26376,6 @@
     "resume"
    ],
    "last_seen_live": false,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-gig-ucsf-standardized-patient",
-   "employer": "UCSF (San Francisco)",
-   "title": "Standardized Patient — live posting",
-   "location": "",
-   "url": "https://www.linkedin.com/jobs/view/standardized-patient-at-university-of-california-san-francisco-4439596746",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_gig_lead",
-   "date_verified_at": "2026-08-06T00:00:00Z",
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -26567,7 +26543,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-10-31T07:33:41Z"
+   "window_checked_at": "2026-10-31T10:40:06Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
