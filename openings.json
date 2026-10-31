@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T14:48:34Z",
+ "generated_at": "2026-10-31T15:51:00Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -27605,6 +27605,30 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-mindful-health-oakland-iv-ketamine-rn",
+   "employer": "Mindful Health Solutions (outpatient interventional psychiatry, Oakland IV ketamine clinic)",
+   "title": "Per Diem IV Ketamine RN (Rippling job 8400fd9b, Oakland)",
+   "location": "",
+   "url": "https://ats.rippling.com/mindfulhealthsolutions/jobs/8400fd9b-4533-417b-91e9-d3fd2fbd54bc",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": null,
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
