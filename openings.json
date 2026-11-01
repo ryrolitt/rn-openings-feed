@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-01T15:37:49Z",
+ "generated_at": "2026-11-01T17:43:23Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
    "id": "tracked:2026-auto-adventist-health-rn-per-diem-night-shift-74566",
    "employer": "Adventist Health",
-   "title": "RN, Per Diem, Night Shift (Vallejo, CA, United States)",
+   "title": "RN, Per Diem, Night Shift, Psychiatric ICU 1, 8-hour (Vallejo, req 74566)",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74566",
    "source": "tracked",
@@ -15,9 +15,9 @@
    "bh_tag": false,
    "tier": null,
    "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
+   "close_at": "2026-11-03T11:07:00-08:00",
+   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
+   "date_verified_at": "2026-11-01T08:45:00-08:00",
    "license_by": null,
    "required_docs": [
     "cover_letter",
@@ -42,7 +42,7 @@
   {
    "id": "tracked:2026-auto-adventist-health-rn-full-time-regular-day-shift-74572",
    "employer": "Adventist Health",
-   "title": "RN, Full Time Regular, Day Shift (Vallejo, CA, United States)",
+   "title": "RN, Full Time Regular, Psychiatric ICU 1, 8-hour (Vallejo, req 74572; title says Day Shift, Oracle JobShift says Evening Shift)",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74572",
    "source": "tracked",
@@ -51,9 +51,9 @@
    "bh_tag": false,
    "tier": null,
    "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
+   "close_at": "2026-11-03T07:33:00-08:00",
+   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
+   "date_verified_at": "2026-11-01T08:45:00-08:00",
    "license_by": null,
    "required_docs": [
     "cover_letter",
@@ -78,7 +78,7 @@
   {
    "id": "tracked:2026-auto-adventist-health-rn-part-time-regular-day-shift-74568",
    "employer": "Adventist Health",
-   "title": "RN, Part Time Regular, Day Shift (Vallejo, CA, United States)",
+   "title": "RN, Part Time Regular, Day Shift, Psychiatric Acute - Ped/Adolescent 2, 8-hour (Vallejo, req 74568)",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74568",
    "source": "tracked",
@@ -87,9 +87,9 @@
    "bh_tag": false,
    "tier": null,
    "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
+   "close_at": "2026-11-04T11:40:00-08:00",
+   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
+   "date_verified_at": "2026-11-01T08:45:00-08:00",
    "license_by": null,
    "required_docs": [
     "cover_letter",
@@ -112,17 +112,28 @@
    }
   },
   {
-   "id": "find:74550",
-   "employer": "Adventist Health",
-   "title": "RN, Full Time Regular, Night Shift",
+   "id": "tracked:2026-adventist-st-helena-acute-74550",
+   "employer": "Adventist Health St. Helena (Napa)",
+   "title": "RN, Full Time Regular, Night Shift, Surgical ICU 1, 12-hour (Saint Helena, req 74550)",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74550",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-01T15:30:37Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": "2026-11-04T11:49:00-08:00",
+   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
+   "date_verified_at": "2026-11-01T08:45:00-08:00",
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -136,17 +147,28 @@
    }
   },
   {
-   "id": "find:74557",
-   "employer": "Adventist Health",
-   "title": "RN, Full Time Regular, Night Shift",
+   "id": "tracked:2026-adventist-st-helena-acute-74557",
+   "employer": "Adventist Health St. Helena (Napa)",
+   "title": "RN, Full Time Regular, Night Shift, Med/Surg Acute 2, 12-hour (Saint Helena, req 74557)",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74557",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-01T15:30:37Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": "2026-11-04T11:44:00-08:00",
+   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
+   "date_verified_at": "2026-11-01T08:45:00-08:00",
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -6579,7 +6601,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-01T14:35:33Z",
+   "window_checked_at": "2026-11-01T17:43:19Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -7058,7 +7080,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-01T14:35:34Z",
+   "window_checked_at": "2026-11-01T17:43:21Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8536,7 +8558,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-01T14:35:34Z",
+   "window_checked_at": "2026-11-01T17:43:22Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -21555,7 +21577,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-01T14:35:34Z",
+   "window_checked_at": "2026-11-01T17:43:23Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -26195,7 +26217,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-01T14:35:31Z"
+   "window_checked_at": "2026-11-01T17:43:17Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -26335,7 +26357,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-01T14:35:32Z"
+   "window_checked_at": "2026-11-01T17:43:18Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -26783,7 +26805,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-01T14:35:32Z"
+   "window_checked_at": "2026-11-01T17:43:18Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -26999,7 +27021,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-01T14:35:32Z"
+   "window_checked_at": "2026-11-01T17:43:18Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -27109,7 +27131,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-11-01T14:35:32Z"
+   "window_checked_at": "2026-11-01T17:43:19Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -27373,7 +27395,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-01T14:35:33Z"
+   "window_checked_at": "2026-11-01T17:43:20Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -28105,6 +28127,30 @@
    "license_by": null,
    "required_docs": [
     "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-santa-rosa-community-health-homeless-rn-li4485389697",
+   "employer": "Santa Rosa Community Health",
+   "title": "RN Homeless Case Manager (LinkedIn 4485389697)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4485389697",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (LinkedIn listing; employer board not read)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
     "resume"
    ],
    "last_seen_live": true,
