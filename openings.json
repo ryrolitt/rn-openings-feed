@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T23:50:50Z",
+ "generated_at": "2026-11-03T01:57:00Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -102,114 +102,6 @@
    "tracked": false
   },
   {
-   "id": "tracked:2026-auto-adventist-health-rn-per-diem-night-shift-74566",
-   "employer": "Adventist Health",
-   "title": "RN, Per Diem, Night Shift, Psychiatric ICU 1, 8-hour (Vallejo, req 74566)",
-   "location": "Vallejo, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74566",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-01T15:30:37Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2026-11-03T11:07:00-08:00",
-   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
-   "date_verified_at": "2026-11-01T08:45:00-08:00",
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "Per Diem",
-    "work_city": "Vallejo",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-01T15:32:41Z"
-   }
-  },
-  {
-   "id": "tracked:2026-auto-adventist-health-rn-full-time-regular-day-shift-74572",
-   "employer": "Adventist Health",
-   "title": "RN, Full Time Regular, Psychiatric ICU 1, 8-hour (Vallejo, req 74572; title says Day Shift, Oracle JobShift says Evening Shift)",
-   "location": "Vallejo, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74572",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-01T15:30:37Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2026-11-03T07:33:00-08:00",
-   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
-   "date_verified_at": "2026-11-01T08:45:00-08:00",
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "full-time",
-    "work_city": "Vallejo",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-01T15:32:45Z"
-   }
-  },
-  {
-   "id": "tracked:2026-auto-adventist-health-rn-part-time-regular-day-shift-74568",
-   "employer": "Adventist Health",
-   "title": "RN, Part Time Regular, Day Shift, Psychiatric Acute - Ped/Adolescent 2, 8-hour (Vallejo, req 74568)",
-   "location": "Vallejo, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74568",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-01T15:30:37Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2026-11-04T11:40:00-08:00",
-   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate), read 2026-11-01",
-   "date_verified_at": "2026-11-01T08:45:00-08:00",
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "part-time",
-    "work_city": "Vallejo",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-01T15:32:48Z"
-   }
-  },
-  {
    "id": "tracked:2026-adventist-st-helena-acute-74550",
    "employer": "Adventist Health St. Helena (Napa)",
    "title": "RN, Full Time Regular, Night Shift, Surgical ICU 1, 12-hour (Saint Helena, req 74550)",
@@ -277,6 +169,78 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-01T15:32:36Z"
+   }
+  },
+  {
+   "id": "find:74566",
+   "employer": "Adventist Health",
+   "title": "RN, Per Diem, Night Shift",
+   "location": "Vallejo, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74566",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-11-01T15:30:37Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "Per Diem",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-01T15:32:41Z"
+   }
+  },
+  {
+   "id": "find:74572",
+   "employer": "Adventist Health",
+   "title": "RN, Full Time Regular, Day Shift",
+   "location": "Vallejo, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74572",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-11-01T15:30:37Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "full-time",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-01T15:32:45Z"
+   }
+  },
+  {
+   "id": "find:74568",
+   "employer": "Adventist Health",
+   "title": "RN, Part Time Regular, Day Shift",
+   "location": "Vallejo, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74568",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-11-01T15:30:37Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "part-time",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-01T15:32:48Z"
    }
   },
   {
