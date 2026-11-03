@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T06:05:49Z",
+ "generated_at": "2026-11-03T07:08:12Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -28207,6 +28207,30 @@
     "resume"
    ],
    "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-adventist-st-helena-psych-acute-74538",
+   "employer": "Adventist Health St. Helena (Napa)",
+   "title": "RN, Part Time Regular, Day Shift, Psychiatric Acute 1, 12-hour (Saint Helena, req 74538)",
+   "location": "",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74538",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": "2026-11-05T11:14:00-08:00",
+   "close_source": "primary source: employer's own Oracle requisition record (ecvz.fa.us2.oraclecloud.com recruitingCEJobRequisitionDetails ById, field ExternalPostedEndDate 2026-11-05T19:14:00+00:00), read 2026-11-02 22:15 PT",
+   "date_verified_at": "2026-11-01T08:45:00-08:00",
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": null,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
