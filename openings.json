@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T20:53:37Z",
+ "generated_at": "2026-11-04T21:56:04Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -19,7 +19,10 @@
    "close_source": "UCSF Oracle HCM recruitingCEJobRequisitionDetails ById 10393, read 2026-11-04 08:40 PT: ExternalPostedEndDate '2026-11-10T08:00:00+00:00' (= 00:00 PT Tue 11/10, locks start of 11/10, act by Mon 11/9).",
    "date_verified_at": null,
    "license_by": null,
-   "required_docs": [],
+   "required_docs": [
+    "Resume (required slot)",
+    "Cover letter (recommended slot)"
+   ],
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
