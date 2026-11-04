@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T02:02:58Z",
+ "generated_at": "2026-11-04T05:10:34Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -220,31 +220,6 @@
    "bh_tag": false,
    "tier": null,
    "tracked": false
-  },
-  {
-   "id": "tracked:2026-va-palo-alto-inpatient-mental-health-rn-891209700",
-   "employer": "VA Palo Alto Health Care System",
-   "title": "Nurse - Inpatient, Inpatient Acute Mental Health Unit (BSW-13100962-27-DG, 1 vacancy, FT, 3:30pm-Midnight)",
-   "location": "",
-   "url": "https://www.usajobs.gov/job/891209700",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-03T16:36:05+00:00",
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": "2026-11-10T20:59:00-08:00",
-   "close_source": "Verified on the employer page text: usajobs.gov/job/891209700 read 2026-11-03 08:45 PT, verbatim: 'must be submitted by 11:59 PM (ET) on 11/10/2026 to receive consideration' (= 8:59 PM PT) and 'Open 11/02/2026 to 11/10/2026'. CEILING ONLY: same page, 'This job will close when we have received 50 applications which may be sooner than the closing date.'",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "Long-form resume/CV",
-    "Cover Letter (accepted)"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
   },
   {
    "id": "find:8983",
@@ -7338,7 +7313,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-04T02:02:54Z",
+   "window_checked_at": "2026-11-04T05:10:31Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -23783,7 +23758,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-04T02:02:50Z",
+   "window_checked_at": "2026-11-04T05:10:31Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -23821,7 +23796,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-04T02:02:55Z",
+   "window_checked_at": "2026-11-04T05:10:33Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -23854,7 +23829,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-04T02:02:57Z",
+   "window_checked_at": "2026-11-04T05:10:33Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -26480,7 +26455,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-04T02:02:42Z"
+   "window_checked_at": "2026-11-04T05:10:29Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -26620,7 +26595,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-04T02:02:43Z"
+   "window_checked_at": "2026-11-04T05:10:30Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -27068,7 +27043,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-04T02:02:45Z"
+   "window_checked_at": "2026-11-04T05:10:30Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -27284,7 +27259,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-04T02:02:48Z"
+   "window_checked_at": "2026-11-04T05:10:30Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -27394,7 +27369,7 @@
    "last_seen_live": false,
    "new_grad_window": true,
    "window_state": "unreachable",
-   "window_checked_at": "2026-11-04T02:02:50Z"
+   "window_checked_at": "2026-11-04T05:10:30Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -27658,7 +27633,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-04T02:02:52Z"
+   "window_checked_at": "2026-11-04T05:10:31Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
