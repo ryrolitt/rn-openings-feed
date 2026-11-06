@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T14:01:25Z",
+ "generated_at": "2026-11-06T16:03:45Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "find:11419",
+   "employer": "UCSF Health",
+   "title": "Registered Nurse - Neuro ICU",
+   "location": "San Francisco, CA, United States",
+   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11419",
+   "source": "ucsf_oracle",
+   "kind": "posting",
+   "found_at": "2026-11-06T15:30:58Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two years of recent (within the past 4 years) adult Neuro Critical Care (ICU) clinical RN experience",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:23Z"
+   }
+  },
+  {
+   "id": "find:R-144356",
+   "employer": "sutter",
+   "title": "Staff Nurse II, Horizon View",
+   "location": "Santa Rosa, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-144356",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-11-06T15:30:18Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Santa Rosa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:30Z"
+   }
+  },
+  {
+   "id": "find:467051",
+   "employer": "Providence",
+   "title": "RN - Skilled Nursing Care - Per Diem Evening",
+   "location": "Healdsburg, CA",
+   "url": "https://providence.jobs/healdsburg-ca/rn-skilled-nursing-care-per-diem-evening/2131EC97552242C0AED535505FAF01E9/job/",
+   "source": "providence",
+   "kind": "posting",
+   "found_at": "2026-11-06T15:30:07Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "+ 1 year Nursing experience.",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "Healdsburg",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:33Z"
+   }
+  },
   {
    "id": "find:ga:6ae5f2f311bc44fed8dc",
    "employer": "Providence Queen of the Valley Medical Center",
@@ -30,11 +102,11 @@
    "tracked": false
   },
   {
-   "id": "tracked:2026-telecare-willow-rock-acute-rn-supervisor-pm-acute031073",
-   "employer": "Telecare Corporation - Willow Rock (San Leandro; adolescent PHF)",
-   "title": "Acute RN Supervisor (PM shift) - Mental Health 169, 0.8 FTE Sat-Tue 3:00-11:30 PM (req ACUTE031073)",
+   "id": "tracked:2026-auto-telecare-corporation-acute-rn-supervisor-on-call-mental-heal-te031178",
+   "employer": "Telecare Corporation",
+   "title": "Acute RN Supervisor (on call)  - Mental Health 169 (San Leandro, CA)",
    "location": "San Leandro, CA",
-   "url": "https://recruiting2.ultipro.com/TEL1006/JobBoard/2fcbb6f4-e717-17cb-9327-3dd87a55b08d/OpportunityDetail?opportunityId=730a3806-cb13-4827-a5e8-5d2cfb3d4b2f",
+   "url": "https://recruiting2.ultipro.com/TEL1006/JobBoard/2fcbb6f4-e717-17cb-9327-3dd87a55b08d/OpportunityDetail?opportunityId=8e46fd03-aaa8-4369-b9f8-a8627190c811",
    "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-05T17:50:51Z",
@@ -42,14 +114,14 @@
    "tier": null,
    "tracked": true,
    "close_at": null,
-   "close_source": "rolling_direct_hire (posting has no close date; verify on posting)",
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": true,
+   "last_seen_live": null,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null,
@@ -927,7 +999,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "Novato",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:40Z"
+   }
   },
   {
    "id": "find:R-140106",
@@ -940,7 +1023,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:45Z"
+   }
   },
   {
    "id": "find:R-144709",
@@ -953,7 +1047,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:52Z"
+   }
   },
   {
    "id": "find:R-143450",
@@ -966,7 +1071,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience working in ICU",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:31:58Z"
+   }
   },
   {
    "id": "find:R-144760",
@@ -979,7 +1095,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Antioch",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:32:03Z"
+   }
   },
   {
    "id": "find:R-144817",
@@ -992,7 +1119,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE 2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Santa Rosa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:32:08Z"
+   }
   },
   {
    "id": "find:R-144355",
@@ -1029,7 +1167,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "San Jose",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:32:14Z"
+   }
   },
   {
    "id": "find:R-131565",
@@ -1042,7 +1191,18 @@
    "found_at": "2026-11-05T17:49:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "San Jose",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-06T15:32:19Z"
+   }
   },
   {
    "id": "tracked:2026-ucsf-health-ed-behavioral-health-rn-10393",
@@ -29289,6 +29449,31 @@
    "window_checked_at": null
   },
   {
+   "id": "tracked:2026-telecare-willow-rock-acute-rn-supervisor-pm-acute031073",
+   "employer": "Telecare Corporation - Willow Rock (San Leandro; adolescent PHF)",
+   "title": "Acute RN Supervisor (PM shift) - Mental Health 169, 0.8 FTE Sat-Tue 3:00-11:30 PM (req ACUTE031073)",
+   "location": "",
+   "url": "https://recruiting2.ultipro.com/TEL1006/JobBoard/2fcbb6f4-e717-17cb-9327-3dd87a55b08d/OpportunityDetail?opportunityId=730a3806-cb13-4827-a5e8-5d2cfb3d4b2f",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (posting has no close date; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
    "id": "tracked:2026-va-santa-rosa-specialty-care-rn-890092000",
    "employer": "VA San Francisco HCS (Santa Rosa VA Outpatient Clinic)",
    "title": "Specialty Care Registered Nurse - North Santa Rosa (USAJobs 890092000)",
@@ -29702,6 +29887,156 @@
     "resume"
    ],
    "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-u-s-department-of-veterans-affairs-behavioral-health-interdi-498344a1",
+   "employer": "U.S. Department of Veterans Affairs",
+   "title": "Behavioral Health Interdisciplinary Program (BHIP) RN (Oakland, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4487518161",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-ucsf-health-registered-nurse-behavioral-health-nurse-30b81cdb",
+   "employer": "UCSF Health",
+   "title": "Registered Nurse - Behavioral Health Nurse (San Francisco, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4487074637",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-sacramento-behavioral-healthcare-hospital-inpatient-psychiat-9135b0f1",
+   "employer": "Sacramento Behavioral Healthcare Hospital",
+   "title": "Inpatient Psychiatric Registered Nurse (Santa Rosa) (Nursing) (Santa Rosa, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4487540133",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-commonspirit-health-national-resident-rn-0e6db200",
+   "employer": "CommonSpirit Health",
+   "title": "National Resident RN (Santa Cruz, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4486313259",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-dignity-health-national-resident-rn-753a5023",
+   "employer": "Dignity Health",
+   "title": "National Resident RN (Santa Cruz, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4485030095",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-commonspirit-health-national-resident-rn-bd8ef201",
+   "employer": "CommonSpirit Health",
+   "title": "National Resident RN (Santa Cruz, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4486302723",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
