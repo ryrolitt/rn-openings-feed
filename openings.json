@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T16:03:45Z",
+ "generated_at": "2026-11-06T17:06:39Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -121,7 +121,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": null,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null,
@@ -402,17 +402,26 @@
    }
   },
   {
-   "id": "find:102785893968",
-   "employer": "dignity",
-   "title": "National Resident RN",
+   "id": "tracked:2026-dignity-dominican-national-resident-rn",
+   "employer": "Dignity Health / Dominican Hospital (Santa Cruz)",
+   "title": "National Resident RN (new-grad residency, Med/Surg Acute) (iCIMS 477513)",
    "location": "Santa Cruz, CA",
    "url": "https://www.commonspirit.careers/job/santa-cruz/national-resident-rn/35300/102785893968",
-   "source": "dignity",
-   "kind": "posting",
+   "source": "tracked",
+   "kind": "residency_window",
    "found_at": "2026-11-05T17:50:36Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": null,
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "unknown",
+   "window_checked_at": "2026-11-06T17:06:35Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8342,7 +8351,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-06T12:56:33Z",
+   "window_checked_at": "2026-11-06T17:06:35Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8821,7 +8830,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-06T12:56:37Z",
+   "window_checked_at": "2026-11-06T17:06:37Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10299,7 +10308,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-06T12:56:42Z",
+   "window_checked_at": "2026-11-06T17:06:38Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -23285,7 +23294,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-06T14:01:25Z",
+   "window_checked_at": "2026-11-06T17:06:38Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -27925,7 +27934,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-06T12:56:30Z"
+   "window_checked_at": "2026-11-06T17:06:33Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -28065,7 +28074,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-06T12:56:31Z"
+   "window_checked_at": "2026-11-06T17:06:34Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -28513,7 +28522,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-06T12:56:31Z"
+   "window_checked_at": "2026-11-06T17:06:34Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -28729,7 +28738,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-06T12:56:32Z"
+   "window_checked_at": "2026-11-06T17:06:35Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -28818,28 +28827,6 @@
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-dignity-dominican-national-resident-rn",
-   "employer": "Dignity Health / Dominican Hospital (Santa Cruz)",
-   "title": "National Resident RN (new-grad residency, Med/Surg Acute) (iCIMS 477513)",
-   "location": "",
-   "url": "https://www.commonspirit.careers/job/santa-cruz/national-resident-rn/35300/97752287840",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": null,
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
-   "last_seen_live": false,
-   "new_grad_window": true,
-   "window_state": "unreachable",
-   "window_checked_at": "2026-11-06T12:56:32Z"
   },
   {
    "id": "tracked:2026-09-ucla-health-nurse-residency",
@@ -29103,7 +29090,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-06T12:56:35Z"
+   "window_checked_at": "2026-11-06T17:06:36Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -29946,7 +29933,7 @@
    "employer": "Sacramento Behavioral Healthcare Hospital",
    "title": "Inpatient Psychiatric Registered Nurse (Santa Rosa) (Nursing) (Santa Rosa, CA)",
    "location": "",
-   "url": "https://www.linkedin.com/jobs/view/4487540133",
+   "url": "https://apply.workable.com/northern-california-behavioral-health-system/j/7DD662279E/",
    "source": "tracked",
    "kind": "posting",
    "found_at": null,
@@ -29961,7 +29948,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": null,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
