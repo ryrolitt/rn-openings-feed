@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T15:45:06Z",
+ "generated_at": "2026-11-07T17:49:57Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -30366,8 +30366,8 @@
   },
   {
    "id": "tracked:2026-auto-hanker-systems-inc-rn-behavioral-health-642c73c7",
-   "employer": "Hanker Systems, Inc.",
-   "title": "RN - Behavioral Health (Vallejo, CA)",
+   "employer": "Hanker Systems, Inc. (staffing firm; client facility not named, Vallejo inpatient psych)",
+   "title": "RN - Behavioral Health (Vallejo, CA; LinkedIn 4488055729)",
    "location": "",
    "url": "https://www.linkedin.com/jobs/view/4488055729",
    "source": "tracked",
@@ -30391,7 +30391,7 @@
   },
   {
    "id": "tracked:2026-auto-embark-behavioral-health-registered-nurse-adolescent-behavio-e5c4a940",
-   "employer": "Embark Behavioral Health",
+   "employer": "Embark Behavioral Health (San Martin STRTC, adolescent residential)",
    "title": "Registered Nurse - Adolescent Behavioral Health (San Jose, CA)",
    "location": "",
    "url": "https://www.linkedin.com/jobs/view/4452086260",
@@ -30407,6 +30407,30 @@
    "license_by": null,
    "required_docs": [
     "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-wellpath-napa-rn-li4486928407",
+   "employer": "Wellpath (Napa, correctional or detention health)",
+   "title": "Registered Nurse (LinkedIn 4486928407)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4486928407",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (LinkedIn listing; posting says 'Deadline to apply to this position is contingent upon applicant volume')",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
     "resume"
    ],
    "last_seen_live": true,
