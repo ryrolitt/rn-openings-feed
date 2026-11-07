@@ -1,8 +1,344 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T12:39:04Z",
+ "generated_at": "2026-11-07T15:45:06Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "find:5860",
+   "employer": "NorthBay Health",
+   "title": "Clinical Nurse II - VCVH ED (Part-Time, Evening)",
+   "location": "Vacaville, CA, United States",
+   "url": "https://erou.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5860",
+   "source": "northbay",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:40Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0.5,
+    "experience_quote": "A minimum of six months acute care RN experience required",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Vacaville",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:32:39Z"
+   }
+  },
+  {
+   "id": "find:5936",
+   "employer": "NorthBay Health",
+   "title": "Program Coordinator, Joint Replacement/Ortho (RN) - (Full Time, Day)",
+   "location": "Vacaville, CA, United States",
+   "url": "https://erou.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5936",
+   "source": "northbay",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:40Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "At least three years of professional nursing experience in an acute care setting.",
+    "behavioral_health": false,
+    "employment_type": "full time",
+    "work_city": "Vacaville",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:32:43Z"
+   }
+  },
+  {
+   "id": "find:5543300",
+   "employer": "santaclara",
+   "title": "Clinical Nurse III - Emergency Department",
+   "location": "Throughout the County of Santa Clara, CA",
+   "url": "https://www.governmentjobs.com/careers/santaclara/jobs/5543300/clinical-nurse-iii-emergency-department",
+   "source": "neogov_bay_area",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:23Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "Three (3) years of full-time Registered Nurse (RN) experience, of which one (1) year must have been within the last three (3) years, in an accredited acute care hospital setting.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:32:47Z"
+   }
+  },
+  {
+   "id": "find:5541387",
+   "employer": "santaclara",
+   "title": "Per Diem Clinical Nurse - Progressive Care",
+   "location": "Throughout the County of Santa Clara, CA",
+   "url": "https://www.governmentjobs.com/careers/santaclara/jobs/5541387/per-diem-clinical-nurse-progressive-care",
+   "source": "neogov_bay_area",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:23Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One (1) year, within the last three (3) years, of full-time Registered Nurse (RN) experience in an accredited hospital, clinic, or healthcare setting.",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "San Jose",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:32:52Z"
+   }
+  },
+  {
+   "id": "find:R-144645",
+   "employer": "sutter",
+   "title": "Clinic RN II, Surgical Oncology/Head and Neck",
+   "location": "Oakland, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-144645",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:17Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience Required",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:32:58Z"
+   }
+  },
+  {
+   "id": "find:R-144198",
+   "employer": "sutter",
+   "title": "Registered Nurse II, Urgent Care Limited Term",
+   "location": "Palo Alto, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-144198",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:17Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "One year of clinical experience Recent experience is strongly preferred",
+    "behavioral_health": false,
+    "employment_type": "Limited Term",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:06Z"
+   }
+  },
+  {
+   "id": "find:R-145394",
+   "employer": "sutter",
+   "title": "Living Donor Nurse Supervisor",
+   "location": "San Francisco, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-145394",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:17Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 5 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:11Z"
+   }
+  },
+  {
+   "id": "find:R-145842",
+   "employer": "sutter",
+   "title": "Ambulatory Services Nurse II, Operating Room, Gastroenterology",
+   "location": "Novato, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-145842",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:17Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Novato",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:21Z"
+   }
+  },
+  {
+   "id": "find:102969628752",
+   "employer": "kaiser",
+   "title": "Staff Nurse II",
+   "location": "Redwood City, CA, Onsite, Regular, Full-time, Day shift, 40 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/redwood-city/staff-nurse-ii/641/102969628752",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:11Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year recent (within the last 3 years) experience in surgical services practice",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Redwood City",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:35Z"
+   }
+  },
+  {
+   "id": "find:102964282704",
+   "employer": "kaiser",
+   "title": "Staff Nurse II - Operating Room",
+   "location": "San Rafael, Marin, CA, Onsite, Regular, Call-in/On-Call, Day shift, 1 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/san-rafael/staff-nurse-ii-operating-room/641/102964282704",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:11Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One year recent (within the last 3 years) experience as a Registered Nurse (RN) in an Acute hospital setting circulating on a variety of surgical procedures in multiple specialties",
+    "behavioral_health": false,
+    "employment_type": "Regular",
+    "work_city": "San Rafael",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:40Z"
+   }
+  },
+  {
+   "id": "find:102961172336",
+   "employer": "kaiser",
+   "title": "Home Health Nurse II",
+   "location": "Vallejo, CA, Onsite, Regular, Call-in/On-Call, Day shift, 1 hours",
+   "url": "https://www.kaiserpermanentejobs.org/job/vallejo/home-health-nurse-ii/641/102961172336",
+   "source": "kaiser",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:11Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two years applicable registered nurse experience within the last five (5) years, as determined by the Employer, of which at least six (6) months must be home health experience within a hospital-based or community based home health agency.",
+    "behavioral_health": false,
+    "employment_type": "Regular",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:45Z"
+   }
+  },
+  {
+   "id": "find:470412",
+   "employer": "Providence",
+   "title": "RN - NICU - Full Time Night",
+   "location": "Santa Rosa, CA",
+   "url": "https://providence.jobs/santa-rosa-ca/rn-nicu-full-time-night/088273DBBCDC422BAF060A5BA75A0253/job/",
+   "source": "providence",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:07Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year Nursing experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Santa Rosa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:51Z"
+   }
+  },
+  {
+   "id": "find:470404",
+   "employer": "Providence",
+   "title": "RN - ICU - Full Time Night",
+   "location": "Santa Rosa, CA",
+   "url": "https://providence.jobs/santa-rosa-ca/rn-icu-full-time-night/8E61AF35CA6D4F72AD8C37FFD5CE119F/job/",
+   "source": "providence",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:07Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year Nursing experience.",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Santa Rosa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:56Z"
+   }
+  },
+  {
+   "id": "find:468792",
+   "employer": "Providence",
+   "title": "House Supervisor RN - Per Diem Night",
+   "location": "Healdsburg, CA",
+   "url": "https://providence.jobs/healdsburg-ca/house-supervisor-rn-per-diem-night/627088F7DE6C4A248EB30E5B9C5E4676/job/",
+   "source": "providence",
+   "kind": "posting",
+   "found_at": "2026-11-07T15:30:07Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year of Charge Nurse or leadership experience and demonstrated leadership abilities.",
+    "behavioral_health": false,
+    "employment_type": "Per-Diem",
+    "work_city": "Petaluma",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-07T15:33:59Z"
+   }
+  },
   {
    "id": "find:11419",
    "employer": "UCSF Health",
@@ -421,7 +757,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-07T12:39:02Z",
+   "window_checked_at": "2026-11-07T15:45:04Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8351,7 +8687,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-07T12:39:02Z",
+   "window_checked_at": "2026-11-07T15:45:04Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8830,7 +9166,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-07T12:39:03Z",
+   "window_checked_at": "2026-11-07T15:45:05Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10308,7 +10644,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-07T12:39:03Z",
+   "window_checked_at": "2026-11-07T15:45:05Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -23294,7 +23630,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-07T12:39:04Z",
+   "window_checked_at": "2026-11-07T15:45:06Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -27934,7 +28270,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-07T12:39:01Z"
+   "window_checked_at": "2026-11-07T15:45:03Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -28074,7 +28410,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-07T12:39:01Z"
+   "window_checked_at": "2026-11-07T15:45:03Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -28522,7 +28858,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-07T12:39:01Z"
+   "window_checked_at": "2026-11-07T15:45:03Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -28738,7 +29074,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-07T12:39:02Z"
+   "window_checked_at": "2026-11-07T15:45:04Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -29090,7 +29426,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-07T12:39:03Z"
+   "window_checked_at": "2026-11-07T15:45:05Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -30024,6 +30360,56 @@
     "resume"
    ],
    "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-hanker-systems-inc-rn-behavioral-health-642c73c7",
+   "employer": "Hanker Systems, Inc.",
+   "title": "RN - Behavioral Health (Vallejo, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4488055729",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-auto-embark-behavioral-health-registered-nurse-adolescent-behavio-e5c4a940",
+   "employer": "Embark Behavioral Health",
+   "title": "Registered Nurse - Adolescent Behavioral Health (San Jose, CA)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4452086260",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
