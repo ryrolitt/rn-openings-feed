@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T20:23:43Z",
+ "generated_at": "2026-11-09T22:31:42Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -29904,30 +29904,6 @@
    "tracked": true,
    "close_at": null,
    "close_source": "rolling direct hire; no close date on the UHS posting (jobs.uhsinc.com API, read 2026-09-25)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-ahmc-seton-daly-city-ed-staff-nurse-i",
-   "employer": "AHMC Seton Medical Center (Daly City)",
-   "title": "STAFF NURSE I, Emergency Services, Regular Full-Time, Variable shift (iCIMS req28856)",
-   "location": "",
-   "url": "https://careers-ahmchealth.icims.com/jobs/28856/staff-nurse-i/job",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling; no close date on the employer's iCIMS posting (read 2026-09-26)",
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [
