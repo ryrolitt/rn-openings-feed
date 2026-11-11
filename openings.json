@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:33:56Z",
+ "generated_at": "2026-11-11T18:05:16Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -66,7 +66,18 @@
    "found_at": "2026-11-11T15:31:04Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "3 years inpatient adult OR scrub RN",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:17Z"
+   }
   },
   {
    "id": "find:11244",
@@ -79,7 +90,18 @@
    "found_at": "2026-11-11T15:31:04Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two years of recent Registered Nurse clinical experience in an Ambulatory or Emergency Department setting",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "Redwood City",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:21Z"
+   }
   },
   {
    "id": "find:11451",
@@ -92,7 +114,18 @@
    "found_at": "2026-11-11T15:31:04Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) or more years of recent pediatric nursing experience with at least 1 year in oncology, or 2 years of other directly relevant clinical experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:25Z"
+   }
   },
   {
    "id": "find:11427",
@@ -105,7 +138,18 @@
    "found_at": "2026-11-11T15:31:04Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 5,
+    "experience_quote": "Recent five (5) years of adult solid organ transplant nursing employment experience as an outpatient or inpatient Transplant Coordinator",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:32Z"
+   }
   },
   {
    "id": "find:11484",
@@ -118,7 +162,18 @@
    "found_at": "2026-11-11T15:31:04Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 5,
+    "experience_quote": "5+ years of related work experience in high-risk OB and/or fetal medicine",
+    "behavioral_health": false,
+    "employment_type": "full time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:40Z"
+   }
   },
   {
    "id": "find:103137618064",
@@ -131,7 +186,18 @@
    "found_at": "2026-11-11T15:30:55Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "Santa Cruz",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:44Z"
+   }
   },
   {
    "id": "find:103137617984",
@@ -144,7 +210,18 @@
    "found_at": "2026-11-11T15:30:55Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "Santa Cruz",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:45Z"
+   }
   },
   {
    "id": "find:R00018052",
@@ -157,7 +234,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Must have recent one (1) year clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Los Gatos",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:45Z"
+   }
   },
   {
    "id": "find:R00017994",
@@ -170,7 +258,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Must have recent clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:50Z"
+   }
   },
   {
    "id": "find:R00017889",
@@ -183,7 +282,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Must have recent clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:54Z"
+   }
   },
   {
    "id": "find:R00017907",
@@ -196,7 +306,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Must have recent clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:33:58Z"
+   }
   },
   {
    "id": "find:R00017891",
@@ -209,7 +330,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Must have recent clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:02Z"
+   }
   },
   {
    "id": "find:R00017892",
@@ -222,7 +354,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Must have recent clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "Part time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:08Z"
+   }
   },
   {
    "id": "find:R00018046",
@@ -235,7 +378,18 @@
    "found_at": "2026-11-11T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Must have recent one (1) year clinical nursing experience in area of specialty.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:12Z"
+   }
   },
   {
    "id": "find:2245772",
@@ -248,7 +402,18 @@
    "found_at": "2026-11-11T15:30:45Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "Required Experience: Three years of acute care nursing",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Oakland",
+    "restricted_to_internal": true,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:17Z"
+   }
   },
   {
    "id": "find:2245733",
@@ -261,7 +426,18 @@
    "found_at": "2026-11-11T15:30:45Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum Experience: Six months experience as a Clinical Nurse I with AHS or the equivalent of one year full time recent experience at a comparable level in a minimum 100-bed hospital or in the area of specialty;",
+    "behavioral_health": true,
+    "employment_type": "Full Time",
+    "work_city": "San Leandro",
+    "restricted_to_internal": true,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:22Z"
+   }
   },
   {
    "id": "find:5547191",
@@ -274,7 +450,18 @@
    "found_at": "2026-11-11T15:30:29Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Acute Care (All Acute Care Assignments): Experience: One (1) year of full-time experience, or its equivalent, performing duties of a registered nurse in an acute care setting obtained in the United States within the last five (5) years.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "Martinez",
+    "restricted_to_internal": true,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:27Z"
+   }
   },
   {
    "id": "find:R-144495",
@@ -287,7 +474,18 @@
    "found_at": "2026-11-11T15:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "DEPARTMENT SPECIFIC EXPERIENCE: One year of Chemotherapy/Infusion Experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Santa Cruz",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:34Z"
+   }
   },
   {
    "id": "find:R-145289",
@@ -300,7 +498,18 @@
    "found_at": "2026-11-11T15:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:40Z"
+   }
   },
   {
    "id": "find:R-145284",
@@ -313,7 +522,18 @@
    "found_at": "2026-11-11T15:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:45Z"
+   }
   },
   {
    "id": "find:R-144543",
@@ -326,7 +546,18 @@
    "found_at": "2026-11-11T15:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Limited Term (Fixed Term)",
+    "work_city": "Berkeley",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:34:52Z"
+   }
   },
   {
    "id": "find:R-144420",
@@ -339,7 +570,18 @@
    "found_at": "2026-11-11T15:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two year current experience in area of specialty Required",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Castro Valley",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:04Z"
+   }
   },
   {
    "id": "find:R-144562",
@@ -352,7 +594,18 @@
    "found_at": "2026-11-11T15:30:21Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:10Z"
+   }
   },
   {
    "id": "find:R2660322",
@@ -365,7 +618,18 @@
    "found_at": "2026-11-11T15:30:19Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1.5,
+    "experience_quote": "Minimum 1.5 years (18 months) of recent ICU (dedicated unit-based) experience required",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "PALO ALTO",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:15Z"
+   }
   },
   {
    "id": "find:103123611200",
@@ -378,7 +642,18 @@
    "found_at": "2026-11-11T15:30:15Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1.5,
+    "experience_quote": "Minimum of 1.5 years or 18 months of recent L&D experience, preferably in a center serving high risk patients.",
+    "behavioral_health": false,
+    "employment_type": "Full time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:22Z"
+   }
   },
   {
    "id": "find:103127910448",
@@ -391,7 +666,18 @@
    "found_at": "2026-11-11T15:30:15Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Experience: Minimum 2 years of previous pediatric ICU and/or cardiac experience required.",
+    "behavioral_health": false,
+    "employment_type": "Full time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:27Z"
+   }
   },
   {
    "id": "find:103137093424",
@@ -417,7 +703,18 @@
    "found_at": "2026-11-11T15:30:13Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Six months recent (within the last 3 years) experience as a registered nurse in acute care Pediatrics",
+    "behavioral_health": false,
+    "employment_type": "regular",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:38Z"
+   }
   },
   {
    "id": "find:467274",
@@ -430,7 +727,18 @@
    "found_at": "2026-11-11T15:30:08Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 5,
+    "experience_quote": "5 years of Nursing Experience",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "Napa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-11T15:35:43Z"
+   }
   },
   {
    "id": "find:892540000",
@@ -10312,7 +10620,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-11T13:28:59Z",
+   "window_checked_at": "2026-11-11T18:05:08Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -10791,7 +11099,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-11T13:29:01Z",
+   "window_checked_at": "2026-11-11T18:05:10Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -25217,7 +25525,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-11T13:29:01Z",
+   "window_checked_at": "2026-11-11T18:05:13Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -29834,18 +30142,18 @@
   {
    "id": "tracked:2027-spring-el-camino-newgrad",
    "employer": "El Camino Health",
-   "title": "New Grad RN Residency — Spring 2027 cohort (estimated April start)",
+   "title": "New Grad Nurse Residency Program, R00018031 (Med/Surg, Oncology, Telemetry, Tele-Stroke, Float Pool; program starts March 29, 2027); sibling ER req R00018032",
    "location": "",
-   "url": "https://www.elcaminohealth.org/about-us/careers/hospital-careers/nurse-residency-program",
+   "url": "https://ech.wd5.myworkdayjobs.com/ech/job/Mountain-View-CA/New-Grad-Nurse-Residency-Program_R00018031",
    "source": "tracked",
    "kind": "residency_window",
    "found_at": null,
    "bh_tag": null,
    "tier": null,
    "tracked": true,
-   "close_at": null,
-   "close_source": "UNVERIFIED — ECH publishes no exact date in advance; official page says windows are 'mid-winter and early summer'. Dec 19 was a mirror of the 2025 date and is NOT a real deadline.",
-   "date_verified_at": null,
+   "close_at": "2026-11-12T15:00:00-08:00",
+   "close_source": "El Camino Health's own Workday posting R00018031 (ech.wd5.myworkdayjobs.com, CXS job detail read 2026-11-11 ~09:55 PT), verbatim: 'This posting will remain open until 3 pm– November 12,2026'. Same sentence on the ER req R00018032. Posted 2026-11-10 (startDate). Timed boundary stated on the page, so close_at is 15:00 PT 11/12; act by tonight Wed 11/11 (he is at UCSF from 10 and leaves for Tahoe at 3 on 11/12).",
+   "date_verified_at": "2026-11-11",
    "license_by": "2027-02-05",
    "required_docs": [
     "resume",
@@ -29857,7 +30165,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T13:28:58Z"
+   "window_checked_at": "2026-11-11T18:05:06Z"
   },
   {
    "id": "tracked:2026-05-va-sf-pbrnr",
@@ -29997,7 +30305,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T13:28:58Z"
+   "window_checked_at": "2026-11-11T18:05:06Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -30445,7 +30753,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-11T13:28:58Z"
+   "window_checked_at": "2026-11-11T18:05:07Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -30661,7 +30969,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T13:28:59Z"
+   "window_checked_at": "2026-11-11T18:05:07Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -31013,7 +31321,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T13:29:00Z"
+   "window_checked_at": "2026-11-11T18:05:10Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
