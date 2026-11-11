@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T19:10:23Z",
+ "generated_at": "2026-11-11T20:12:56Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -32410,6 +32410,33 @@
    "new_grad_window": true,
    "window_state": "unknown",
    "window_checked_at": "2026-11-11T18:09:47Z"
+  },
+  {
+   "id": "tracked:2027-spring-el-camino-newgrad-er",
+   "employer": "El Camino Health",
+   "title": "New Grad Nurse Residency Program Emergency Room, R00018032 (program starts March 29, 2027)",
+   "location": "",
+   "url": "https://ech.wd5.myworkdayjobs.com/ech/job/Mountain-View-CA/New-Grad-Nurse-Residency-Program-Emergency-Room_R00018032-1",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": "2026-11-12T15:00:00-08:00",
+   "close_source": "El Camino Health's own Workday posting R00018032 (CXS job detail read 2026-11-11 ~09:55 PT), verbatim: 'This posting will remain open until 3 pm– November 12,2026'.",
+   "date_verified_at": "2026-11-11",
+   "license_by": null,
+   "required_docs": [
+    "resume with goals, rotations and capstone description",
+    "lor_x3",
+    "final transcript",
+    "AHA BLS"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
   }
  ]
 }
