@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T21:15:54Z",
+ "generated_at": "2026-11-11T23:20:18Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -8115,42 +8115,6 @@
    }
   },
   {
-   "id": "tracked:2026-sutter-cpmc-mission-bernal-medsurg-tele-ortho-r142863",
-   "employer": "Sutter CPMC Mission Bernal (San Francisco)",
-   "title": "Staff Nurse II, Medical Surgical Telemetry Orthopedics, PT 32h Nights (R-142863)",
-   "location": "San Francisco, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-142863",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-24T14:30:25Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (posting has no close date; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Part Time",
-    "work_city": "San Francisco",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-24T14:33:41Z"
-   }
-  },
-  {
    "id": "find:R-143840",
    "employer": "sutter",
    "title": "Registered Nurse II, Surgery",
@@ -8292,6 +8256,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-24T14:33:30Z"
+   }
+  },
+  {
+   "id": "find:R-142863",
+   "employer": "sutter",
+   "title": "Staff Nurse II, Medical Surgical Telemetry Orthopedics",
+   "location": "San Francisco, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-142863",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-10-24T14:30:25Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-24T14:33:41Z"
    }
   },
   {
