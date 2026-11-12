@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T23:20:18Z",
+ "generated_at": "2026-11-12T00:22:37Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -10608,7 +10608,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-11T21:15:48Z",
+   "window_checked_at": "2026-11-12T00:22:34Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11087,7 +11087,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-11T21:15:50Z",
+   "window_checked_at": "2026-11-12T00:22:35Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -25513,7 +25513,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-11T21:15:50Z",
+   "window_checked_at": "2026-11-12T00:22:35Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30293,7 +30293,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T21:15:47Z"
+   "window_checked_at": "2026-11-12T00:22:33Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -30741,7 +30741,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-11T21:15:47Z"
+   "window_checked_at": "2026-11-12T00:22:33Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -30957,7 +30957,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T21:15:48Z"
+   "window_checked_at": "2026-11-12T00:22:34Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -31309,7 +31309,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T21:15:49Z"
+   "window_checked_at": "2026-11-12T00:22:35Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -31773,31 +31773,6 @@
     "resume"
    ],
    "last_seen_live": null,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-auto-healthcare-recruiters-international-psychiatric-nurse-47cd9755",
-   "employer": "HealthCare Recruiters International",
-   "title": "Psychiatric Nurse (Oakland, CA)",
-   "location": "",
-   "url": "https://www.linkedin.com/jobs/view/4481388641",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -32397,7 +32372,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-11T21:15:50Z"
+   "window_checked_at": "2026-11-12T00:22:35Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
