@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T16:56:58Z",
+ "generated_at": "2026-11-12T19:03:32Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -11243,7 +11243,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-12T15:54:08Z",
+   "window_checked_at": "2026-11-12T19:03:28Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11722,7 +11722,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-12T15:54:09Z",
+   "window_checked_at": "2026-11-12T19:03:30Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -11800,31 +11800,6 @@
    "required_docs": [
     "resume",
     "cover_letter_optional"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-crestwood-angwin-charge-nurse-noc-8015024003",
-   "employer": "Crestwood Center Angwin (Napa)",
-   "title": "Charge Nurse (Shift Supervisor), FT NOC Wed-Sun, MHRC psych, $53-60/hr",
-   "location": "",
-   "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/8015024003",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-18T15:30:00-07:00",
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire: no close date on Greenhouse posting 8015024003 (API read 2026-10-18, updated_at 2026-10-16)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
@@ -26148,7 +26123,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-12T15:54:10Z",
+   "window_checked_at": "2026-11-12T19:03:30Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30928,7 +30903,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-12T15:54:07Z"
+   "window_checked_at": "2026-11-12T19:03:28Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -31376,7 +31351,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-12T15:54:07Z"
+   "window_checked_at": "2026-11-12T19:03:28Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -31592,7 +31567,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-12T15:54:07Z"
+   "window_checked_at": "2026-11-12T19:03:28Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -31944,7 +31919,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-12T15:54:09Z"
+   "window_checked_at": "2026-11-12T19:03:30Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -33007,7 +32982,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-12T15:54:10Z"
+   "window_checked_at": "2026-11-12T19:03:30Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
