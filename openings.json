@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T15:54:13Z",
+ "generated_at": "2026-11-12T16:56:58Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -353,6 +353,76 @@
    }
   },
   {
+   "id": "tracked:2026-stanford-vaden-clinical-nurse-ii-r2661275",
+   "employer": "Stanford Health Care - Vaden Health Center (Stanford student health)",
+   "title": "Clinical Nurse II, 1.0 FTE Day 8hr (R2661275)",
+   "location": "STANFORD, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661275",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-12T15:30:18Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (SHC careers page)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "STANFORD",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-12T15:34:18Z"
+   }
+  },
+  {
+   "id": "tracked:2026-stanford-snhc-neurosurgery-clinical-nurse-r2661561",
+   "employer": "Stanford Health Care - Neuro Surgery, Stanford Neuroscience Health Center (213 Quarry Rd, Palo Alto)",
+   "title": "Clinical Nurse (RN), Neuro Surgery SNHC, 1.0 FTE Days 10hr, Hybrid (R2661561)",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661561",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-12T15:30:18Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (SHC careers page)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-12T15:34:12Z"
+   }
+  },
+  {
    "id": "find:R2661581",
    "employer": "stanford_health",
    "title": "Relief Oncology Nurse Navigator (RN), Thoracic",
@@ -470,54 +540,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-12T15:34:10Z"
-   }
-  },
-  {
-   "id": "find:R2661561",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN), Neuro Surgery SNHC – 1.0 FTE, Days (10HR)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661561",
-   "source": "stanford_health",
-   "kind": "posting",
-   "found_at": "2026-11-12T15:30:18Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "full-time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-12T15:34:12Z"
-   }
-  },
-  {
-   "id": "find:R2661275",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse II",
-   "location": "STANFORD, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661275",
-   "source": "stanford_health",
-   "kind": "posting",
-   "found_at": "2026-11-12T15:30:18Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "full-time",
-    "work_city": "STANFORD",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-12T15:34:18Z"
    }
   },
   {
@@ -33067,7 +33089,7 @@
   {
    "id": "tracked:2026-auto-maxim-healthcare-rn-new-graduate-nurse-bd1e2dab",
    "employer": "Maxim Healthcare",
-   "title": "RN - New Graduate Nurse (Novato, CA)",
+   "title": "RN - New Graduate Nurse (Novice Nurse Training Program, Novato; LinkedIn 4487821999)",
    "location": "",
    "url": "https://www.linkedin.com/jobs/view/4487821999",
    "source": "tracked",
@@ -33107,6 +33129,54 @@
    "license_by": null,
    "required_docs": [
     "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-sunol-hills-ridgeview-rn-oncall-1587092",
+   "employer": "Sunol Hills LLC - Sunol Hills at Ridgeview (Sunol; 6-bed adult eating-disorder residential)",
+   "title": "Ridgeview RN/LVN/LPT On-Call (Paylocity 1587092)",
+   "location": "",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/1587092",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (Paylocity listing, no close date)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-sunol-hills-oakview-lafayette-rn-prn-weekends-1497890",
+   "employer": "Sunol Hills LLC - Sunol Hills Oakview (Lafayette; 6-bed eating-disorder residential)",
+   "title": "PRN RN/LVN/LPT Nurse (Weekends) (Paylocity 1497890)",
+   "location": "",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/1497890",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling (Paylocity listing, no close date)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
     "resume"
    ],
    "last_seen_live": true,
