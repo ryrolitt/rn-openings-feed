@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:02:20Z",
+ "generated_at": "2026-11-13T19:12:03Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -7166,28 +7166,17 @@
    }
   },
   {
-   "id": "tracked:2026-stanford-or-r2661077",
-   "employer": "Stanford Health Care (Palo Alto)",
-   "title": "Clinical Nurse (RN) - Operating Room (1.0 FTE/Full-Time, 10-Hour Rotating Shifts, Scrub & Circulate/Call Required) R2661077",
+   "id": "find:R2661077",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - Operating Room (1.0 FTE/Full-Time, 10-Hour Rotating Shifts, Scrub & Circulate/Call Required)",
    "location": "PALO ALTO, California, United States of America",
    "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661077",
-   "source": "tracked",
+   "source": "stanford_health",
    "kind": "posting",
    "found_at": "2026-10-29T04:52:08Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling (no close date on careers.stanfordhealthcare.org/us/en/job/R2661077, read 2026-10-29)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8147,7 +8136,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null,
@@ -11831,7 +11820,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-13T15:58:06Z",
+   "window_checked_at": "2026-11-13T19:11:57Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -12310,7 +12299,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-13T15:58:08Z",
+   "window_checked_at": "2026-11-13T19:11:59Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -26686,7 +26675,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-13T15:58:10Z",
+   "window_checked_at": "2026-11-13T19:12:00Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -31466,7 +31455,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-13T15:58:04Z"
+   "window_checked_at": "2026-11-13T19:11:53Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -31914,7 +31903,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-13T15:58:04Z"
+   "window_checked_at": "2026-11-13T19:11:53Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -32130,7 +32119,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-13T15:58:05Z"
+   "window_checked_at": "2026-11-13T19:11:54Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -32482,7 +32471,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-13T15:58:08Z"
+   "window_checked_at": "2026-11-13T19:11:58Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -33545,7 +33534,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-13T15:58:11Z"
+   "window_checked_at": "2026-11-13T19:12:00Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
