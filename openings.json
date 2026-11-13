@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T15:58:13Z",
+ "generated_at": "2026-11-13T17:02:20Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -566,6 +566,30 @@
     "deadline_verbatim": "",
     "checked_at": "2026-11-13T15:36:04Z"
    }
+  },
+  {
+   "id": "tracked:2026-kentfield-hospital-sf-ltach-rn-li4490009330",
+   "employer": "Kentfield Hospital San Francisco (American Advanced Management; LTACH, 450 Stanyan St)",
+   "title": "Registered Nurse - San Francisco, full time (LinkedIn 4490009330)",
+   "location": "",
+   "url": "https://www.linkedin.com/jobs/view/4490009330",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-13T07:31:55-08:00",
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire: no close date in the LinkedIn posting text; employer's own board not found 11/13",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
   },
   {
    "id": "find:ga:c4241a91ddaf94f5e3a4",
@@ -12364,31 +12388,6 @@
    "required_docs": [
     "resume",
     "cover_letter_optional"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-abode-services-act-nurse-case-manager-nurse004309",
-   "employer": "Abode Services",
-   "title": "Nurse Case Manager (ACT model), Alameda County Programs, San Leandro",
-   "location": "",
-   "url": "https://recruiting2.ultipro.com/ABO1000ADOBS/JobBoard/7b4420f6-af87-4029-bd5c-dcff25afdebb/OpportunityDetail?opportunityId=78a52033-1ba1-4555-88d5-f81650648ff5",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-18T15:30:00-07:00",
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "UltiPro OpportunityDetail for NURSE004309, read 2026-10-18: no close date on posting (rolling); PostedDate 2026-05-18",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "Abode-ACT-Nurse-Case-Manager-NURSE004309-Resume.pdf",
-    "Abode-ACT-Nurse-Case-Manager-NURSE004309-Cover-Letter.pdf"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
