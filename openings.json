@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T22:23:36Z",
+ "generated_at": "2026-11-14T00:29:45Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -12496,29 +12496,17 @@
    "tracked": false
   },
   {
-   "id": "tracked:2026-auto-crestwood-behavioral-health-licensed-vocational-nurse-lvn-re-36137003",
+   "id": "find:8036137003",
    "employer": "Crestwood Behavioral Health",
-   "title": "Licensed Vocational Nurse (LVN) | Registered Nurse (RN) (Sunnyvale, California)",
+   "title": "Licensed Vocational Nurse (LVN) | Registered Nurse (RN)",
    "location": "Sunnyvale, California",
    "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/8036137003",
-   "source": "tracked",
+   "source": "crestwood",
    "kind": "posting",
    "found_at": "2026-10-17T14:31:16Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
