@@ -1,8 +1,44 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T16:14:29Z",
+ "generated_at": "2026-11-14T17:17:33Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "tracked:2026-crestwood-fremont-rn",
+   "employer": "Crestwood Behavioral Health (Fremont)",
+   "title": "Registered Nurse - Crestwood Manor Fremont (skilled nursing facility)",
+   "location": "Fremont, California",
+   "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/8204065003",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-14T15:31:18Z",
+   "bh_tag": true,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire",
+   "date_verified_at": "2026-09-12",
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "A minimum of one (1) year of nursing experience in long-term or acute care is preferred.",
+    "behavioral_health": true,
+    "employment_type": "Full-Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-14T15:33:25Z"
+   }
+  },
   {
    "id": "tracked:2026-auto-crestwood-behavioral-health-licensed-vocational-nurse-lvn-re-04076003",
    "employer": "Crestwood Behavioral Health",
@@ -37,30 +73,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-14T15:33:21Z"
-   }
-  },
-  {
-   "id": "find:8204065003",
-   "employer": "Crestwood Behavioral Health",
-   "title": "Registered Nurse- Crestwood Manor Fremont",
-   "location": "Fremont, California",
-   "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/8204065003",
-   "source": "crestwood",
-   "kind": "posting",
-   "found_at": "2026-11-14T15:31:18Z",
-   "bh_tag": true,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": false,
-    "experience_years_required": 0,
-    "experience_quote": "A minimum of one (1) year of nursing experience in long-term or acute care is preferred.",
-    "behavioral_health": true,
-    "employment_type": "Full-Time",
-    "work_city": "Fremont",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-14T15:33:25Z"
    }
   },
   {
@@ -12146,7 +12158,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-14T14:07:38Z",
+   "window_checked_at": "2026-11-14T17:17:28Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -12625,7 +12637,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-14T14:07:40Z",
+   "window_checked_at": "2026-11-14T17:17:29Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -26989,7 +27001,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-14T14:07:41Z",
+   "window_checked_at": "2026-11-14T17:17:31Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -29601,36 +29613,24 @@
    "tracked": false
   },
   {
-   "id": "tracked:2026-crestwood-fremont-rn",
-   "employer": "Crestwood Behavioral Health (Fremont)",
-   "title": "Registered Nurse - Crestwood Manor Fremont (skilled nursing facility)",
-   "location": "Fremont, California",
-   "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7865168003",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-08-17T08:06:28Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire",
-   "date_verified_at": "2026-09-12",
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter"
-   ],
-   "last_seen_live": false,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
    "id": "find:7855133003",
    "employer": "Crestwood Behavioral Health",
    "title": "Licensed Vocational Nurse (LVN) | Registered Nurse (RN)",
    "location": "Sunnyvale, California",
    "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7855133003",
+   "source": "crestwood",
+   "kind": "posting",
+   "found_at": "2026-08-17T08:06:28Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:7865168003",
+   "employer": "Crestwood Behavioral Health",
+   "title": "Registered Nurse- Crestwood Manor Fremont",
+   "location": "Fremont, California",
+   "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7865168003",
    "source": "crestwood",
    "kind": "posting",
    "found_at": "2026-08-17T08:06:28Z",
@@ -31769,7 +31769,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-14T14:07:33Z"
+   "window_checked_at": "2026-11-14T17:17:26Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -32217,7 +32217,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-14T14:07:33Z"
+   "window_checked_at": "2026-11-14T17:17:27Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -32433,7 +32433,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-14T14:07:33Z"
+   "window_checked_at": "2026-11-14T17:17:27Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -32785,7 +32785,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-14T14:07:40Z"
+   "window_checked_at": "2026-11-14T17:17:28Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -33848,7 +33848,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-14T14:07:41Z"
+   "window_checked_at": "2026-11-14T17:17:31Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
