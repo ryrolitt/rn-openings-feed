@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T16:37:55Z",
+ "generated_at": "2026-11-16T17:41:19Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
    "id": "tracked:2026-auto-washington-hospital-rn-new-grad-residency-program-staff-nurs-oeiwafwc",
-   "employer": "washington_hospital",
-   "title": "RN New Grad Residency Program, Staff Nurse I (Fremont, California)",
+   "employer": "Washington Hospital Healthcare System (Fremont)",
+   "title": "RN New Grad Residency Program, Staff Nurse I (February 2027 cohort, 10 seats; Jobvite oEiWAfwc)",
    "location": "Fremont, California",
    "url": "https://jobs.jobvite.com/washingtonhospital/job/oEiWAfwc",
    "source": "tracked",
@@ -16,12 +16,12 @@
    "tier": null,
    "tracked": true,
    "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "close_source": "no close date on the Jobvite posting (read 2026-11-16 08:40 PT); residency with 10 seats, can close without notice",
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [
-    "cover_letter",
-    "resume"
+    "resume",
+    "cover_letter"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
@@ -3520,29 +3520,17 @@
    "tracked": false
   },
   {
-   "id": "tracked:2026-dignity-sequoia-rn-med-surg-103058424320",
-   "employer": "Dignity Health - Sequoia Hospital (Redwood City)",
-   "title": "RN Med Surg, Full Time (req 103058424320)",
+   "id": "find:103058424320",
+   "employer": "dignity",
+   "title": "RN Med Surg",
    "location": "Redwood City, CA",
    "url": "https://www.commonspirit.careers/job/redwood-city/rn-med-surg/35300/103058424320",
-   "source": "tracked",
+   "source": "dignity",
    "kind": "posting",
    "found_at": "2026-11-09T15:35:25Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (no date on the posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter"
-   ],
-   "last_seen_live": false,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -8779,42 +8767,6 @@
    }
   },
   {
-   "id": "tracked:2026-auto-stanford-health-clinical-nurse-rn-300p-pre-post-0-9-fte-12-h-r2660445",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN) - 300P Pre/Post (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required) (PALO ALTO, California, United States of America)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661394",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-10-28T14:30:21Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": false,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full-time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-28T14:34:56Z"
-   }
-  },
-  {
    "id": "find:R2660891",
    "employer": "stanford_health",
    "title": "Clinical Nurse (RN), Oncology Multi-Specialty",
@@ -8932,6 +8884,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-10-28T14:34:51Z"
+   }
+  },
+  {
+   "id": "find:R2661394",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN) - 300P Pre/Post (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required)",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661394",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-10-28T14:30:21Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-28T14:34:56Z"
    }
   },
   {
@@ -33816,31 +33792,6 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-john-muir-bhc-psych-inpatient-perdiem-jr0017995",
-   "employer": "John Muir Health (Behavioral Health Center, Concord)",
-   "title": "RN - BHC Psychiatric Services - Inpatient - Per Diem - 8 Hour - Variable (Concord), JR0017995, posted 11/4",
-   "location": "",
-   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---BHC-Psychiatric-Services---Inpatient---Per-Diem---8-Hour---Variable_JR0017995",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on John Muir's Workday posting (rolling), CXS read 2026-11-05 09:10 PT",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
     "resume"
    ],
    "last_seen_live": true,
