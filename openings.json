@@ -1,8 +1,44 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T15:33:54Z",
+ "generated_at": "2026-11-16T16:37:55Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "tracked:2026-auto-washington-hospital-rn-new-grad-residency-program-staff-nurs-oeiwafwc",
+   "employer": "washington_hospital",
+   "title": "RN New Grad Residency Program, Staff Nurse I (Fremont, California)",
+   "location": "Fremont, California",
+   "url": "https://jobs.jobvite.com/washingtonhospital/job/oEiWAfwc",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-16T15:31:09Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:11Z"
+   }
+  },
   {
    "id": "find:oBR3AfwP",
    "employer": "washington_hospital",
@@ -14,7 +50,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one (1) year acute hospital experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Full-Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:32:43Z"
+   }
   },
   {
    "id": "find:oqV5AfwK",
@@ -27,7 +74,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one year acute hospital experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:32:49Z"
+   }
   },
   {
    "id": "find:oDY5Afw0",
@@ -40,7 +98,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one year acute hospital experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Per Diem",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:32:54Z"
+   }
   },
   {
    "id": "find:oTe5Afww",
@@ -53,7 +122,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one year acute hospital experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:32:58Z"
+   }
   },
   {
    "id": "find:oU4WAfwe",
@@ -66,7 +146,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one year acute hospital experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:03Z"
+   }
   },
   {
    "id": "find:oweoAfws",
@@ -79,20 +170,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
-  },
-  {
-   "id": "find:oEiWAfwc",
-   "employer": "washington_hospital",
-   "title": "RN New Grad Residency Program, Staff Nurse I",
-   "location": "Fremont, California",
-   "url": "https://jobs.jobvite.com/washingtonhospital/job/oEiWAfwc",
-   "source": "washington_hospital",
-   "kind": "posting",
-   "found_at": "2026-11-16T15:31:09Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one year acute hospital experience, required.",
+    "behavioral_health": false,
+    "employment_type": "Full-Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:07Z"
+   }
   },
   {
    "id": "find:oAvQAfwf",
@@ -105,7 +194,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year or more of medical/surgical experience in an acute hospital, required.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:16Z"
+   }
   },
   {
    "id": "find:oEvQAfwj",
@@ -118,7 +218,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year or more of medical/surgical experience in an acute hospital, required.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:21Z"
+   }
   },
   {
    "id": "find:oGI3AfwL",
@@ -131,7 +242,18 @@
    "found_at": "2026-11-16T15:31:09Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Five years clinical experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Fremont",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:26Z"
+   }
   },
   {
    "id": "find:R-146065",
@@ -144,7 +266,18 @@
    "found_at": "2026-11-16T15:30:27Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:31Z"
+   }
   },
   {
    "id": "find:R2661047",
@@ -157,7 +290,18 @@
    "found_at": "2026-11-16T15:30:25Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "2 years of oncology experience required",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:37Z"
+   }
   },
   {
    "id": "find:R2660750",
@@ -170,7 +314,18 @@
    "found_at": "2026-11-16T15:30:25Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) years of progressively responsible and directly related work experience Required",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Redwood City",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-16T15:33:43Z"
+   }
   },
   {
    "id": "tracked:2026-crestwood-fremont-rn",
@@ -12327,7 +12482,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-16T13:27:18Z",
+   "window_checked_at": "2026-11-16T16:37:49Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -12806,7 +12961,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-16T13:27:20Z",
+   "window_checked_at": "2026-11-16T16:37:51Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -27170,7 +27325,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-16T13:27:21Z",
+   "window_checked_at": "2026-11-16T16:37:53Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -31938,7 +32093,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-16T13:27:16Z"
+   "window_checked_at": "2026-11-16T16:37:48Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -32386,7 +32541,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-16T13:27:16Z"
+   "window_checked_at": "2026-11-16T16:37:48Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -32602,7 +32757,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-16T13:27:17Z"
+   "window_checked_at": "2026-11-16T16:37:49Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -32954,7 +33109,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-16T13:27:19Z"
+   "window_checked_at": "2026-11-16T16:37:51Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -34017,7 +34172,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-16T13:27:21Z"
+   "window_checked_at": "2026-11-16T16:37:53Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
