@@ -1,8 +1,95 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T22:46:46Z",
+ "generated_at": "2026-11-17T23:49:08Z",
  "region": "San Francisco Bay Area",
  "postings": [
+  {
+   "id": "find:2247876",
+   "employer": "alameda_health",
+   "title": "Clinical Nurse II",
+   "location": "Oakland, CA, United States",
+   "url": "https://alameda-health-system-careers.hctsportals.com/jobs/2247876-clinical-nurse-ii",
+   "source": "alameda_health",
+   "kind": "posting",
+   "found_at": "2026-11-17T22:52:20Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:2247870",
+   "employer": "alameda_health",
+   "title": "Clinical Nurse III",
+   "location": "Oakland, CA, United States",
+   "url": "https://alameda-health-system-careers.hctsportals.com/jobs/2247870-clinical-nurse-iii",
+   "source": "alameda_health",
+   "kind": "posting",
+   "found_at": "2026-11-17T22:52:20Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:2247872",
+   "employer": "alameda_health",
+   "title": "Clinical Nurse II",
+   "location": "Oakland, CA, United States",
+   "url": "https://alameda-health-system-careers.hctsportals.com/jobs/2247872-clinical-nurse-ii",
+   "source": "alameda_health",
+   "kind": "posting",
+   "found_at": "2026-11-17T22:52:20Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false
+  },
+  {
+   "id": "find:JR0018066",
+   "employer": "john_muir",
+   "title": "RN - Utilization Management Nurse - Inpatient - CMC Utilization Management - Full-Time - 8 Hour - Days - Variable",
+   "location": "Concord",
+   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers/job/Concord/RN---Utilization-Management-Nurse---Inpatient---CMC-Utilization-Management---Full-Time---8-Hour---Days---Variable_JR0018066",
+   "source": "john_muir",
+   "kind": "posting",
+   "found_at": "2026-11-17T22:51:47Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "1 year Nursing - Utilization Review Required",
+    "behavioral_health": false,
+    "employment_type": "Full-time",
+    "work_city": "Concord",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:52:38Z"
+   }
+  },
+  {
+   "id": "find:472402",
+   "employer": "Providence",
+   "title": "Clinic RN - Float Personnel",
+   "location": "Napa, CA",
+   "url": "https://providence.jobs/napa-ca/clinic-rn-float-personnel/F3168D6CC8BB4C79B92AC9D6471F85A5/job/",
+   "source": "providence",
+   "kind": "posting",
+   "found_at": "2026-11-17T22:51:40Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1.5,
+    "experience_quote": "18 months professional nursing experience.",
+    "behavioral_health": false,
+    "employment_type": "Full time",
+    "work_city": "Napa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:52:44Z"
+   }
+  },
   {
    "id": "find:mon:200d1bd62181d7c52408",
    "employer": "Sutter Health Bay Area",
@@ -79,7 +166,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) or more years of recent Ambulatory RN experience back-office setting",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:53:46Z"
+   }
   },
   {
    "id": "find:11327",
@@ -92,7 +190,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) or more years of recent RN adult clinical Oncology Nursing experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:53:52Z"
+   }
   },
   {
    "id": "find:11333",
@@ -105,7 +214,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) or more years of recent RN adult clinical Oncology Nursing experience.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:53:56Z"
+   }
   },
   {
    "id": "find:11080",
@@ -118,7 +238,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two (2) years of recent clinical RN experience in a level III Intensive Care Nursery with a surgical patient population",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:54:03Z"
+   }
   },
   {
    "id": "find:11667",
@@ -131,7 +262,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "Minimum of three (3) years of recent experience in Emergency / Pediatric / Neonatal Critical Care Patient Transport as a registered nurse.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:54:03Z"
+   }
   },
   {
    "id": "find:11668",
@@ -144,7 +286,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "Minimum of three (3) years of recent experience in Emergency / Pediatric / Neonatal Critical Care Patient Transport as a registered nurse.",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:54:08Z"
+   }
   },
   {
    "id": "find:11605",
@@ -157,7 +310,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 3,
+    "experience_quote": "Minimum of 3 years of recent inpatient RN experience",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:54:08Z"
+   }
   },
   {
    "id": "find:11756",
@@ -170,7 +334,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "2-5 years of recent Radiology nursing experience",
+    "behavioral_health": false,
+    "employment_type": "FT",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:54:13Z"
+   }
   },
   {
    "id": "find:11604",
@@ -183,7 +358,18 @@
    "found_at": "2026-11-17T21:57:26Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum 1 year inpatient pediatric transitional care/step-down experience as a registered nurse, including experience in caring for complex populations with trach-vents, non-invasive ventilation (e.g. CPAP, BiPAP), solid organ transplants (e.g. kidney, liver)",
+    "behavioral_health": false,
+    "employment_type": "variable",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:54:17Z"
+   }
   },
   {
    "id": "find:2211371",
@@ -277,56 +463,148 @@
    "tracked": false
   },
   {
-   "id": "find:75503",
+   "id": "tracked:2026-auto-adventist-health-rn-psychiatric-acute-1-part-time-night-st-h-75503",
    "employer": "Adventist Health",
-   "title": "RN - Psychiatric Acute 1, Part Time, Night, St. Helena",
+   "title": "RN - Psychiatric Acute 1, Part Time, Night, St. Helena (Saint Helena, CA, United States)",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75503",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-17T21:49:56Z",
    "bh_tag": true,
    "tier": null,
-   "tracked": false
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "part-time",
+    "work_city": "Saint Helena",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:09Z"
+   }
   },
   {
-   "id": "find:75859",
+   "id": "tracked:2026-auto-adventist-health-rn-per-diem-variable-shift-75859",
    "employer": "Adventist Health",
-   "title": "RN, Per Diem, Variable Shift",
+   "title": "RN, Per Diem, Variable Shift (Vallejo, CA, United States)",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75859",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-17T21:49:56Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "Per Diem",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:19Z"
+   }
   },
   {
-   "id": "find:75860",
+   "id": "tracked:2026-auto-adventist-health-rn-per-diem-variable-shift-75860",
    "employer": "Adventist Health",
-   "title": "RN, Per Diem, Variable Shift",
+   "title": "RN, Per Diem, Variable Shift (Vallejo, CA, United States)",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75860",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-17T21:49:56Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "Per Diem",
+    "work_city": "Vallejo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:19Z"
+   }
   },
   {
-   "id": "find:5504446",
+   "id": "tracked:2026-auto-sanmateo-medical-surgical-nurse-open-promotional-5504446",
    "employer": "sanmateo",
-   "title": "Medical Surgical Nurse (Open & Promotional)",
+   "title": "Medical Surgical Nurse (Open & Promotional) (County of San Mateo, CA)",
    "location": "County of San Mateo, CA",
    "url": "https://www.governmentjobs.com/careers/sanmateo/jobs/5504446/medical-surgical-nurse-open-promotional",
-   "source": "neogov_bay_area",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-17T21:49:42Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": null,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "full-time and part-time",
+    "work_city": "County of San Mateo",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "Tuesday, December 1, 2026, at 11:59PM PST",
+    "checked_at": "2026-11-17T22:56:19Z"
+   }
   },
   {
    "id": "tracked:2026-11-sutter-mills-peninsula-ed-ttp-r140197",
@@ -351,7 +629,18 @@
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
-   "window_checked_at": null
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience working in Stepdown ICU and/or Acute Medical Surgical Unit",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:59Z"
+   }
   },
   {
    "id": "find:R-145658",
@@ -364,7 +653,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:27Z"
+   }
   },
   {
    "id": "find:R-146869",
@@ -377,7 +677,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 5 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Santa Cruz",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:32Z"
+   }
   },
   {
    "id": "find:R-144405",
@@ -390,7 +701,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "Los Altos",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:39Z"
+   }
   },
   {
    "id": "find:R-144498",
@@ -403,7 +725,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "2 years of recent relevant experience.",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Antioch",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:44Z"
+   }
   },
   {
    "id": "find:R-144269",
@@ -416,7 +749,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": true,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "One-year current chemical dependency experience Required",
+    "behavioral_health": true,
+    "employment_type": "part-time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:48Z"
+   }
   },
   {
    "id": "find:R-144443",
@@ -429,7 +773,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum one year of current experience in area of specialty Required",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:55Z"
+   }
   },
   {
    "id": "find:R-145483",
@@ -442,7 +797,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "part-time",
+    "work_city": "Santa Cruz",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:00Z"
+   }
   },
   {
    "id": "find:R-143534",
@@ -455,7 +821,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "PREFERRED EXPERIENCE AS TYPICALLY ACQUIRED IN: 5 years of recent relevant experience in critical care/Emergency Department; Transfer Center, or Nurse Supervisor",
+    "behavioral_health": false,
+    "employment_type": "per diem",
+    "work_city": "Novato",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:05Z"
+   }
   },
   {
    "id": "find:R-146851",
@@ -468,7 +845,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "PREFERRED EXPERIENCE AS TYPICALLY ACQUIRED IN: 5 years of recent relevant experience in critical care/Emergency Department; Transfer Center, or Nurse Supervisor",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Sacramento, Novato",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:10Z"
+   }
   },
   {
    "id": "find:R-146849",
@@ -481,7 +869,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Sacramento",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:12Z"
+   }
   },
   {
    "id": "find:R-146847",
@@ -494,7 +893,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 5,
+    "experience_quote": "PREFERRED EXPERIENCE AS TYPICALLY ACQUIRED IN: 5 years of recent relevant experience in critical care/Emergency Department; Transfer Center, or Nurse Supervisor",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Sacramento",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:15Z"
+   }
   },
   {
    "id": "find:R-146850",
@@ -507,7 +917,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "PREFERRED EXPERIENCE AS TYPICALLY ACQUIRED IN: 5 years of recent relevant experience in critical care/Emergency Department; Transfer Center, or Nurse Supervisor",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Sacramento",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:17Z"
+   }
   },
   {
    "id": "find:R-143637",
@@ -520,7 +941,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "2 years of recent relevant Cardiac Cath Lab or Critical Care experience.",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:19Z"
+   }
   },
   {
    "id": "find:R-144359",
@@ -533,7 +965,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "FULL_TIME",
+    "work_city": "San Jose",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:21Z"
+   }
   },
   {
    "id": "find:R-144980",
@@ -546,7 +989,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience working in emergency department",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:54Z"
+   }
   },
   {
    "id": "find:R-146123",
@@ -559,7 +1013,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:57:57Z"
+   }
   },
   {
    "id": "find:R-144977",
@@ -572,7 +1037,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience working in emergency department",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:58:02Z"
+   }
   },
   {
    "id": "find:R-144979",
@@ -585,7 +1061,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience working in emergency department",
+    "behavioral_health": false,
+    "employment_type": "Part Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:58:03Z"
+   }
   },
   {
    "id": "find:R-143404",
@@ -598,7 +1085,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: 2 years of recent relevant experience working in operating room (OR)",
+    "behavioral_health": false,
+    "employment_type": "Full Time",
+    "work_city": "Burlingame",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:58:05Z"
+   }
   },
   {
    "id": "find:R-144744",
@@ -611,7 +1109,18 @@
    "found_at": "2026-11-17T21:49:32Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "TYPICAL EXPERIENCE: Two years recent relevant experience",
+    "behavioral_health": false,
+    "employment_type": "full_time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:58:08Z"
+   }
   },
   {
    "id": "find:103401693856",
@@ -624,7 +1133,18 @@
    "found_at": "2026-11-17T21:49:10Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of one (1) or more years of acute care experience as a registered nurse.",
+    "behavioral_health": false,
+    "employment_type": "Part time",
+    "work_city": "Sunnyvale",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:58:54Z"
+   }
   },
   {
    "id": "find:103388416448",
@@ -637,7 +1157,18 @@
    "found_at": "2026-11-17T21:49:10Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Minimum of 1 year recent Pediatric PACU RN experience or 2-years recent Pediatric ICU RN experience.",
+    "behavioral_health": false,
+    "employment_type": "full_time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:58:55Z"
+   }
   },
   {
    "id": "find:103398295200",
@@ -650,7 +1181,18 @@
    "found_at": "2026-11-17T21:49:04Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 1,
+    "experience_quote": "Experience One year recent (within the last 3 years) experience as a Registered Nurse (RN) in an Acute hospital setting circulating on a variety of surgical procedures in multiple specialties or completion of a KP training program.",
+    "behavioral_health": false,
+    "employment_type": "Part-time",
+    "work_city": "Richmond",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "2026-11-16 Standard",
+    "checked_at": "2026-11-17T22:59:12Z"
+   }
   },
   {
    "id": "find:472887",
@@ -663,7 +1205,18 @@
    "found_at": "2026-11-17T21:48:57Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "2 years of RN experience.",
+    "behavioral_health": false,
+    "employment_type": "Full time",
+    "work_city": "Santa Rosa",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:59:24Z"
+   }
   },
   {
    "id": "find:472888",
@@ -676,7 +1229,18 @@
    "found_at": "2026-11-17T21:48:57Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "2 years of RN experience.",
+    "behavioral_health": false,
+    "employment_type": "Per-Diem",
+    "work_city": "Santa Rosa, CA",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:59:26Z"
+   }
   },
   {
    "id": "find:893093800",
@@ -689,7 +1253,18 @@
    "found_at": "2026-11-17T21:48:55Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "Location Negotiable After Selection",
+    "restricted_to_internal": true,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T23:00:07Z"
+   }
   },
   {
    "id": "tracked:2026-auto-washington-hospital-rn-new-grad-residency-program-staff-nurs-oeiwafwc",
