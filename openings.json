@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T16:31:23Z",
+ "generated_at": "2026-11-18T17:34:45Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -52,17 +52,29 @@
    }
   },
   {
-   "id": "find:R-145745",
-   "employer": "sutter",
-   "title": "Ambulatory Services Nurse II, PACU Admissions Per Diem",
+   "id": "tracked:2026-11-sutter-pamf-san-carlos-pacu-admissions-perdiem-r145745",
+   "employer": "Sutter Health - Palo Alto Medical Foundation (San Carlos)",
+   "title": "Ambulatory Services Nurse II, PACU Admissions Per Diem (R-145745)",
    "location": "San Carlos, California, United States of America",
    "url": "https://jobs.sutterhealth.org/us/en/job/R-145745",
-   "source": "sutter",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-18T15:30:22Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -244,17 +256,29 @@
    }
   },
   {
-   "id": "find:R2660477",
-   "employer": "stanford_health",
-   "title": "CLINICAL NURSE II (RN) - Urology Surgery - 1.0 FTE, Days (8HRS)",
+   "id": "tracked:2026-11-stanford-cn2-urology-surgery-r2660477",
+   "employer": "Stanford Health Care (Palo Alto)",
+   "title": "Clinical Nurse II (RN) - Urology Surgery - 1.0 FTE, Days (8HRS) (R2660477)",
    "location": "PALO ALTO, California, United States of America",
    "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660477",
-   "source": "stanford_health",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-18T15:30:20Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -14364,7 +14388,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-18T14:24:07Z",
+   "window_checked_at": "2026-11-18T17:34:43Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30747,7 +30771,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-18T14:24:05Z",
+   "window_checked_at": "2026-11-18T17:34:41Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30818,7 +30842,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-18T14:24:08Z",
+   "window_checked_at": "2026-11-18T17:34:44Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -33572,7 +33596,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T14:24:05Z"
+   "window_checked_at": "2026-11-18T17:34:40Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -34020,7 +34044,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-18T14:24:05Z"
+   "window_checked_at": "2026-11-18T17:34:41Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -34236,7 +34260,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T14:24:05Z"
+   "window_checked_at": "2026-11-18T17:34:41Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -34588,7 +34612,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T14:24:07Z"
+   "window_checked_at": "2026-11-18T17:34:43Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -35626,7 +35650,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T14:24:08Z"
+   "window_checked_at": "2026-11-18T17:34:44Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
