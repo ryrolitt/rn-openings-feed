@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T01:53:48Z",
+ "generated_at": "2026-11-18T05:02:00Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -13697,7 +13697,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-18T01:53:44Z",
+   "window_checked_at": "2026-11-18T05:01:55Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -14176,7 +14176,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-18T01:53:46Z",
+   "window_checked_at": "2026-11-18T05:01:57Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -28540,7 +28540,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-18T01:53:46Z",
+   "window_checked_at": "2026-11-18T05:01:58Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -33308,7 +33308,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T01:53:44Z"
+   "window_checked_at": "2026-11-18T05:01:54Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -33756,7 +33756,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-18T01:53:44Z"
+   "window_checked_at": "2026-11-18T05:01:55Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -33972,7 +33972,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T01:53:44Z"
+   "window_checked_at": "2026-11-18T05:01:55Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -34324,7 +34324,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T01:53:46Z"
+   "window_checked_at": "2026-11-18T05:01:57Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -35362,7 +35362,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-18T01:53:47Z"
+   "window_checked_at": "2026-11-18T05:01:58Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
