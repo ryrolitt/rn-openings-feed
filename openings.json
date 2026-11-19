@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T18:42:53Z",
+ "generated_at": "2026-11-19T19:46:11Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1377,42 +1377,6 @@
    "tracked": false
   },
   {
-   "id": "tracked:2026-auto-adventist-health-rn-psychiatric-acute-1-part-time-night-st-h-75503",
-   "employer": "Adventist Health",
-   "title": "RN - Psychiatric Acute 1, Part Time, Night, St. Helena (Saint Helena, CA, United States)",
-   "location": "Saint Helena, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75503",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-17T21:49:56Z",
-   "bh_tag": true,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "part-time",
-    "work_city": "Saint Helena",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-17T22:56:09Z"
-   }
-  },
-  {
    "id": "tracked:2026-auto-adventist-health-rn-per-diem-variable-shift-75859",
    "employer": "Adventist Health",
    "title": "RN, Per Diem, Variable Shift (Vallejo, CA, United States)",
@@ -1482,6 +1446,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-17T22:56:19Z"
+   }
+  },
+  {
+   "id": "find:75503",
+   "employer": "Adventist Health",
+   "title": "RN - Psychiatric Acute 1, Part Time, Night, St. Helena",
+   "location": "Saint Helena, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75503",
+   "source": "adventist",
+   "kind": "posting",
+   "found_at": "2026-11-17T21:49:56Z",
+   "bh_tag": true,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "part-time",
+    "work_city": "Saint Helena",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-17T22:56:09Z"
    }
   },
   {
