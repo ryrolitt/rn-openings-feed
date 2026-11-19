@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T16:37:06Z",
+ "generated_at": "2026-11-19T17:39:50Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -340,6 +340,42 @@
    }
   },
   {
+   "id": "tracked:2026-11-sutter-sops-mountain-view-preop-pacu-perdiem-r146943",
+   "employer": "Sutter Health - Sutter Outpatient Services (Mountain View)",
+   "title": "Ambulatory Services Nurse I, PreOp & PACU, Per Diem (R-146943)",
+   "location": "Mountain View, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-146943",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-19T15:30:18Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Per Diem/Casual",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-19T15:35:02Z"
+   }
+  },
+  {
    "id": "find:R-145479",
    "employer": "sutter",
    "title": "Staff Nurse II, PICU",
@@ -412,27 +448,39 @@
    }
   },
   {
-   "id": "find:R-146943",
-   "employer": "sutter",
-   "title": "Ambulatory Services Nurse I, PreOp & PACU",
-   "location": "Mountain View, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-146943",
-   "source": "sutter",
+   "id": "tracked:2026-11-stanford-or-ortho-neuro-r2661542",
+   "employer": "Stanford Health Care (Palo Alto)",
+   "title": "Clinical Nurse (RN) - Operating Room: Ortho/Neuro (Full-Time 1.0 FTE, 10-Hour Rotating, Call/Scrub Required) (R2661542)",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661542",
+   "source": "tracked",
    "kind": "posting",
-   "found_at": "2026-11-19T15:30:18Z",
+   "found_at": "2026-11-19T15:30:15Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
     "experience_quote": "",
     "behavioral_health": false,
-    "employment_type": "Per Diem/Casual",
-    "work_city": "Mountain View",
+    "employment_type": "Full-time",
+    "work_city": "Palo Alto",
     "restricted_to_internal": false,
     "deadline_verbatim": "",
-    "checked_at": "2026-11-19T15:35:02Z"
+    "checked_at": "2026-11-19T15:35:21Z"
    }
   },
   {
@@ -481,30 +529,6 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-19T15:35:14Z"
-   }
-  },
-  {
-   "id": "find:R2661542",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN) - Operating Room: Ortho/Neuro (Full-Time/1.0 FTE, 10-Hour Rotating Shifts, Call/Scrub Required)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661542",
-   "source": "stanford_health",
-   "kind": "posting",
-   "found_at": "2026-11-19T15:30:15Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Full-time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-19T15:35:21Z"
    }
   },
   {
@@ -36624,6 +36648,31 @@
     "resume",
     "cover_letter",
     "supplemental_questions"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-11-john-muir-ambulatory-specialty-perdiem-jr0018065",
+   "employer": "John Muir Health (Pleasant Hill, ambulatory specialty clinic)",
+   "title": "RN - Ambulatory Clinic - Specialty - Per Diem - 8 Hour - Days (JR0018065)",
+   "location": "",
+   "url": "https://jmh.wd5.myworkdayjobs.com/JohnMuirHealthCareers",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
