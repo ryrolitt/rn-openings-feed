@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T23:51:33Z",
+ "generated_at": "2026-11-19T00:54:04Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -34827,31 +34827,6 @@
    "date_verified_at": null,
    "license_by": null,
    "required_docs": [],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-auto-telecare-corporation-registered-nurse-noc-shift-mental-healt-is030847",
-   "employer": "Telecare Corporation - Gladman MHRC (Oakland)",
-   "title": "Registered Nurse (NOC shift) - Mental Health 115, Full-Time (REGIS030847, posted 10/5)",
-   "location": "",
-   "url": "https://recruiting2.ultipro.com/TEL1006/JobBoard/2fcbb6f4-e717-17cb-9327-3dd87a55b08d/OpportunityDetail?opportunityId=e6613828-0f4b-451c-aae3-27402cc78e9e",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "no close date on the employer's UltiPro posting (rolling), read 2026-10-06",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
