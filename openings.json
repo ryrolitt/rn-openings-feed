@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T04:10:55Z",
+ "generated_at": "2026-11-20T05:13:52Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -340,42 +340,6 @@
    }
   },
   {
-   "id": "tracked:2026-11-sutter-sops-mountain-view-preop-pacu-perdiem-r146943",
-   "employer": "Sutter Health - Sutter Outpatient Services (Mountain View)",
-   "title": "Ambulatory Services Nurse I, PreOp & PACU, Per Diem (R-146943)",
-   "location": "Mountain View, California, United States of America",
-   "url": "https://jobs.sutterhealth.org/us/en/job/R-146943",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-19T15:30:18Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (no close date on the posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume",
-    "cover_letter"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "Per Diem/Casual",
-    "work_city": "Mountain View",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-19T15:35:02Z"
-   }
-  },
-  {
    "id": "find:R-145479",
    "employer": "sutter",
    "title": "Staff Nurse II, PICU",
@@ -445,6 +409,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-19T15:34:56Z"
+   }
+  },
+  {
+   "id": "find:R-146943",
+   "employer": "sutter",
+   "title": "Ambulatory Services Nurse I, PreOp & PACU",
+   "location": "Mountain View, California, United States of America",
+   "url": "https://jobs.sutterhealth.org/us/en/job/R-146943",
+   "source": "sutter",
+   "kind": "posting",
+   "found_at": "2026-11-19T15:30:18Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "Per Diem/Casual",
+    "work_city": "Mountain View",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-19T15:35:02Z"
    }
   },
   {
