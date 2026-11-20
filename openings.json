@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T15:40:14Z",
+ "generated_at": "2026-11-20T16:44:02Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -318,17 +318,29 @@
    }
   },
   {
-   "id": "find:R2660958",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse (RN), ICU Neurosciences & Medicine (L4) - 12HR Days .90",
+   "id": "tracked:2026-11-stanford-icu-neuro-l4-r2660958",
+   "employer": "Stanford Health Care (Palo Alto)",
+   "title": "Clinical Nurse (RN), ICU Neurosciences & Medicine (L4) - 12HR Days .90 (R2660958)",
    "location": "PALO ALTO, California, United States of America",
    "url": "https://careers.stanfordhealthcare.org/us/en/job/R2660958",
-   "source": "stanford_health",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-20T15:30:24Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (no close date on the posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": false,
     "experience_years_required": 0,
@@ -407,7 +419,7 @@
   {
    "id": "tracked:2027-kaiser-ncal-next-window",
    "employer": "Kaiser Permanente NorCal",
-   "title": "Nurse Residency — NEXT window (expect early Nov 2026 for ~Mar 2027 start)",
+   "title": "Nurse Residency, Northern California, 2027 Cohort 1 (applications Jan 3-5, 2027, close 8:59 PM PT 1/5; start Apr 5, 2027)",
    "location": "",
    "url": "https://www.kaiserpermanentejobs.org/nurse-residency-career/",
    "source": "tracked",
@@ -416,9 +428,9 @@
    "bh_tag": false,
    "tier": "A",
    "tracked": true,
-   "close_at": null,
-   "close_source": "pattern_from_published_cohorts; MUST re-verify on the program page in Oct 2026",
-   "date_verified_at": "2026-08-23",
+   "close_at": "2027-01-05T20:59:00-08:00",
+   "close_source": "Verified on the employer page text: kaiserpermanentejobs.org/nurse-residency-career, Northern California block, read 2026-11-20 08:30 PT, verbatim: 'Cohort 1 | Application Dates: (Applications close at 8:59 PM PT) January 3 - 5, 2027 | Information Sessions: December 14, 2026, at 12:00 PM PT ... December 18, 2026, 10:00 AM PT | California RN License Deadline: March 28, 2027 | Start Date: April 5, 2027'. Window OPENS Jan 3; closes 8:59 PM PT Jan 5.",
+   "date_verified_at": "2026-11-20T16:30:00Z",
    "license_by": null,
    "required_docs": [
     "resume",
@@ -429,7 +441,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-20T13:34:38Z",
+   "window_checked_at": "2026-11-20T16:43:53Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -15456,7 +15468,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-20T13:34:40Z",
+   "window_checked_at": "2026-11-20T16:43:56Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -29820,7 +29832,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-20T13:34:41Z",
+   "window_checked_at": "2026-11-20T16:43:58Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -34588,7 +34600,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-20T13:34:37Z"
+   "window_checked_at": "2026-11-20T16:43:52Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -35036,7 +35048,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-20T13:34:38Z"
+   "window_checked_at": "2026-11-20T16:43:52Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -35252,7 +35264,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-20T13:34:38Z"
+   "window_checked_at": "2026-11-20T16:43:53Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -35604,7 +35616,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-20T13:34:40Z"
+   "window_checked_at": "2026-11-20T16:43:55Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -36617,7 +36629,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-20T13:34:41Z"
+   "window_checked_at": "2026-11-20T16:43:59Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
@@ -37065,7 +37077,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": null,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
