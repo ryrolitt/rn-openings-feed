@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T16:44:02Z",
+ "generated_at": "2026-11-20T18:51:00Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -37076,6 +37076,56 @@
    "required_docs": [
     "cover_letter",
     "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2027-seneca-school-nurse-maya-angelou-schoo002287",
+   "employer": "Seneca Family of Agencies (Maya Angelou Academy)",
+   "title": "School Nurse (Maya Angelou) - Temporary, Part-Time (SCHOO002287; 8 h/wk Fridays 8:30-4:30, 6 months from March 2027)",
+   "location": "",
+   "url": "https://recruiting2.ultipro.com/SEN1004SFOA/JobBoard/e85807a6-557f-4b7f-b252-ea8bae0291e9/OpportunityDetail?opportunityId=5aa4ba64-8239-4eb5-b6fc-00b03fad56cc",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire. Posted Nov 18, 2026.)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2027-seneca-school-nurse-jba-schoo002286",
+   "employer": "Seneca Family of Agencies (JBA, San Leandro)",
+   "title": "School Nurse (JBA) - Temporary, Part-Time (SCHOO002286; 20 h/wk Tue-Thu, 6 months from March 2027)",
+   "location": "",
+   "url": "https://recruiting2.ultipro.com/SEN1004SFOA/JobBoard/e85807a6-557f-4b7f-b252-ea8bae0291e9/OpportunityDetail?opportunityId=de84c29f-6f74-430d-a663-5fec76b14b19",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire. Posted Nov 18, 2026.)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "cover_letter"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
