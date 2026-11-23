@@ -1,12 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T16:08:19Z",
+ "generated_at": "2026-11-23T17:16:06Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
    "id": "tracked:2026-auto-adventist-health-rn-per-diem-day-shift-75733",
    "employer": "Adventist Health",
-   "title": "RN, Per Diem, Day Shift (Vallejo, CA, United States)",
+   "title": "RN, Per Diem, Day Shift, Psychiatric ICU 2, 8-hour (Vallejo, req 75733, posted 11/23)",
    "location": "Vallejo, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75733",
    "source": "tracked",
@@ -23,7 +23,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": null,
+   "last_seen_live": "2026-11-23T08:40:00-08:00",
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null,
@@ -40,17 +40,29 @@
    }
   },
   {
-   "id": "find:75844",
+   "id": "tracked:2026-auto-adventist-st-helena-med-surg-ft-days-75844",
    "employer": "Adventist Health",
-   "title": "RN, Full Time Regular, Dayshift",
+   "title": "RN, Full Time Regular, Dayshift, Med/Surg Acute 2, 12-hour (Saint Helena, req 75844, posted 11/23)",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75844",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-23T15:30:30Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (auto-promoted; verify on posting)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": "2026-11-23T08:40:00-08:00",
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -1042,7 +1054,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-23T14:05:18Z",
+   "window_checked_at": "2026-11-23T17:15:53Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -16045,7 +16057,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-23T14:05:20Z",
+   "window_checked_at": "2026-11-23T17:15:57Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30409,7 +30421,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-23T14:05:21Z",
+   "window_checked_at": "2026-11-23T17:16:00Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -35625,7 +35637,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-23T14:05:18Z"
+   "window_checked_at": "2026-11-23T17:15:48Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -35841,7 +35853,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T14:05:18Z"
+   "window_checked_at": "2026-11-23T17:15:51Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -36193,7 +36205,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T14:05:20Z"
+   "window_checked_at": "2026-11-23T17:15:56Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -37206,7 +37218,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T14:05:21Z"
+   "window_checked_at": "2026-11-23T17:16:01Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
