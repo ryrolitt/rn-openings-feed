@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T23:40:37Z",
+ "generated_at": "2026-11-24T00:43:58Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -35189,7 +35189,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T21:34:36Z"
+   "window_checked_at": "2026-11-24T00:43:58Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
