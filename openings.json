@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T02:50:39Z",
+ "generated_at": "2026-11-24T03:53:08Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -4772,41 +4772,6 @@
    }
   },
   {
-   "id": "tracked:2026-stanford-snhc-neurosurgery-clinical-nurse-r2661561",
-   "employer": "Stanford Health Care - Neuro Surgery, Stanford Neuroscience Health Center (213 Quarry Rd, Palo Alto)",
-   "title": "Clinical Nurse (RN), Neuro Surgery SNHC, 1.0 FTE Days 10hr, Hybrid (R2661561)",
-   "location": "PALO ALTO, California, United States of America",
-   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661561",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": "2026-11-12T15:30:18Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling (SHC careers page)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "full-time",
-    "work_city": "Palo Alto",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-12T15:34:12Z"
-   }
-  },
-  {
    "id": "find:R2661581",
    "employer": "stanford_health",
    "title": "Relief Oncology Nurse Navigator (RN), Thoracic",
@@ -4924,6 +4889,30 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-12T15:34:10Z"
+   }
+  },
+  {
+   "id": "find:R2661561",
+   "employer": "stanford_health",
+   "title": "Clinical Nurse (RN), Neuro Surgery SNHC – 1.0 FTE, Days (10HR)",
+   "location": "PALO ALTO, California, United States of America",
+   "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661561",
+   "source": "stanford_health",
+   "kind": "posting",
+   "found_at": "2026-11-12T15:30:18Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "full-time",
+    "work_city": "Palo Alto",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-12T15:34:12Z"
    }
   },
   {
@@ -35189,7 +35178,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-24T00:43:58Z"
+   "window_checked_at": "2026-11-24T03:53:08Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
