@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T03:53:08Z",
+ "generated_at": "2026-11-24T05:58:42Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1054,7 +1054,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-24T02:50:35Z",
+   "window_checked_at": "2026-11-24T05:58:38Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -16046,7 +16046,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-24T02:50:37Z",
+   "window_checked_at": "2026-11-24T05:58:39Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30410,7 +30410,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-24T02:50:37Z",
+   "window_checked_at": "2026-11-24T05:58:40Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -35626,7 +35626,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-24T02:50:35Z"
+   "window_checked_at": "2026-11-24T05:58:38Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -35842,7 +35842,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-24T02:50:35Z"
+   "window_checked_at": "2026-11-24T05:58:38Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -36194,7 +36194,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-24T02:50:37Z"
+   "window_checked_at": "2026-11-24T05:58:39Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -36387,28 +36387,6 @@
    "required_docs": [
     "resume"
    ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null
-  },
-  {
-   "id": "tracked:2026-cns-emeryville-rn",
-   "employer": "Centre for Neuro Skills (Emeryville)",
-   "title": "Registered Nurse (PRN, 9201244975792_1)",
-   "location": "",
-   "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a28fb56c-02fc-46e3-8520-84218f5498d1&ccId=19000101_000001&type=MP&lang=en_US",
-   "source": "tracked",
-   "kind": "posting",
-   "found_at": null,
-   "bh_tag": null,
-   "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling; ADP posting shows no close date",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [],
    "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
@@ -37207,7 +37185,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-24T02:50:37Z"
+   "window_checked_at": "2026-11-24T05:58:40Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
