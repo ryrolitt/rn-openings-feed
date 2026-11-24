@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T16:27:59Z",
+ "generated_at": "2026-11-24T17:33:17Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -38244,7 +38244,7 @@
   {
    "id": "tracked:2026-auto-stanford-university-research-nurse-1-201812",
    "employer": "Stanford University",
-   "title": "Research Nurse 1 (Stanford, CA, United States)",
+   "title": "Research Nurse 1, CTRU (Clinical and Translational Research Unit), req 201812, posted 11/23, FT",
    "location": "",
    "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/job/201812",
    "source": "tracked",
@@ -38260,6 +38260,32 @@
    "required_docs": [
     "cover_letter",
     "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-va-palo-alto-rn-case-management-894038500",
+   "employer": "VA Palo Alto Health Care System (Veterans Health Administration)",
+   "title": "RN - Case Management (CBSW-13123077-27-BSJ, control 894038500, 1 vacancy, FT, Palo Alto; capped at 30 applications)",
+   "location": "",
+   "url": "https://www.usajobs.gov/job/894038500",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "usajobs.gov/job/894038500 read 2026-11-24 08:37 PT, verbatim: 'The complete application package must be submitted by 11:59 PM (ET) on 12/03/2026' and 'This job will close when we have received 30 applications which may be sooner than the closing date.' Ceiling 12/3, may close any day. close_at left null because the entry is abandoned.",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "resume",
+    "transcript",
+    "license"
    ],
    "last_seen_live": true,
    "new_grad_window": false,
