@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T00:43:58Z",
+ "generated_at": "2026-11-24T02:50:39Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -1054,7 +1054,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-23T23:40:33Z",
+   "window_checked_at": "2026-11-24T02:50:35Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -16057,7 +16057,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-23T23:40:34Z",
+   "window_checked_at": "2026-11-24T02:50:37Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -30421,7 +30421,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-23T23:40:35Z",
+   "window_checked_at": "2026-11-24T02:50:37Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -35637,7 +35637,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-23T23:40:33Z"
+   "window_checked_at": "2026-11-24T02:50:35Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -35853,7 +35853,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T23:40:33Z"
+   "window_checked_at": "2026-11-24T02:50:35Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -36205,7 +36205,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T23:40:34Z"
+   "window_checked_at": "2026-11-24T02:50:37Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -37218,7 +37218,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-23T23:40:35Z"
+   "window_checked_at": "2026-11-24T02:50:37Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
