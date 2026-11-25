@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T15:31:36Z",
+ "generated_at": "2026-11-25T22:35:20Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -28,15 +28,15 @@
    "window_state": null,
    "window_checked_at": null,
    "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) years of inpatient experience in the treatment of individuals with severe mental illness",
     "behavioral_health": true,
     "employment_type": "on-call",
-    "work_city": "San Leandro",
+    "work_city": "Oakland",
     "restricted_to_internal": false,
     "deadline_verbatim": "",
-    "checked_at": "2026-11-05T17:54:01Z"
+    "checked_at": "2026-11-25T15:35:24Z"
    }
   },
   {
@@ -50,7 +50,18 @@
    "found_at": "2026-11-25T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two years of recent Registered Nurse clinical experience in an Ambulatory or Emergency Department setting",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "Redwood City",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-25T15:32:40Z"
+   }
   },
   {
    "id": "find:7992",
@@ -63,7 +74,18 @@
    "found_at": "2026-11-25T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum of two years full-time RN experience",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-25T15:33:20Z"
+   }
   },
   {
    "id": "find:12038",
@@ -76,7 +98,18 @@
    "found_at": "2026-11-25T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum two years of recent Registered Nurse clinical experience in a Pediatric Emergency Department, or combined Pediatric/ Adult Emergency Department.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "San Francisco, CA",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-25T15:33:22Z"
+   }
   },
   {
    "id": "find:11929",
@@ -89,7 +122,18 @@
    "found_at": "2026-11-25T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Two (2) or more years of recent pediatric nursing experience with at least 1 year in oncology, or 2 years of other directly relevant clinical experience.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-25T15:34:22Z"
+   }
   },
   {
    "id": "find:11934",
@@ -102,7 +146,18 @@
    "found_at": "2026-11-25T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "A minimum of two (2) years of recent RN experience in a Pediatric Cardiac ICU.",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-25T15:34:24Z"
+   }
   },
   {
    "id": "find:12250",
@@ -115,7 +170,18 @@
    "found_at": "2026-11-25T15:30:49Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false
+   "tracked": false,
+   "screen": {
+    "new_grad_ok": false,
+    "experience_years_required": 2,
+    "experience_quote": "Minimum of two (2) years of previous healthcare related experience",
+    "behavioral_health": false,
+    "employment_type": "",
+    "work_city": "San Francisco",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-25T15:35:22Z"
+   }
   },
   {
    "id": "find:5931",
@@ -1951,7 +2017,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-25T13:26:24Z",
+   "window_checked_at": "2026-11-25T22:35:13Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -16907,7 +16973,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-25T13:26:26Z",
+   "window_checked_at": "2026-11-25T22:35:14Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -31271,7 +31337,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-25T13:26:26Z",
+   "window_checked_at": "2026-11-25T22:35:15Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -36039,7 +36105,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T15:31:35Z"
+   "window_checked_at": "2026-11-25T22:35:12Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -36487,7 +36553,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-25T13:26:23Z"
+   "window_checked_at": "2026-11-25T22:35:13Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -36703,7 +36769,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T13:26:24Z"
+   "window_checked_at": "2026-11-25T22:35:13Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -37055,7 +37121,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T13:26:25Z"
+   "window_checked_at": "2026-11-25T22:35:14Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -37544,7 +37610,7 @@
    "required_docs": [
     "resume"
    ],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -38046,7 +38112,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T13:26:26Z"
+   "window_checked_at": "2026-11-25T22:35:15Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
