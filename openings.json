@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T00:38:33Z",
+ "generated_at": "2026-11-26T01:41:44Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -17856,7 +17856,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-25T22:35:14Z",
+   "window_checked_at": "2026-11-26T01:41:39Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -34230,7 +34230,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-25T22:35:13Z",
+   "window_checked_at": "2026-11-26T01:41:37Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -34301,7 +34301,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-25T22:35:15Z",
+   "window_checked_at": "2026-11-26T01:41:41Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -37054,8 +37054,8 @@
    ],
    "last_seen_live": true,
    "new_grad_window": true,
-   "window_state": "unknown",
-   "window_checked_at": "2026-11-25T22:35:12Z"
+   "window_state": "unreachable",
+   "window_checked_at": "2026-11-26T01:41:36Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -37503,7 +37503,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-25T22:35:13Z"
+   "window_checked_at": "2026-11-26T01:41:36Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -37719,7 +37719,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T22:35:13Z"
+   "window_checked_at": "2026-11-26T01:41:36Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -37999,7 +37999,7 @@
    "required_docs": [
     "resume"
    ],
-   "last_seen_live": false,
+   "last_seen_live": true,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -38071,7 +38071,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T22:35:14Z"
+   "window_checked_at": "2026-11-26T01:41:38Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -39038,7 +39038,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-25T22:35:15Z"
+   "window_checked_at": "2026-11-26T01:41:41Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
@@ -39724,8 +39724,8 @@
    "required_docs": [],
    "last_seen_live": true,
    "new_grad_window": true,
-   "window_state": null,
-   "window_checked_at": null
+   "window_state": "closed",
+   "window_checked_at": "2026-11-26T01:41:43Z"
   },
   {
    "id": "tracked:2027-02-providence-ca-rn-residency",
@@ -39746,8 +39746,8 @@
    "required_docs": [],
    "last_seen_live": true,
    "new_grad_window": true,
-   "window_state": null,
-   "window_checked_at": null
+   "window_state": "unknown",
+   "window_checked_at": "2026-11-26T01:41:43Z"
   }
  ]
 }
