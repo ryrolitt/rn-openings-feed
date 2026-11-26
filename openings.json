@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T18:26:51Z",
+ "generated_at": "2026-11-26T20:33:25Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -3202,7 +3202,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-26T17:23:56Z",
+   "window_checked_at": "2026-11-26T20:33:20Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -3878,29 +3878,17 @@
    }
   },
   {
-   "id": "tracked:2026-11-sutter-pamf-san-carlos-pacu-admissions-perdiem-r145745",
-   "employer": "Sutter Health - Palo Alto Medical Foundation (San Carlos)",
-   "title": "Ambulatory Services Nurse II, PACU Admissions Per Diem (R-145745)",
+   "id": "find:R-145745",
+   "employer": "sutter",
+   "title": "Ambulatory Services Nurse II, PACU Admissions Per Diem",
    "location": "San Carlos, California, United States of America",
    "url": "https://jobs.sutterhealth.org/us/en/job/R-145745",
-   "source": "tracked",
+   "source": "sutter",
    "kind": "posting",
    "found_at": "2026-11-18T15:30:22Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": true,
-   "close_at": null,
-   "close_source": "rolling_direct_hire (no close date on the posting)",
-   "date_verified_at": null,
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": false,
-   "window_state": null,
-   "window_checked_at": null,
+   "tracked": false,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -18144,7 +18132,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-26T17:23:58Z",
+   "window_checked_at": "2026-11-26T20:33:22Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -32499,7 +32487,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-26T17:23:59Z",
+   "window_checked_at": "2026-11-26T20:33:22Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -37267,7 +37255,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T17:23:56Z"
+   "window_checked_at": "2026-11-26T20:33:18Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -37715,7 +37703,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-26T17:23:56Z"
+   "window_checked_at": "2026-11-26T20:33:18Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -37931,7 +37919,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T17:23:56Z"
+   "window_checked_at": "2026-11-26T20:33:20Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -38283,7 +38271,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T17:23:58Z"
+   "window_checked_at": "2026-11-26T20:33:21Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -39277,7 +39265,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T17:23:59Z"
+   "window_checked_at": "2026-11-26T20:33:22Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
@@ -39725,7 +39713,7 @@
     "cover_letter",
     "resume"
    ],
-   "last_seen_live": true,
+   "last_seen_live": false,
    "new_grad_window": false,
    "window_state": null,
    "window_checked_at": null
@@ -39964,7 +39952,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-26T17:24:00Z"
+   "window_checked_at": "2026-11-26T20:33:24Z"
   },
   {
    "id": "tracked:2027-02-providence-ca-rn-residency",
@@ -39986,7 +39974,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T17:24:00Z"
+   "window_checked_at": "2026-11-26T20:33:24Z"
   },
   {
    "id": "tracked:2026-11-marin-county-csu-mh-rn-perdiem-1449",
