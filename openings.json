@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T16:20:54Z",
+ "generated_at": "2026-11-26T17:24:01Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -139,6 +139,67 @@
    }
   },
   {
+   "id": "tracked:2026-11-new-bridge-berkeley-sud-nurse-pt-overnight",
+   "employer": "New Bridge Foundation (Berkeley; adult SUD residential)",
+   "title": "Nurse (LVN or RN), part-time overnight Sat-Sun plus possible on-call",
+   "location": "Berkeley, CA",
+   "url": "https://www.newbridgefoundation.org/about-new-bridge-foundation/careers/",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-26T00:21:49Z",
+   "bh_tag": true,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (site form, no ATS; no posted date)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
+  },
+  {
+   "id": "tracked:2026-11-nahc-oakland-rn1-oncall-117817",
+   "employer": "Native American Health Center (Oakland FQHC)",
+   "title": "Registered Nurse I, On Call, clinic (Paycom job 117817)",
+   "location": "Oakland, CA",
+   "url": "https://www.paycomonline.net/v4/ats/web.php/portal/318405C121B96F66E274311318E2B527/jobs/117817",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-26T00:21:49Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (Paycom datePosted 2024-04-24, evergreen)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": false,
+    "employment_type": "on-call",
+    "work_city": "Oakland",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-26T15:33:05Z"
+   }
+  },
+  {
    "id": "find:cr:progress-foundation-600392",
    "employer": "Progress Foundation",
    "title": "Registered Nurse, Dore Urgent Care Clinic (Paycom 600392, datePosted 2026-11-20; sibling of the staged per diem 591925)",
@@ -163,19 +224,6 @@
    }
   },
   {
-   "id": "find:cr:new-bridge-foundation-nurse",
-   "employer": "New Bridge Foundation",
-   "title": "Nurse (LVN or RN), part-time overnight weekends, adult SUD residential",
-   "location": "Berkeley, CA",
-   "url": "https://www.newbridgefoundation.org/about-new-bridge-foundation/careers/",
-   "source": "coverage_review",
-   "kind": "posting",
-   "found_at": "2026-11-26T00:21:49Z",
-   "bh_tag": true,
-   "tier": null,
-   "tracked": false
-  },
-  {
    "id": "find:cr:ncbhs-sacramento-C87B0ECFB7",
    "employer": "Sacramento Behavioral Healthcare Hospital",
    "title": "Registered Nurse (Inpatient Psychiatric), Full-Time (check against the 11/9 submission before intake)",
@@ -187,30 +235,6 @@
    "bh_tag": true,
    "tier": null,
    "tracked": false
-  },
-  {
-   "id": "find:cr:nahc-rn-on-call-117817",
-   "employer": "Native American Health Center",
-   "title": "Registered Nurse, On Call (RN I), clinic triage",
-   "location": "Oakland, CA",
-   "url": "https://www.paycomonline.net/v4/ats/web.php/portal/318405C121B96F66E274311318E2B527/jobs/117817",
-   "source": "coverage_review",
-   "kind": "posting",
-   "found_at": "2026-11-26T00:21:49Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": false,
-    "employment_type": "on-call",
-    "work_city": "Oakland",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-26T15:33:05Z"
-   }
   },
   {
    "id": "tracked:2026-auto-telecare-corporation-acute-rn-supervisor-on-call-mental-heal-te031178",
@@ -600,41 +624,29 @@
    }
   },
   {
-   "id": "find:76067",
+   "id": "tracked:2026-11-adventist-st-helena-medsurg-pt-days-76069",
    "employer": "Adventist Health",
-   "title": "RN, Full Time, Days",
-   "location": "Saint Helena, CA, United States",
-   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76067",
-   "source": "adventist",
-   "kind": "posting",
-   "found_at": "2026-11-26T00:06:51Z",
-   "bh_tag": false,
-   "tier": null,
-   "tracked": false,
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "Full Time",
-    "work_city": "Saint Helena",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-11-26T00:09:00Z"
-   }
-  },
-  {
-   "id": "find:76069",
-   "employer": "Adventist Health",
-   "title": "RN, Part Time, Days",
+   "title": "RN, Part Time, Days, Med/Surg Acute 2, 12-hour (Saint Helena, req 76069, posted 11/25)",
    "location": "Saint Helena, CA, United States",
    "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76069",
-   "source": "adventist",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-26T00:06:51Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (Oracle ExternalPostedEndDate null)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -645,6 +657,42 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "",
     "checked_at": "2026-11-26T00:09:04Z"
+   }
+  },
+  {
+   "id": "tracked:2026-11-adventist-st-helena-ed-ft-days-76067",
+   "employer": "Adventist Health",
+   "title": "RN, Full Time, Days, Emergency Department, 12-hour (Saint Helena, req 76067, posted 11/25)",
+   "location": "Saint Helena, CA, United States",
+   "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76067",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": "2026-11-26T00:06:51Z",
+   "bh_tag": false,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (Oracle ExternalPostedEndDate null)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "Full Time",
+    "work_city": "Saint Helena",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-11-26T00:09:00Z"
    }
   },
   {
@@ -768,17 +816,29 @@
    }
   },
   {
-   "id": "find:R2661074",
-   "employer": "stanford_health",
-   "title": "Clinical Nurse II (RN) - OBGYN Gynecology Multi-Site - Full Time",
+   "id": "tracked:2026-11-stanford-obgyn-cn2-r2661074",
+   "employer": "Stanford Health Care (Palo Alto)",
+   "title": "Clinical Nurse II (RN) - OBGYN Gynecology Multi-Site - Full Time (R2661074)",
    "location": "PALO ALTO, California, United States of America",
    "url": "https://careers.stanfordhealthcare.org/us/en/job/R2661074",
-   "source": "stanford_health",
+   "source": "tracked",
    "kind": "posting",
    "found_at": "2026-11-26T00:06:38Z",
    "bh_tag": false,
    "tier": null,
-   "tracked": false,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "rolling_direct_hire (datePosted 2026-11-26)",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null,
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -3142,7 +3202,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-26T14:15:19Z",
+   "window_checked_at": "2026-11-26T17:23:56Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -18084,7 +18144,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-26T14:15:20Z",
+   "window_checked_at": "2026-11-26T17:23:58Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -32439,7 +32499,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-26T14:15:21Z",
+   "window_checked_at": "2026-11-26T17:23:59Z",
    "screen": {
     "new_grad_ok": true,
     "experience_years_required": 0,
@@ -37207,7 +37267,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T14:15:18Z"
+   "window_checked_at": "2026-11-26T17:23:56Z"
   },
   {
    "id": "tracked:2026-08-va-rn-open-continuous",
@@ -37655,7 +37715,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "scheduled",
-   "window_checked_at": "2026-11-26T14:15:18Z"
+   "window_checked_at": "2026-11-26T17:23:56Z"
   },
   {
    "id": "tracked:2026-seneca-perdiem-youth-bh-rn",
@@ -37871,7 +37931,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T14:15:19Z"
+   "window_checked_at": "2026-11-26T17:23:56Z"
   },
   {
    "id": "tracked:2026-john-muir-bhc-psych-perdiem",
@@ -38223,7 +38283,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T14:15:20Z"
+   "window_checked_at": "2026-11-26T17:23:58Z"
   },
   {
    "id": "tracked:2026-kaiser-ncal-recruiter-kaylee-everson",
@@ -39217,7 +39277,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T14:15:21Z"
+   "window_checked_at": "2026-11-26T17:23:59Z"
   },
   {
    "id": "tracked:2027-spring-el-camino-newgrad-er",
@@ -39904,7 +39964,7 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "closed",
-   "window_checked_at": "2026-11-26T14:15:22Z"
+   "window_checked_at": "2026-11-26T17:24:00Z"
   },
   {
    "id": "tracked:2027-02-providence-ca-rn-residency",
@@ -39926,7 +39986,32 @@
    "last_seen_live": true,
    "new_grad_window": true,
    "window_state": "unknown",
-   "window_checked_at": "2026-11-26T14:15:23Z"
+   "window_checked_at": "2026-11-26T17:24:00Z"
+  },
+  {
+   "id": "tracked:2026-11-marin-county-csu-mh-rn-perdiem-1449",
+   "employer": "County of Marin BHRS (San Rafael; Crisis Stabilization Unit)",
+   "title": "Mental Health Registered Nurse (CSU) (Temporary/Per Diem), job 1449-TC-26-09 (NEOGOV 5472541)",
+   "location": "",
+   "url": "https://www.governmentjobs.com/careers/marincounty/jobs/5472541",
+   "source": "tracked",
+   "kind": "posting",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": null,
+   "close_source": "NEOGOV print view read 2026-11-26 08:30 PT: 'CLOSING DATE Continuous', opened 09/04/2026",
+   "date_verified_at": null,
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": false,
+   "window_state": null,
+   "window_checked_at": null
   }
  ]
 }
