@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T01:41:44Z",
+ "generated_at": "2026-11-26T02:44:46Z",
  "region": "San Francisco Bay Area",
  "postings": [
   {
@@ -34244,44 +34244,6 @@
    }
   },
   {
-   "id": "tracked:2027-stanford-cohort46-newgrad",
-   "employer": "Stanford Health Care",
-   "title": "New Grad RN Residency Cohort 46 - applications open Nov 9-15 2026, cohort starts Apr 12 2027",
-   "location": "",
-   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
-   "source": "tracked",
-   "kind": "residency_window",
-   "found_at": "2026-09-06T03:17:37Z",
-   "bh_tag": false,
-   "tier": "A",
-   "tracked": true,
-   "close_at": "2026-11-15T23:59:00-08:00",
-   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
-   "date_verified_at": "2026-10-07T01:25:00Z",
-   "license_by": null,
-   "required_docs": [
-    "cover_letter",
-    "resume",
-    "transcript",
-    "essays_x3"
-   ],
-   "last_seen_live": true,
-   "new_grad_window": true,
-   "window_state": "open",
-   "window_checked_at": "2026-11-11T04:03:07Z",
-   "screen": {
-    "new_grad_ok": true,
-    "experience_years_required": 0,
-    "experience_quote": "",
-    "behavioral_health": true,
-    "employment_type": "full-time",
-    "work_city": "",
-    "restricted_to_internal": false,
-    "deadline_verbatim": "",
-    "checked_at": "2026-10-16T14:34:35Z"
-   }
-  },
-  {
    "id": "tracked:2027-lucile-packard-newgrad",
    "employer": "Lucile Packard Children's Hospital Stanford",
    "title": "New Graduate RN Residency - Fall 2027 cohort (application window Mar 10-17, 2027; act by Tue 3/16)",
@@ -34312,6 +34274,39 @@
     "restricted_to_internal": false,
     "deadline_verbatim": "Application Window: Wednesday, March 10, 2027 – Wednesday, March 17, 2027",
     "checked_at": "2026-10-01T14:33:15Z"
+   }
+  },
+  {
+   "id": "tracked:2027-fall-stanford-cohort47-newgrad",
+   "employer": "Stanford Health Care (Palo Alto)",
+   "title": "Nurse Residency Program, Cohort 47 (applications Apr 26 - May 2, 2027; starts Sep 27, 2027; act by Sat 5/1)",
+   "location": "",
+   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": "2026-09-06T03:17:37Z",
+   "bh_tag": false,
+   "tier": "A",
+   "tracked": true,
+   "close_at": "2027-05-02T00:00:00-07:00",
+   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-11-25 18:40 PT, verbatim: 'Cohort 47 Applications Open: April 26th, 2027 - May 2nd, 2027 ... Cohort 47 starts September 27th, 2027.' No clock time is printed, so close_at is the START of 5/2 (last safe day Sat 5/1).",
+   "date_verified_at": "2026-11-26T02:40:00Z",
+   "license_by": null,
+   "required_docs": [],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "scheduled",
+   "window_checked_at": "2026-11-26T02:44:45Z",
+   "screen": {
+    "new_grad_ok": true,
+    "experience_years_required": 0,
+    "experience_quote": "",
+    "behavioral_health": true,
+    "employment_type": "full-time",
+    "work_city": "",
+    "restricted_to_internal": false,
+    "deadline_verbatim": "",
+    "checked_at": "2026-10-16T14:34:35Z"
    }
   },
   {
@@ -38147,6 +38142,33 @@
    "window_checked_at": null
   },
   {
+   "id": "tracked:2027-stanford-cohort46-newgrad",
+   "employer": "Stanford Health Care",
+   "title": "New Grad RN Residency Cohort 46 - applications open Nov 9-15 2026, cohort starts Apr 12 2027",
+   "location": "",
+   "url": "https://careers.stanfordhealthcare.org/us/en/nurse-residency-program",
+   "source": "tracked",
+   "kind": "residency_window",
+   "found_at": null,
+   "bh_tag": null,
+   "tier": null,
+   "tracked": true,
+   "close_at": "2026-11-15T23:59:00-08:00",
+   "close_source": "Verified on the employer page text: careers.stanfordhealthcare.org/us/en/nurse-residency-program, read 2026-10-06, verbatim under 'Critical Dates', 'Cohort 46': 'Applications Open: November 9, 2026 – November 15, 2026'. No time of day and no statement that the 15th is inclusive, so act by Sat 11/14.",
+   "date_verified_at": "2026-10-07T01:25:00Z",
+   "license_by": null,
+   "required_docs": [
+    "cover_letter",
+    "resume",
+    "transcript",
+    "essays_x3"
+   ],
+   "last_seen_live": true,
+   "new_grad_window": true,
+   "window_state": "open",
+   "window_checked_at": "2026-11-11T04:03:07Z"
+  },
+  {
    "id": "tracked:2026-smu-simulation-educator-oakland",
    "employer": "Samuel Merritt University, Health Sciences Simulation Center (Oakland)",
    "title": "Simulation Educator, full time, onsite Oakland, up to $108,000 (Workday JR101549)",
@@ -39428,8 +39450,8 @@
    "tier": null,
    "tracked": true,
    "close_at": "2026-12-01T23:59:00-08:00",
-   "close_source": "governmentjobs.com/careers/sanmateo/jobs/newprint/5504446 read 2026-11-17 13:52 PT, verbatim 'CLOSING DATE 12/1/2026 11:59 PM Pacific'",
-   "date_verified_at": null,
+   "close_source": "Verified on the employer page text: governmentjobs.com/careers/sanmateo/jobs/newprint/5504446, read 2026-11-17 13:52 PT and again 2026-11-25 18:45 PT, verbatim 'CLOSING DATE 12/1/2026 11:59 PM Pacific' and 'Final Filing Date: Tuesday, December 1, 2026, at 11:59PM PST'",
+   "date_verified_at": "2026-11-26T02:45:00Z",
    "license_by": null,
    "required_docs": [
     "resume",
